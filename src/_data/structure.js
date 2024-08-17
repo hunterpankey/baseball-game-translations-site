@@ -96,7 +96,7 @@ module.exports = {
 	 * you can leave it empty below.
 	 *
 	 * For example, given tag "frontmatter", the Tag List would be found at
-	 * http://localhost:8080/tags/frontmatter/ during development and
+	 * http://localhost:8088/tags/frontmatter/ during development and
 	 * https://your-domain/tags/frontmatter/ in production
 	 *
 	 */

@@ -61,6 +61,21 @@
 		]
 	},
 	{
+		"slug": "hunter-baun",
+		"name": "Hunter Baun",
+		"image": "/assets/images/authors/hunter-baun.png",
+		"bio": "Learning Japanese, playing games, making games, doin' other stuff...",
+		"companyWebsites": [
+			{
+				"label": "Hunter Baun",
+				"url": "https://www.hunterbaun.com",
+				"email": "hunter@hunterbaun.com"
+			}
+		],
+		"personalWebsites": [],
+		"socialWebsites": []
+	},
+	{
 		"slug": "roxanne-darling",
 		"name": "Roxanne Darling",
 		"image": "/assets/images/authors/roxanne-darling.jpg",
@@ -122,4 +137,3 @@
 		]
 	}
 ]
-

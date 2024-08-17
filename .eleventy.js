@@ -23,9 +23,9 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPlugin(syntaxHighlight)
 
 
-  eleventyConfig.addPlugin(pluginSvgSprite, {
-    path: "./src/assets/svg",
-    globalClasses: "fill-current"
+	eleventyConfig.addPlugin(pluginSvgSprite, {
+		path: "./src/assets/svg",
+		globalClasses: "fill-current"
 	})
 
 	/**
@@ -39,10 +39,10 @@ module.exports = function (eleventyConfig) {
 	/**
 	 * Transforms
 	 * @link https://www.11ty.io/docs/config/#transforms
-   Object.keys(transforms).forEach((transformName) => {
-     eleventyConfig.addTransform(transformName, transforms[transformName])
-    })
-    */
+	 Object.keys(transforms).forEach((transformName) => {
+		 eleventyConfig.addTransform(transformName, transforms[transformName])
+		})
+		*/
 
 	/**
 	 * Shortcodes
@@ -74,10 +74,17 @@ module.exports = function (eleventyConfig) {
 	 */
 	eleventyConfig.addCollection('post', (collection) => {
 		if (process.env.ELEVENTY_ENV !== 'production')
-			return [...collection.getFilteredByGlob('./src/posts/*.md')]
+			return [...collection.getFilteredByGlob('./src/posts/**/*.md')]
 		else
-			return [...collection.getFilteredByGlob('./src/posts/*.md')].filter((post) => !post.data.draft)
+			return [...collection.getFilteredByGlob('./src/posts/**/*.md')].filter((post) => !post.data.draft)
 	})
+
+	eleventyConfig.addCollection('game', (collection) => {
+		if (process.env.ELEVENTY_ENV !== 'production')
+			return [...collection.getFilteredByGlob('./src/games/**/*.md')];
+		else
+			return [...collection.getFilteredByGlob('./src/games/**/*.md')].filter((post) => !post.data.draft);
+	});
 
 	// TAGLIST used from the official eleventy-base-blog  https://github.com/11ty/eleventy-base-blog/blob/master/.eleventy.js
 	eleventyConfig.addCollection('tagList', function (collection) {
@@ -92,6 +99,7 @@ module.exports = function (eleventyConfig) {
 						case 'authors':
 						case 'pages':
 						case 'post':
+						case 'game':
 							return false
 					}
 
@@ -154,6 +162,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addLayoutAlias('base', 'layouts/base.njk')
 	eleventyConfig.addLayoutAlias('page', 'layouts/page.njk')
 	eleventyConfig.addLayoutAlias('post', 'layouts/post.njk')
+	eleventyConfig.addLayoutAlias('game', 'layouts/game.njk');
 	eleventyConfig.addLayoutAlias('author', 'layouts/author.njk')
 
 	/**
@@ -179,18 +188,18 @@ module.exports = function (eleventyConfig) {
 	// 			},
 	// 		},
 	// 	},
-		// Set local server 404 fallback
-		// callbacks: {
-		// 	ready: function (err, browserSync) {
-		// 		const content_404 = fs.readFileSync('dist/404.html')
+	// Set local server 404 fallback
+	// callbacks: {
+	// 	ready: function (err, browserSync) {
+	// 		const content_404 = fs.readFileSync('dist/404.html')
 
-		// 		browserSync.addMiddleware('*', (req, res) => {
-		// 			// Provides the 404 content without redirect.
-		// 			res.write(content_404)
-		// 			res.end()
-		// 		})
-		// 	},
-		// },
+	// 		browserSync.addMiddleware('*', (req, res) => {
+	// 			// Provides the 404 content without redirect.
+	// 			res.write(content_404)
+	// 			res.end()
+	// 		})
+	// 	},
+	// },
 	// })
 
 	return {
