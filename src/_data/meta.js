@@ -3,7 +3,7 @@ module.exports = {
 	siteName: "Baseball Game Translations",
 	siteDescription:
 		'Game translations for Japanese baseball games to help people play',
-	siteImage: '/assets/images/site/default.png',
+	siteImage: '/assets/images/card-default.png',
 	lang: 'en',
 	locale: 'en_us',
 	authorName: 'Hunter Baun',
