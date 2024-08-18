@@ -1,6 +1,6 @@
 ---
 title: Players
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: How character stats and levels work in relation to player levels and growth.
 game: Powerful Pros 2022-2023

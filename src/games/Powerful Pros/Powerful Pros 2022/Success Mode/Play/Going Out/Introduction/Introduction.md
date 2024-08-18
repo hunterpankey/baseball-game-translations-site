@@ -1,6 +1,6 @@
 ---
 title: Introduction to Going Out
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: Explanation of options when "Going Out" is selected as the week's action
 draft: 

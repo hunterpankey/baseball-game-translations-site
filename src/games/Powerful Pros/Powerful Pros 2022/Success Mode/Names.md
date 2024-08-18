@@ -1,6 +1,6 @@
 ---
 title: Names and Characters
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: Success Mode event that occurs just before playing the first game. Player and teammates visit a nearby school and see their baseball program in action.
 draft: 
@@ -10,11 +10,11 @@ category: Miscellaneous
 seo:
   title:
   description:
-  image: card-default.png
+  image: games/PowerfulPros/2022/general/success mode splash screen.png
 images: # relative to /src/assets/images/
-  feature: card-default.png
-  thumb: 
-  slide:
+  feature: games/PowerfulPros/2022/general/success mode splash screen.png
+  thumb: games/PowerfulPros/2022/general/success mode splash screen.png
+  slide: games/PowerfulPros/2022/general/success mode splash screen.png
 tags:
   - game
   - baseball

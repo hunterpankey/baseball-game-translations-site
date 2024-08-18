@@ -33,17 +33,17 @@ jobs:
           path: ./.cache
           key: ${{ runner.os }}-eleventy-fetch-cache
 
-      # - run: npm install
-      - name: Run install
+      - name: Run 'yarn install'
         uses: borales/actions-yarn@v4
         with:
           cmd: install # will run `yarn install` command
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }} # if needed
+
       - run: npm run build
       #      - run: npx @11ty/eleventy
 
-      - name: Deploy
+      - name: Deploy dist folder to gh-pages branch
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:

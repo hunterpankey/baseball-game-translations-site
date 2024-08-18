@@ -1,5 +1,5 @@
 ---
-title: About Title # will be overwritten by SEO.title below
+title: About This Site # will be overwritten by SEO.title below
 date: 2020-08-05
 layout: page
 eleventyNavigation:
@@ -7,41 +7,15 @@ eleventyNavigation:
   title: About # as it will appear in the nav
   order: 2 # order to display in the nav
 seo:
-  title: About Us # overrides 'title' above on both Page and META
+  title: About This Site # overrides 'title' above on both Page and META
   description:
   image:
 ---
 
-{% wrap "bg-red-100 mt-4 border border-red-300 rounded-lg underline" %}
+Hi, I'm Hunter, But a Unique One! This is one of my many half-done projects that I'm having fun working on these days (Summer 2024).
 
-Text courtesy [Fillerama.io](http://fillerama.io/)
+Man, I love playing baseball games with simulation or RPG elements. I miss the MVP series, and The Show is fine, but is annoying in a bunch of ways. I've been learning, or trying to learn, Japanese for a long time, and I'm finally at the point where I can play games like Pro Yakyuu Spirits and Pawa Pros, though I'm still not that good with the dialogue and conversations. Anyway...
 
-{% endwrap %}
+I wanted to use these games to practice and learn and improve my Japanese, so I started taking screen shots and transcribing the text to work with. Before I knew it, I had a lot of material, so I started this project in hopes that some other people would find it useful. I have no idea if I'm going to finish any of the modes or get to a point of completion for the materials for these games, but hopefully you can find something useful here. I'm trying to make it as organized as possible, but as I haven't played most of the modes to completion, some of the taxonomy of activities, screens, and dialogues may shift around a bit, or may just be badly organized forever.
 
-## I hear the jury's still out on science.
-
-Guy's a pro. It's a hug, Michael. I'm hugging you. Michael! I care deeply for nature. That's what it said on 'Ask Jeeves.' Across from where?
-
-No, I did not kill Kitty. However, I am going to oblige and answer the nice officer's questions because I am an honest man with no secrets to hide. **Not tricks, Michael, illusions.** _Really?_ Did nothing cancel?
-
-## There's so many poorly chosen words in that sentence.
-
-No! I was ashamed to be SEEN with you. I like being with you. That's why you always leave a note! It's called 'taking advantage.' It's what gets you ahead in life. Steve Holt!
-
-1. Michael!
-2. What's Spanish for "I know you speak English?"
-3. What's Spanish for "I know you speak English?"
-
-### No… but I'd like to be asked!
-
-I don't understand the question, and I won't respond to it. Oh, you're gonna be in a coma, all right. I don't criticize you! And if you're worried about criticism, sometimes a diet is the best defense.
-
-- No… but I'd like to be asked!
-- Guy's a pro.
-- Well, what do you expect, mother?
-
-That's what it said on 'Ask Jeeves.' I hear the jury's still out on science. It's called 'taking advantage.' It's what gets you ahead in life. Say goodbye to these, because it's the last time! Marry me.
-
-No! I was ashamed to be SEEN with you. I like being with you. Well, what do you expect, mother? But I bought a yearbook ad from you, doesn't that mean anything anymore? Say goodbye to these, because it's the last time!
-
-No! I was ashamed to be SEEN with you. I like being with you. First place chick is hot, but has an attitude, doesn't date magicians. No… but I'd like to be asked! I care deeply for nature.
+Anyway, [go check out the games I'm playing and translating](/games)!

@@ -59,12 +59,12 @@ module.exports = {
 	 *  If you delete any variable keys, 11ty won't work.
 	 */
 	navCustom: {
-		barBg: '',
-		text: 'text-gray-700',
-		textActive: 'text-gray-800',
+		barBg: 'bg-blue-100',
+		text: 'text-sky-900',
+		textActive: 'text-blue-800',
 		textHover: 'text-gray-800',
-		textActiveBg: 'bg-gray-100',
-		textFocus: 'text-gray-500',
+		textActiveBg: 'bg-sky-50',
+		textFocus: 'text-blue-500',
 		mobileBg: '',
 		mobileBgActive: 'bg-gray-700',
 		mobileBgHover: 'bg-gray-100',
@@ -225,6 +225,20 @@ module.exports = {
 	},
 
 	/**
+	 * ===== Body =====
+	 *
+	 * === Text and Background
+	 */
+	bodyDefault: {
+		barBg: 'bg-white',
+		text: 'text-teal-500',
+	},
+	bodyCustom: {
+		barBg: 'bg-sky-50',
+		text: 'text-gray-100',
+	},
+
+	/**
 	 * ===== Footer =====
 	 *
 	 * === Text and Background
@@ -234,7 +248,7 @@ module.exports = {
 		text: 'text-teal-500',
 	},
 	footerCustom: {
-		barBg: 'bg-gray-900',
+		barBg: 'bg-sky-900',
 		text: 'text-gray-100',
 	},
 

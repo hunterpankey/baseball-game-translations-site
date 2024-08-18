@@ -1,6 +1,6 @@
 ---
 title: Special Tag Training
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: Instructions for utilizing Special Tag Training when conditions are right
 draft: 

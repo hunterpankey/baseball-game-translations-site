@@ -1,6 +1,6 @@
 ---
 title: Personality/Ability
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: Instructions on how to work with the personality and likeability system
 draft: 

@@ -1,6 +1,6 @@
 ---
 title: Injuries
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: Instructions for how to deal with the player getting injured
 draft: 

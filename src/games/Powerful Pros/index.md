@@ -1,6 +1,6 @@
 ---
 title: Powerful Pros Game Series
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: Information about the games in the Powerful Pros series
 game: 

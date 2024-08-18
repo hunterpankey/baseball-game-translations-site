@@ -1,6 +1,6 @@
 ---
 title: Park with Yabe
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: Going out to the park with teammate Akio Yabe
 draft: 

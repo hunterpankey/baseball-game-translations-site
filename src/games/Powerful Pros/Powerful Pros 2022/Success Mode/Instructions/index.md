@@ -1,6 +1,6 @@
 ---
 title: Powerful Pros 2022-2023 Success Mode Instructions
-date: 2024-07-16
+date: 2024-08-16
 author: hunter-baun
 excerpt: Find out how to play Success Mode in Powerful Pros 2022-2023
 draft: 

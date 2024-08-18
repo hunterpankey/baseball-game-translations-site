@@ -1,6 +1,6 @@
 ---
 title: Practice 1 Result
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: Results of the first practice where the player gets a new relationship with teammates
 draft: 

@@ -1,6 +1,6 @@
 ---
 title: Physical Ability
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: Instructions on physical ability, stamina, and other measures of physical ability
 draft: 

@@ -1,6 +1,6 @@
 ---
 title: Riverbank
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: Success Mode event that occurs in the first few weeks after starting. Player walks along the riverbank and gains a bit of focus energy.
 draft: 

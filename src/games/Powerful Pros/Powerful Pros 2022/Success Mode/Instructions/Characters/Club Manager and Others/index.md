@@ -1,6 +1,6 @@
 ---
 title: Club Manager and Others
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: How do the club manager and other characters affect the player in Success Mode?
 draft: 

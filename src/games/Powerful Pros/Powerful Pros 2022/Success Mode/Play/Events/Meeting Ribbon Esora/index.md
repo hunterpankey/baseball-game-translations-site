@@ -1,6 +1,6 @@
 ---
 title: Meeting Ribbon Esora
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: Success Mode event that occurs in the first couple of weeks after starting
 draft: 

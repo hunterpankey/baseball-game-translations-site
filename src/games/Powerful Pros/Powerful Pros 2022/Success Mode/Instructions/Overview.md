@@ -1,6 +1,6 @@
 ---
 title: Overview
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: Instructions on the basics of success mode
 draft: 

@@ -1,7 +1,7 @@
 ---
 title: >
   Success Mode Introduction
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: First introduction to Success Mode from the main menu
 draft: 

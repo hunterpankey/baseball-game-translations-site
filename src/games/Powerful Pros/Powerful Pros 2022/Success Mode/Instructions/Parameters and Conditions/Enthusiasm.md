@@ -1,6 +1,6 @@
 ---
 title: Enthusiasm
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: Instructions for how to maximize enthusiasm to improve injury rate and XP
 draft: 

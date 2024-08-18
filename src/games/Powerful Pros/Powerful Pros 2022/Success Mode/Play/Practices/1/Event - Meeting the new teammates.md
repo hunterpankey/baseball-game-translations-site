@@ -1,7 +1,7 @@
 ---
 title: >
   Practice 1 Event: Meeting New Teammates
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: Event that occurs during the first practice where the player meets several new teammates
 draft: 

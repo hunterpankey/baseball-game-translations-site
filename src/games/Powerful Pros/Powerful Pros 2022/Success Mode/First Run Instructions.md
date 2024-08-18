@@ -1,6 +1,6 @@
 ---
 title: First Run Instructions
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: Shown when you start Success Mode for the very first time
 game: Powerful Pros 2022-2023
@@ -9,17 +9,17 @@ category: Help
 seo:
   title: First Run Instructions
   description: Shown when you start Success Mode for the very first time
-  image: 
+  image: games/PowerfulPros/2022/general/success mode splash screen.png
 images: # relative to /src/assets/images/
-  feature:
-  thumb: 
-  slide:
+  feature: games/PowerfulPros/2022/general/success mode splash screen.png
+  thumb: games/PowerfulPros/2022/general/success mode splash screen.png
+  slide: games/PowerfulPros/2022/general/success mode splash screen.png
 tags:
   - game
   - baseball
   - pawa-pro
   - success-mode
-  - event
+  - instructions
 layout: game
 ---
 1. サクセスはストーリーを楽しみながら、試合や練習をすることで選手を育成し、ドラフト指名を受けてプロ入りを目指すモードです。

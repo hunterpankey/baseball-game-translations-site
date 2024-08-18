@@ -1,6 +1,6 @@
 ---
 title: Sakusakusesu Mode
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: A quicker board game version of the Success Mode player generation
 draft: 

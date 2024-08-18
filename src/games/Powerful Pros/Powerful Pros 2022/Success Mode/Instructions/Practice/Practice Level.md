@@ -1,6 +1,6 @@
 ---
 title: Practice Level
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: Instructions for how to get the most out of practices
 draft: 

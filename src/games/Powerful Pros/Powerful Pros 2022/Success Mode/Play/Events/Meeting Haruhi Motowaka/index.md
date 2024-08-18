@@ -1,6 +1,6 @@
 ---
 title: Meeting Haruhi Motowaka
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: Success Mode event where the player meets the club manager Haruhi Motowaka
 draft: 

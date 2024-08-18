@@ -1,6 +1,6 @@
 ---
 title: Manager
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: How does the player's relationship to the manager work in Success Mode?
 draft: 

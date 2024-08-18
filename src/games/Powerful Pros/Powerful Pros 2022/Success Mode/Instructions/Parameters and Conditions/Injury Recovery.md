@@ -1,6 +1,6 @@
 ---
 title: Injury Recovery
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: Instructions for how to recover from injuries
 draft: 

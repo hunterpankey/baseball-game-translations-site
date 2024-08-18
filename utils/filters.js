@@ -23,25 +23,25 @@ module.exports = {
 	},
 
 	/**
-   // Universal slug filter strips unsafe chars from URLs
-   */
+	 // Universal slug filter strips unsafe chars from URLs
+	 */
 	slugify: (string) => {
 		return slugify(string, {
 			lower: true,
 			replacement: '-',
 			remove: /[*+~.·,()'"`´%!?¿:@]/g,
 		})
-  },
-  
-    /**
-   * Pass ` | limit(x)` to a Collection loop to limit the number returned
-   * Alt = ` | reverse | limit(x)` to return X most recent
-   * Took the following filters from
-   * @link https://www.youtube.com/watch?v=wV77GwOY22w&feature=share
-   */
-  limit: (arr, count = 5) => {
-    return arr.slice(0, count)
-  },
+	},
+
+	/**
+ * Pass ` | limit(x)` to a Collection loop to limit the number returned
+ * Alt = ` | reverse | limit(x)` to return X most recent
+ * Took the following filters from
+ * @link https://www.youtube.com/watch?v=wV77GwOY22w&feature=share
+ */
+	limit: (arr, count = 5) => {
+		return arr.slice(0, count)
+	},
 
 	/**
 	 * Get Authors from _data/authors.json to use in Post Lists and Detail
@@ -54,14 +54,18 @@ module.exports = {
 	/**
 	 * Get Posts by Author for the Author detail page
 	 */
-	getPostsByAuthor: (posts, key) => {
+	getPagesByAuthor: (posts, key) => {
 		return posts.filter((a) => a.data.author === key)
 	},
 
+	getPagesByTag: (pages, key) => {
+		return pages.filter((page) => page.data.tags.includes(key))
+	}
+
 	/**
 	 * Minify and inline CSS per a tip on 11ty: https://www.11ty.dev/docs/quicktips/inline-css/
-   cssmin: (code) => {
-     return new cleanCSS({}).minify(code).styles
-    },
-  */
+	 cssmin: (code) => {
+		 return new cleanCSS({}).minify(code).styles
+		},
+	*/
 }

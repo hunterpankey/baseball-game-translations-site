@@ -1,7 +1,7 @@
 ---
 title: >
   Practice 2 Event: Strict Manager
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: Event that occurs during the second practice where the player meets the club manager
 draft: 

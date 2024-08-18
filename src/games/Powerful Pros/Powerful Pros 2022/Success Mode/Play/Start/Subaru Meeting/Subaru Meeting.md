@@ -1,7 +1,7 @@
 ---
 title: >
   Meeting Subaru Hoshii
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: Event that occurs at the very start of Success Mode in which the player meets teammate Subaru Hoshii
 draft: 

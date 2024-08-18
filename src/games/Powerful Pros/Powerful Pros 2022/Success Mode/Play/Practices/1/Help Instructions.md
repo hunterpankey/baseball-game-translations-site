@@ -1,6 +1,6 @@
 ---
 title: Practice 1 Help and Instructions
-date: 2024-07-10
+date: 2024-08-10
 author: hunter-baun
 excerpt: Help and instructions shown as the user starts the first practice
 draft: 
