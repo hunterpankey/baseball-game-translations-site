@@ -19,12 +19,13 @@ pagination:
 
 {% set postslist = posts | reverse %}
 {# 
-                    Allows a user to easily change the Tag List Style.
-                    Please see instructions in /src/_data/structure.js >>> ===== Post List Style Options =====
-                    #}
+  Allows a user to easily change the Tag List Style.
+  Please see instructions in /src/_data/structure.js >>> ===== Post List Style Options =====
+#}
 {% set postlist = ['components/', structure.postListStyle, '.njk'] %}
 {% include postlist | join %}
 {# ===== Paginate based on "size" frontmatter value above =====  #}
 {# Don't even include the pagination component if there are fewer posts than needed to paginate  #}
-  {% if collections.game.length > pagination.size %}
-{% include "components/pagination.njk" %}{% endif %}
+{% if collections.game.length > pagination.size %}
+  {% include "components/pagination.njk" %}
+{% endif %}
