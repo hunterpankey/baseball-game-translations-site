@@ -1,5 +1,5 @@
 ---
-title: Practice 1 Help and Instructions
+title: Practice Help and Instructions
 date: 2024-08-10
 author: hunter-baun
 excerpt: Help and instructions shown as the user starts the first practice
@@ -8,7 +8,7 @@ game: Powerful Pros 2022-2023
 mode: 
 category: Index
 seo:
-  title: Practice 1 Help and Instructions
+  title: Practice Help and Instructions
   description: Help and instructions shown as the user starts the first practice
   image: games/PowerfulPros/2022/general/success mode practice field.png
 images: # relative to /src/assets/images/

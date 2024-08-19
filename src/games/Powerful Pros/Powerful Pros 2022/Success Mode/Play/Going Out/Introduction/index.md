@@ -8,8 +8,8 @@ game: Powerful Pros 2022-2023
 mode: Success Mode
 category: Help
 seo:
-  title:
-  description:
+  title: Introduction to Going Out
+  description: Explanation of options when "Going Out" is selected as the week's action
   image: games/PowerfulPros/2022/Success Mode/Play/Going Out/Introduction/1 - selection menu.png
 images: # relative to /src/assets/images/
   feature: games/PowerfulPros/2022/Success Mode/Play/Going Out/Introduction/1 - selection menu.png

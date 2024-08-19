@@ -8,7 +8,7 @@ game: Powerful Pros 2022-2023
 mode: Success Mode
 category: Index
 seo:
-  title: {Park with Yabe}
+  title: Park with Yabe
   description: Going out to the park with teammate Akio Yabe
   image: games\PowerfulPros\2022\general\success mode practice field screen.png
 images: # relative to /src/assets/images/

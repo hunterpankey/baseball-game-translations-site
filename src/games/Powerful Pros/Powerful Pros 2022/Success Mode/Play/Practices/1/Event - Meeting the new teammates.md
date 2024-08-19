@@ -31,7 +31,7 @@ layout: game
 
 矢部君：「キャラクター」くん！
 おはようでやんす！
-Yabe: "Character"-kun!　Good morning!
+Yabe: "Character"-kun! Good morning!
 
 私：おはよう、矢部君！ずいぶん楽しそうだね。
 Me: Good morning, Yabe! You look like you're having a lot of fun.

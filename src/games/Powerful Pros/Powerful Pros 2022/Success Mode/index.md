@@ -27,7 +27,7 @@ layout: game
 ![Success Mode main menu](</assets/images/games/PowerfulPros/2022/general/success mode main menu.png>)
 
 ## General Pages
-
+[Introductions](<Play/Start/Introduction>)
 [First Run Instructions](<First Run Instructions>)
 
 ## Instructions and Help
@@ -36,12 +36,22 @@ layout: game
 ## Play
 
 ### Practices
+[Practice Help and Instructions](<Play/Practices/Help-Instructions>)
+[A Practice Result](<Play/Practices/1/Result>)
+[Another Practice Result](<Play/Practices/2/Event - Strict Manager>)
 
 ### Events
+[Meeting Subaru](<Play/Start/Subaru Meeting/Subaru Meeting>)
+[Meeting the New Teammates](<Play/Practices/1/Event - Meeting the new teammates>)
 [Meeting Haruhi Motowaka](<Play/Events/Meeting Haruhi Motowaka>)
+[Going to the Riverbank](<Play/Events/Riverbank>)
+[Tojo Gets Inspired](<Play/Events/Tojo Gets Inspired/>)
 [Meeting Ribbon Esora](<Play/Events/Meeting Ribbon Esora>)
 [Before the First Game](<Play/Events/Before First Game>)
+
 ### Going Out
+[Introduction and Going Out "Alone"](<Play/Going Out/Introduction>)
+[Going to the Park with Yabe](<Play/Going Out/Park With Yabe>)
 
 ## Miscellaneous Pages
 
