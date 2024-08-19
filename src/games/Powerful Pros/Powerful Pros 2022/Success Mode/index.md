@@ -41,7 +41,7 @@ layout: game
 [Another Practice Result](<Play/Practices/2/Event - Strict Manager>)
 
 ### Events
-[Meeting Subaru](<Play/Start/Subaru Meeting/Subaru Meeting>)
+[Meeting Subaru](<Play/Start/Subaru Meeting>)
 [Meeting the New Teammates](<Play/Practices/1/Event - Meeting the new teammates>)
 [Meeting Haruhi Motowaka](<Play/Events/Meeting Haruhi Motowaka>)
 [Going to the Riverbank](<Play/Events/Riverbank>)
