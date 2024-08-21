@@ -33,7 +33,7 @@ Manager Miura: Everyone gather!
 *thud*
 
 ![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Events/MeetingTheOwner/3.png)
-今日は球団オーナーが直 々 に視察に来られた。
+今日は球団オーナーが直々に視察に来られた。
 Today, the owner of the team came to inspect the team himself.
 
 ![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Events/MeetingTheOwner/4.png)
@@ -49,16 +49,16 @@ Yabe: The owner is very intimidating.
 Me: Yes.
 
 ![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Events/MeetingTheOwner/7.png)
-山本：さっき、 1 軍キャンプを見てきたが実に素晴らしかったぞ。
+山本：さっき、１軍キャンプを見てきたが実に素晴らしかったぞ。
 Yamamoto: I just went to see the first team training camp and it was amazing.
 
 ![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Events/MeetingTheOwner/8.png)
-オマエたちも早く 1 軍に昇格し、未来のスタ ー となれるよう、練習にはげむがよい。今季の契約更改が楽しみじやわい。
+オマエたちも早く１軍に昇格し、未来のスターとなれるよう、練習にはげむがよい。今季の契約更改が楽しみじやわい。
 You guys should work hard to get promoted to the first team and become future stars. I'm looking forward to this season's contract renewal.
 
 ![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Events/MeetingTheOwner/10.png)
 三浦：オーナー、ありがとうございます。いいか、オーナーの期待に応えられるようにがんばるんだ。
-Miura: Thank you, owner. Look, do your best to meet the owner's expectations.
+Miura: Thank you, owner. Look everyone, do your best to meet the owner's expectations.
 
 ![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Events/MeetingTheOwner/11.png)
 矢部：監督はオーナーのいいなりでやんすね。

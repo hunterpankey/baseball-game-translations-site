@@ -39,7 +39,7 @@ layout: game
 [Meeting the Coaches](Play/Start/MeetingTheCoaches)
 
 ### Practices
-[Practice Help and Instructions](<Play/Practices/Help-Instructions>)
+<!-- [Practice Help and Instructions](<Play/Practices/Help-Instructions>) -->
 [A Practice Result](<Play/Practices/1>)
 [Another Practice Result](<Play/Practices/1>)
 
