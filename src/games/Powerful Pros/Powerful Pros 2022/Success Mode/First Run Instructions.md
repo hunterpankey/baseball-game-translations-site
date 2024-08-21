@@ -5,7 +5,7 @@ author: hunter-baun
 excerpt: Shown when you start Success Mode for the very first time
 game: Powerful Pros 2022-2023
 mode: Success Mode
-category: Help
+category: Instructions
 seo:
   title: First Run Instructions
   description: Shown when you start Success Mode for the very first time

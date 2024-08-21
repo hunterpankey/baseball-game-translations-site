@@ -19,7 +19,7 @@ tags:
   - game
   - baseball
   - pawa-pro
-  - pawa-pro-2024
+  - pawa-pro-2022
   - my-life-mode
 layout: game
 ---

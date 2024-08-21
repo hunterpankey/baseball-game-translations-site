@@ -2,14 +2,14 @@
 title: Player Registration
 date: 2024-08-15
 author: hunter-baun
-excerpt: How to register a new player for Powerful Pros 2024's My Life mode
+excerpt: How to register a new player for Powerful Pros 2024's My Life mode and other modes
 game: Powerful Pros 2024-2025
 mode: My Life
 category: Instructions
 draft: 
 seo:
-  title:
-  description:
+  title: Player Registration
+  description: How to register a new player for Powerful Pros 2024's My Life mode and other modes
   image: games/PowerfulPros/2024/MyLife/NewMode/PlayerRegistration/2 player basics.png
 images: # relative to /src/assets/images/
   feature: games/PowerfulPros/2024/MyLife/NewMode/PlayerRegistration/2 player basics.png
@@ -19,10 +19,13 @@ tags:
   - game
   - baseball
   - pawa-pro
+  - success-mode
+  - instructions
 layout: game
 ---
 
 ![Interface screen for team selection](</assets/images/games/PowerfulPros/2024/MyLife/NewMode/PlayerRegistration/1 team select.png>)
+
 
 ## Basic Player Information
 

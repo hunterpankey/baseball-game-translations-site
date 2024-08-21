@@ -19,6 +19,7 @@ tags:
   - game
   - baseball
   - pawa-pro
+  - pawa-pro-2022
   - success-mode
   - practice
 layout: game
