@@ -4,7 +4,7 @@ date: 2024-08-20
 author: hunter-baun
 excerpt: Conversation with Takafumi Hasegawa after the first practice
 draft: 
-game: Powerful Pros 2022-2023
+game: Powerful Pros 2024-2025
 mode: Success Mode
 category: Index
 seo:
