@@ -44,6 +44,7 @@ layout: game
 [Another Practice Result](./Play/Practices/1)
 [Third Practice With a Coach Event](./Play/Practices/3)
 [Fourth Practice and a Conversation With Yabe](./Play/Practices/4)
+[Fifth Practice Conversation with Manager Miura](./Play/Practices/5)
 
 ### Appeals
 [Appealing to the Manager](./Play/Appeals/AppealToManager1)
@@ -56,6 +57,7 @@ layout: game
 [Meeting the New Team Doctor](./Play/Events/MeetingTheNewTeamDoctor)
 [Conversation with Mom Before the Season Starts](./Play/Events/ConversationWithMomBeforeTheSeason)
 [Throwing Practice With Hasegawa](./Play/Events/ThrowingPracticeWithHasegawa)
+[WE MET A PUPPY!!](./Play/Events/WeMetAPuppy)
 
 ### Rest
 [A Rest Result](./Play/Rest/1)
