@@ -33,7 +33,7 @@ Okay, let's invite Yabe!
 (Ring...)
 
 矢部君：バーン君。何か用でやんすか？
-Yabe: Ban-kun! Is there something you want?
+Yabe: Baun-kun! Is there something you want?
 
 私：遊びに行かないか？
 Me: Want to go out and play?

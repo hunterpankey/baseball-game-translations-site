@@ -45,7 +45,7 @@ Me: Phew, I'm all sweaty.
 I'll drink some fluids too...
 
 小井成タマモちゃん：バーン、お疲れ様なのだ。
-Koinari Tamamo-chan: Ban, you've done a great job.
+Koinari Tamamo-chan: Baun, you've done a great job.
 
 これでも飲んで一層つくといいゾ。
 You should drink this and get even stronger.

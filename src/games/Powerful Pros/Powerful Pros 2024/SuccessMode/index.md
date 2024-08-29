@@ -46,10 +46,16 @@ layout: game
 [Fourth Practice and a Conversation With Yabe](./Play/Practices/4)
 [Fifth Practice Conversation with Manager Miura](./Play/Practices/5)
 
+### Games
+[Game 1: Opening Day](./Play/Games/1)
+
 ### Appeals
 [Appealing to the Manager](./Play/Appeals/AppealToManager1)
 
 ### Events
+
+![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/march-month-card.png)
+
 [Meeting Takafumi Hasegawa Sempai](./Play/Events/MeetingHasegawaSempai)
 [Enabling "Appeal to Manager"](./Play/Events/EnablingAppealToManager)
 [Meeting the Owner](./Play/Events/MeetingTheOwner)
@@ -58,9 +64,16 @@ layout: game
 [Conversation with Mom Before the Season Starts](./Play/Events/ConversationWithMomBeforeTheSeason)
 [Throwing Practice With Hasegawa](./Play/Events/ThrowingPracticeWithHasegawa)
 [WE MET A PUPPY!!](./Play/Events/WeMetAPuppy)
+[Eating Ramen With Yabe](./Play/Events/EatingRamenWithYabe)
+
+![April 2024](/assets/images/games/PowerfulPros/2024/SuccessMode/april-month-card.png)
+
+[April 2024 Start](./Play/Events/AprilStart)
+[Meeting Miyu Hosokawa](./Play/Events/MeetingMiyuHosokawa)
 
 ### Rest
 [A Rest Result](./Play/Rest/1)
+[Another Rest Result](./Play/Rest/2)
 
 ### Going Out
 <!-- [Introduction and Going Out "Alone"](<Play/Going Out/Introduction>)
