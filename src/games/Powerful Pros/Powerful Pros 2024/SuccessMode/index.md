@@ -71,6 +71,7 @@ layout: game
 [April 2024 Start](./Play/Events/AprilStart)
 [Meeting Miyu Hosokawa](./Play/Events/MeetingMiyuHosokawa)
 [Playing Fetch With Ganda](./Play/Events/FetchWithGanda)
+[Fan Signing Meet and Greet](./Play/Events/FanSigningEvent)
 
 ### Rest
 [A Rest Result](./Play/Rest/1)
@@ -79,6 +80,9 @@ layout: game
 ### Going Out
 <!-- [Introduction and Going Out "Alone"](<Play/Going Out/Introduction>)
 [Going to the Park with Yabe](<Play/Going Out/Park With Yabe>) -->
+
+### Dates
+[Miyu Hosokawa Date #1](./Play/Dates/Hosokawa1)
 
 ## Miscellaneous Pages
 
