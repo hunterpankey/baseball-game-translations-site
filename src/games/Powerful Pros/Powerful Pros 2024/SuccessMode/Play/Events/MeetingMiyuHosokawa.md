@@ -32,7 +32,7 @@ weeksRemaining: 77
 Yabe: Baun-kun! Check that out!
 
 ホソミーでやんす！生ホソミーでやんすよ！
-It's Hosomi! It's Hosomi live!
+It's Hosomi! It's Hosomi, in real life!
 
 ![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Events/MeetingMiyuHosokawa/2.png)
 私：ホソミー？

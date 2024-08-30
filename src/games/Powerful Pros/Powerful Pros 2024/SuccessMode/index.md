@@ -70,6 +70,7 @@ layout: game
 
 [April 2024 Start](./Play/Events/AprilStart)
 [Meeting Miyu Hosokawa](./Play/Events/MeetingMiyuHosokawa)
+[Playing Fetch With Ganda](./Play/Events/FetchWithGanda)
 
 ### Rest
 [A Rest Result](./Play/Rest/1)
