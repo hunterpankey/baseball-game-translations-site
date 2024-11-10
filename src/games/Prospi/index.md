@@ -23,4 +23,4 @@ layout: game
 ---
 ### Games in the Series
 
-[Pro Yakyuu Spirits 2024-2025](<ProYakyuuSpirits20242025>)
+[Pro Yakyuu Spirits 2024-2025](<Prospi20242025>)

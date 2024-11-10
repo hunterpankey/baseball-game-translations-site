@@ -27,7 +27,7 @@ layout: game
 {# ![Success Mode main menu](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Start/PlayerRegistration/2.png) #}
 
 ## General Pages
-[First Run Instructions](<./General/General-Tips>)
+[General Tips](<./General>)
 {# [Player Registration](./Play/Start/PlayerRegistration/)
 [Introductions](<./Play/Start/Introduction>)
 
