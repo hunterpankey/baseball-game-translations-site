@@ -88,6 +88,8 @@ module.exports = function (eleventyConfig) {
 		if (process.env.ELEVENTY_PRODUCTION == 'true') {
 			gamePosts = gamePosts.filter((post) => !post.data.draft);
 		}
+
+		return [...gamePosts];
 	});
 
 	// TAGLIST used from the official eleventy-base-blog  https://github.com/11ty/eleventy-base-blog/blob/master/.eleventy.js
