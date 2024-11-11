@@ -4,7 +4,7 @@
   <subtitle>Game translations for Japanese baseball games to help people play</subtitle>
   <link href="http://localhost:8088"/>
   <link href="http://localhost:8088/feed.xml" rel="self"/>
-  <updated>2020-09-20T17:44:03Z</updated>
+  <updated>2024-10-20T19:04:00Z</updated>
   <id>http://localhost:8088</id>
   <author>
     <name>Hunter Baun</name>
@@ -413,6 +413,18 @@ this is another blockquote via the `bq` paired shortcode located in `/utils/pair
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Once again… Something I thought was going to be difficult and/or frustrating to figure out was a breeze in 11ty!&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Pro Yakyuu Spirits 2024-2025 Released</title>
+      <link href="http://localhost:8088/2024/10/20/pro-yakyuu-spirits-2024-2025-released/"/>
+      <updated>2024-10-20T19:04:00Z</updated>
+      <id>http://localhost:8088/2024/10/20/pro-yakyuu-spirits-2024-2025-released/</id>
+      <content type="html">&lt;p&gt;Pro Yakyuu Spirits 2024-2025 is finally released! I see folks playing on Steam and PS5 already, but I just realized that I chose economy shipping from Play Asia, so my PS5 disc will probably be on a boat for a couple of weeks.&lt;/p&gt;
+&lt;h2&gt;Stuff&lt;/h2&gt;
+&lt;p&gt;For now, there are folks streaming on &lt;a href=&quot;https://www.twitch.tv/directory/category/pro-yakyuu-spirits-2024-2025&quot; target=&quot;_blank&quot;&gt;Twitch&lt;/a&gt;, so I’ll watch some of them and see if I can avoid getting so excited that I try the VPN-foreign-currency method to buy it a second time. Also, there’s a wonderful community translation site for menus at &lt;a href=&quot;https://prospitranslation.wixsite.com/2024&quot; target=&quot;_blank&quot;&gt;Prospi Translation&lt;/a&gt;. Have a look if you’re playing too and I haven’t posted what you’re looking for.&lt;/p&gt;
+&lt;p&gt;OK, friends, have fun out there!&lt;/p&gt;
 </content>
     </entry>
 </feed>
