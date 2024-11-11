@@ -15,6 +15,7 @@ images: # relative to /src/assets/images/
   feature: games/Prospi/Prospi20242025/general/school courtyard.png
   thumb: games/Prospi/Prospi20242025/general/school courtyard.png
   slide: games/Prospi/Prospi20242025/general/school courtyard.png
+  align: object-bottom
 tags:
   - game
   - baseball
