@@ -10,11 +10,11 @@ draft:
 seo:
   title: Hakkyuu no Kiseki Mode
   description: How to play Hakkyuu no Kiseki mode (White Ball Miracle mode) in Prospi 2024-2025
-  image: games/Prospi/Prospi20242025/HakkyuNoKiseki/Dashboard.png
+  image: games/Prospi/Prospi20242025/general/school courtyard.png
 images: # relative to /src/assets/images/
-  feature: games/Prospi/Prospi20242025/HakkyuNoKiseki/Dashboard.png
-  thumb: games/Prospi/Prospi20242025/HakkyuNoKiseki/Dashboard.png
-  slide: games/Prospi/Prospi20242025/HakkyuNoKiseki/Dashboard.png
+  feature: games/Prospi/Prospi20242025/general/school courtyard.png
+  thumb: games/Prospi/Prospi20242025/general/school courtyard.png
+  slide: games/Prospi/Prospi20242025/general/school courtyard.png
 tags:
   - game
   - baseball
@@ -28,6 +28,9 @@ layout: game
 
 ## General Pages
 [General Tips](<./General>)
+
+## Getting Started
+[Choosing a Prefecture](<./Start/Choosing-a-Prefecture>)
 {# [Player Registration](./Play/Start/PlayerRegistration/)
 [Introductions](<./Play/Start/Introduction>)
 
