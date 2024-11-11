@@ -3,7 +3,7 @@ title: Full Frontmatter Example
 date: 2020-09-07T17:44:03.000Z
 excerpt: There is a LOT of control options in the frontmatter.
 author: shane-robinson
-draft: 
+draft: true
 seo:
   title:
   description:
@@ -33,7 +33,7 @@ excerpt: # used for page excerpts and META (will be overwritten if SEO used belo
 author: shane-robinson # only displayed on Post lists and detail views. Defaults to _data/meta.authorURL
 eleventyNavigation: # Required if want to display in Main Nav Bar
   key: main # "main" is required
-  title: Welcome # as it will appear in the nav
+  navTitle: Welcome # as it will appear in the nav
   order: 1 # order to display in the nav (index = 1)
 seo: # SEO values are used for OG and will overwrite 'title' and 'excerpt' above
   title:
