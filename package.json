@@ -25,10 +25,10 @@
     "clean": "rimraf dist",
     "debug": "set DEBUG=* & eleventy",
     "dev:tailwind": "npx tailwindcss -i src/assets/css/tailwind.css -o dist/css/styles.css --watch",
-    "dev:eleventy": "npx @11ty/eleventy --serve --port=8088",
+    "dev:eleventy": "set ELEVENTY_PRODUCTION=false&& npx @11ty/eleventy --serve --port=8088",
     "dev": "npm-run-all clean --parallel dev:*",
     "build:tailwind": "npx tailwindcss -i src/assets/css/tailwind.css -o dist/css/styles.css --minify",
-    "build:eleventy": "set ELEVENTY_PRODUCTION=true && npx @11ty/eleventy",
+    "build:eleventy": "set ELEVENTY_PRODUCTION=true&& npx @11ty/eleventy",
     "build": "set NODE_ENV=production && npm-run-all clean build:*"
   },
   "devDependencies": {

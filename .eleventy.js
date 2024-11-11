@@ -73,17 +73,21 @@ module.exports = function (eleventyConfig) {
 	 * Every Post will ALWAYS be published in DEVELOPMENT so you can preview locally.
 	 */
 	eleventyConfig.addCollection('post', (collection) => {
-		if (process.env.ELEVENTY_ENV !== 'production')
-			return [...collection.getFilteredByGlob('./src/posts/**/*.md')]
-		else
-			return [...collection.getFilteredByGlob('./src/posts/**/*.md')].filter((post) => !post.data.draft)
+		let posts = collection.getFilteredByGlob('./src/posts/**/*.md');
+
+		if (process.env.ELEVENTY_PRODUCTION == 'true') {
+			posts = posts.filter((post) => !post.data.draft);
+		}
+
+		return [...posts];
 	})
 
 	eleventyConfig.addCollection('game', (collection) => {
-		if (process.env.ELEVENTY_ENV !== 'production')
-			return [...collection.getFilteredByGlob('./src/games/**/*.md')];
-		else
-			return [...collection.getFilteredByGlob('./src/games/**/*.md')].filter((post) => !post.data.draft);
+		let gamePosts = collection.getFilteredByGlob('./src/games/**/*.md');
+
+		if (process.env.ELEVENTY_PRODUCTION == 'true') {
+			gamePosts = gamePosts.filter((post) => !post.data.draft);
+		}
 	});
 
 	// TAGLIST used from the official eleventy-base-blog  https://github.com/11ty/eleventy-base-blog/blob/master/.eleventy.js
