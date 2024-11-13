@@ -10,11 +10,11 @@ draft:
 seo:
   title: Choosing a Starting Prefecture
   description: Considerations and tips for selecting your starting prefecture
-  image: games/Prospi/Prospi20242025/general/koshien stadium.png
+  image: games/Prospi/Prospi20242025/general/koshien-stadium.png
 images: # relative to /src/assets/images/
-  feature: games/Prospi/Prospi20242025/general/koshien stadium.png
-  thumb: games/Prospi/Prospi20242025/general/koshien stadium.png
-  slide: games/Prospi/Prospi20242025/general/koshien stadium.png
+  feature: games/Prospi/Prospi20242025/general/koshien-stadium.png
+  thumb: games/Prospi/Prospi20242025/general/koshien-stadium.png
+  slide: games/Prospi/Prospi20242025/general/koshien-stadium.png
 tags:
   - game
   - baseball

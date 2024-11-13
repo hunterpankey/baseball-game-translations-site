@@ -10,11 +10,11 @@ category: Index
 seo:
   title: Pro Yakyuu Spirits 2024-2025
   description: Homepage for how to translate and play Pro Yakyuu Spirits 2024-2025
-  image: games/Prospi/Prospi20242025/general/school courtyard.png
+  image: games/Prospi/Prospi20242025/general/school-courtyard.png
 images: # relative to /src/assets/images/
-  feature: games/Prospi/Prospi20242025/general/school courtyard.png
-  thumb: games/Prospi/Prospi20242025/general/school courtyard.png
-  slide: games/Prospi/Prospi20242025/general/school courtyard.png
+  feature: games/Prospi/Prospi20242025/general/school-courtyard.png
+  thumb: games/Prospi/Prospi20242025/general/school-courtyard.png
+  slide: games/Prospi/Prospi20242025/general/school-courtyard.png
 tags:
   - game
   - baseball

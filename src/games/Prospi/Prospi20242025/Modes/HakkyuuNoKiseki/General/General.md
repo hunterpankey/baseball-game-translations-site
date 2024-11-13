@@ -10,11 +10,11 @@ draft:
 seo:
   title: General Tips for "Hakkyuu no Kiseki" Mode
   description: General tips for finding success in White Ball Miracle mode
-  image: games/Prospi/Prospi20242025/general/school courtyard.png
+  image: games/Prospi/Prospi20242025/general/school-courtyard.png
 images: # relative to /src/assets/images/
-  feature: games/Prospi/Prospi20242025/general/school courtyard.png
-  thumb: games/Prospi/Prospi20242025/general/school courtyard.png
-  slide: games/Prospi/Prospi20242025/general/school courtyard.png
+  feature: games/Prospi/Prospi20242025/general/school-courtyard.png
+  thumb: games/Prospi/Prospi20242025/general/school-courtyard.png
+  slide: games/Prospi/Prospi20242025/general/school-courtyard.png
   align: object-bottom
 tags:
   - game

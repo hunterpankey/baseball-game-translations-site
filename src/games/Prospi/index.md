@@ -12,9 +12,9 @@ seo:
   description: Information about the games in the Pro Yakyuu Spirits/Prospi/PYS series
   image: 
 images: # relative to /src/assets/images/
-  feature: games/Prospi/Prospi20242025/general/koshien stadium.png
-  thumb: games/Prospi/Prospi20242025/general/koshien stadium.png
-  slide: games/Prospi/Prospi20242025/general/koshien stadium.png
+  feature: games/Prospi/Prospi20242025/general/koshien-stadium.png
+  thumb: games/Prospi/Prospi20242025/general/koshien-stadium.png
+  slide: games/Prospi/Prospi20242025/general/koshien-stadium.png
 tags:
   - game
   - baseball

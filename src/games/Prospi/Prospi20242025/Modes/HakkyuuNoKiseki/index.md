@@ -10,11 +10,11 @@ draft:
 seo:
   title: Hakkyuu no Kiseki Mode
   description: How to play Hakkyuu no Kiseki mode (White Ball Miracle mode) in Prospi 2024-2025
-  image: games/Prospi/Prospi20242025/general/school courtyard.png
+  image: games/Prospi/Prospi20242025/general/school-courtyard.png
 images: # relative to /src/assets/images/
-  feature: games/Prospi/Prospi20242025/general/school courtyard.png
-  thumb: games/Prospi/Prospi20242025/general/school courtyard.png
-  slide: games/Prospi/Prospi20242025/general/school courtyard.png
+  feature: games/Prospi/Prospi20242025/general/school-courtyard.png
+  thumb: games/Prospi/Prospi20242025/general/school-courtyard.png
+  slide: games/Prospi/Prospi20242025/general/school-courtyard.png
 tags:
   - game
   - baseball
@@ -32,32 +32,39 @@ layout: game
 ## Getting Started
 [Choosing a Prefecture](<./Start/Choosing-a-Prefecture>)
 {# [Player Registration](./Play/Start/PlayerRegistration/)
-[Introductions](<./Play/Start/Introduction>)
+[Introductions](<./Play/Start/Introduction>) #}
 
 ## Instructions and Help
 <!-- [Instructions](Instructions) -->
-[The Appeals System](./Instructions/ProSystem/Appeals/)
+{# [The Appeals System](./Instructions/ProSystem/Appeals/) #}
 
-## Play
-[Meeting the Coaches](./Play/Start/MeetingTheCoaches)
+## Regular Play
+{# [Meeting the Coaches](./Play/Start/MeetingTheCoaches) #}
 
 ### Practices
+To do: Add pages around selecting practices and the results
 <!-- [Practice Help and Instructions](<Play/Practices/Help-Instructions>) -->
-[A Practice Result](./Play/Practices/1)
+{# [A Practice Result](./Play/Practices/1)
 [Another Practice Result](./Play/Practices/1)
 [Third Practice With a Coach Event](./Play/Practices/3)
 [Fourth Practice and a Conversation With Yabe](./Play/Practices/4)
-[Fifth Practice Conversation with Manager Miura](./Play/Practices/5)
+[Fifth Practice Conversation with Manager Miura](./Play/Practices/5) #}
 
 ### Games
-[Game 1: Opening Day](./Play/Games/1)
+To do: Add pages around playing, simulating, or managing games
+{# [Game 1: Opening Day](./Play/Games/1) #}
 
-### Appeals
-[Appealing to the Manager](./Play/Appeals/AppealToManager1)
+### Monthly Schedule
 
-### Events
+#### March
+[Graduation Ceremony](./Monthly/March/Graduation-Ceremony/)
 
-![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/march-month-card.png)
+#### April
+[4/8 New Member Joining](./Monthly/April/New-Member-Joining)
+[4/8 Annual Training Policy](./Monthly/April/Annual-Training-Policy)
+
+### Common Events
+{# ![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/march-month-card.png)
 
 [Meeting Takafumi Hasegawa Sempai](./Play/Events/MeetingHasegawaSempai)
 [Enabling "Appeal to Manager"](./Play/Events/EnablingAppealToManager)
@@ -74,18 +81,9 @@ layout: game
 [April 2024 Start](./Play/Events/AprilStart)
 [Meeting Miyu Hosokawa](./Play/Events/MeetingMiyuHosokawa)
 [Playing Fetch With Ganda](./Play/Events/FetchWithGanda)
-[Fan Signing Meet and Greet](./Play/Events/FanSigningEvent)
+[Fan Signing Meet and Greet](./Play/Events/FanSigningEvent) #}
 
-### Rest
-[A Rest Result](./Play/Rest/1)
-[Another Rest Result](./Play/Rest/2)
 
-### Going Out
-<!-- [Introduction and Going Out "Alone"](<Play/Going Out/Introduction>)
-[Going to the Park with Yabe](<Play/Going Out/Park With Yabe>) -->
-
-### Dates
-[Miyu Hosokawa Date #1](./Play/Dates/Hosokawa1) #}
 
 ## Miscellaneous Pages
 
