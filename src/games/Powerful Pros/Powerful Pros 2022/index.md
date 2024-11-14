@@ -25,7 +25,7 @@ layout: game
 eleventyNavigation:
   key: main
   title: Pawa Puro 2022 #  as it will appear in the nav
-  order: 4    # order to display in the nav
+  order: 6    # order to display in the nav
 ---
 
 ![attract screen](/assets/images/common/PowerfulPros2022_attract.png)
