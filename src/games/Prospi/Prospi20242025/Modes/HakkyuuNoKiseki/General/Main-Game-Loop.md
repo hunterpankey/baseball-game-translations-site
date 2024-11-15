@@ -51,7 +51,7 @@ When you first start, all your players are set to "omakase" ({% jisho "お任せ
 
 ### Tournaments and Games
 
-There are several tournaments over the course of the year that your school might participate in. At minimum, you'll be in the prefectural tournaments that include all the schools in your prefecture. Good performance in those tournaments will earn you an invite to the regional tournaments, the Meiji Jingu national tournament, or Koshien, your ultimate goal. For the first couple of years, you probably won't make to the advanced tournaments, but if you don't, you'll have a special, high-intensity training camp (look for 「{% jisho "合宿" %}」 in the calendar) with more activities and better progression.
+There are several tournaments over the course of the year that your school might participate in. At minimum, you'll be in the prefectural tournaments that include all the schools in your prefecture. Good performance in those tournaments will earn you an invite to the regional tournaments, the Meiji Jingu national tournament, or Koshien, your ultimate goal. For the first couple of years, you probably won't make it to the advanced tournaments, but if you don't, you'll have a special, high-intensity training camp (look for 「{% jisho "合宿" %}」 in the calendar) with more activities and better progression.
 
 Additionally, especially early in your career, you'll have the option to play some practice games ({% jisho "練習試合" %}). Occasionally the club manager will offer you the chance to choose between teams, or will just bring one team's request to you, and you can accept or decline the request. Practice games are nice because you get the benefit of the game progress in addition to the practice progress for the week. The extra game will have a greater effect on your players fatigue level, though.
 
@@ -59,8 +59,8 @@ Additionally, especially early in your career, you'll have the option to play so
 
 When you first start, your school's field and facilities are in very poor shape. The grounds condition affects your progression and growth in weekly activities and practice. You can improve the grounds by using items from the smartphone menu such as white or black soil ({% jisho "白土" %} or {% jisho "黒土" %}), equipment like a batting tee or weightlifting equipment, or through activities and events where the club manager will improve the grounds, or you can direct your players to clean up and improve it.
 
-Grounds will deteriorate over time as you practice on it consecutively without taking a break, and equipment that you apply to the grounds will deteriorate and break over use, removing its benefit from the grounds score. You can maintain the equipment with a toolbox item or through a manager action.
+Grounds will deteriorate over time as you practice on it consecutively without taking a break, and equipment that you apply to the grounds will deteriorate and break over use, removing its benefit from the grounds score. You can maintain the equipment with a toolbox item or through a manager maintenance action.
 
 ### Setting the Lineup and On-Field Strategy
 
-You can set your ideal starting lineup and main starting pitcher through the smartphone menu. Use the "omakase" ({% jisho "お任せ", "おまかせ" %}) option to let the game auto-set the lineup. You can make further changes after auto-setting the lineup, for example, if you want to give some younger players some starts for a few games.
+You can set your ideal starting lineup and main starting pitcher through the smartphone menu. Use the "omakase" ({% jisho "お任せ", "おまかせ" %}) option to let the game auto-set the lineup. You can make further changes after auto-setting the lineup, for example, if you want to give some younger players some starts for a few games. You can change the lineup immediately before the game as well, so don't worry if you forget a change you want to make.

@@ -1,6 +1,6 @@
 ---
 title: Sim Rules
-date: 2024-11-10
+date: 2024-11-14
 author: hunter-baun
 excerpt: What decides when you get to play vs. when the simulation takes over?
 game: Pro Yakyuu Spirits 2024-2025

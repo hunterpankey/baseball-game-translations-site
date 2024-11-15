@@ -24,7 +24,6 @@ tags:
   - hakkyuu-no-kiseki
 layout: game
 ---
-
 ## Selecting and Executing Practices
 
 ![Main dashboard bottom practice selections](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/main-dashboard-bottom.png)
@@ -48,7 +47,7 @@ In any given period, you'll can select three activities (five during special tra
 * The study hall improves players scholarship levels, so they pass their classes and don't have to stress about remedial classes, and they can have more books and skills applied to them to improve skills.
 * The convenience store card lets you visit one of your former players who now works at the convenience store, and it gives you some items, like an energy drink to raise player stamina. Other location cards exist: university, sports store, home improvement store, stadium, etc., with similar benefits relating to the location
 * The day-off card cancels practice for the day, raising players' general stamina, which improves future practices. Playing this card before a practice card in the set of three gives an additional bonus.
-* The manager card lets you tell the club manager to clean up the club room (possible finding an item like a baseball card to give to a player), tend to the grounds (to level it up and make practice more effective), or a couple of other actions.
+* The manager card lets you tell the club manager to clean up the club room (possibly finding an item like a baseball card to give to a player), tend to the grounds (to level it up and make practice more effective), or a couple of other actions.
 
 The card cost is shown below the card. You can select cards that total equal to or less than the remaining cost for the period (see the top-right section above). Your team will recover a certain cost at the end of the period, less than the total amount, so if you spend all the remaining cost, next period will start with some amount below the max cost. So be careful about how you spend the points and budget a little bit so you don't run low when you need them.
 

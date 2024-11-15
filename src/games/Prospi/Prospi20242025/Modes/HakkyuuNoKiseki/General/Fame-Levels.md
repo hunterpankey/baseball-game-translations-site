@@ -1,6 +1,6 @@
 ---
 title: Fame Levels
-date: 2024-11-10
+date: 2024-11-14
 author: hunter-baun
 excerpt: Schools have fame levels that affect recruiting and other aspects
 game: Pro Yakyuu Spirits 2024-2025

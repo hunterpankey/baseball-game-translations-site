@@ -1,6 +1,6 @@
 ---
 title: Dashboard and Smartphone
-date: 2024-11-10
+date: 2024-11-14
 author: hunter-baun
 excerpt: The main screens in Hakkyuu no Kiseki that you'll be looking at most of the time
 game: Pro Yakyuu Spirits 2024-2025

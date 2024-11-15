@@ -1,6 +1,6 @@
 ---
 title: Playing Games
-date: 2024-11-10
+date: 2024-11-14
 author: hunter-baun
 excerpt: So how do you actually play games in this mode?
 game: Pro Yakyuu Spirits 2024-2025
