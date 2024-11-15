@@ -23,8 +23,9 @@ tags:
   - hakkyuu-no-kiseki
 layout: game
 ---
-
 ![Hakkyuu no Kiseki title card](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/hakkyuu-no-kiseki-title-card.png)
+
+[[toc]]
 
 ## Getting Started
 [Choosing a Prefecture](<./Start/Choosing-a-Prefecture>)
@@ -56,4 +57,3 @@ layout: game
 ## General Pages
 [General Tips](<./General>)
 [Fame Levels](./General/Fame-Levels)
-

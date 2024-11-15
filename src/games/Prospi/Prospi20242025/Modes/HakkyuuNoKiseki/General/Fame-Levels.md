@@ -24,7 +24,7 @@ tags:
   - hakkyuu-no-kiseki
 layout: game
 ---
-
+[[toc]]
 ## Fame Levels
 
 Schools have an associated fame/renown level that reflects how difficult they are to beat. Leveling up your school to higher fame levels means that players you recruit will be more likely to enroll, so winning games and raising the level is key to building a better team and winning.

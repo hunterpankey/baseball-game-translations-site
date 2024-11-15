@@ -24,6 +24,7 @@ tags:
   - hakkyuu-no-kiseki
 layout: game
 ---
+[[toc]]
 ## 白球の奇跡
 
 Hakkyuu no Kiseki is a big single-player mode in PYS24. You'll take the role of a high school baseball coach, baseball club manager, and other miscellaneous roles. You can simulate games, play a strategic role directing pitching and batting strategy, or even play the games yourself! In this article, we'll talk about the main actions and activities that you need to know about to have success.

@@ -49,12 +49,12 @@ p {
 }
 
 ol {
-	@apply pb-4 ml-4 list-decimal;
+	@apply ml-4 list-decimal;
 	counter-reset: list-item;
 }
 
 ul {
-	@apply pb-4 ml-4 list-disc;
+	@apply ml-4 list-disc;
 }
 
 li {

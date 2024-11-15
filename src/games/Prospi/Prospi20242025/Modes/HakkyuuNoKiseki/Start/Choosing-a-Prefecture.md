@@ -24,6 +24,7 @@ tags:
   - list
 layout: game
 ---
+[[toc]]
 When you first start out in Hakkyuu no Kiseki mode, you're going to be asked what prefecture you want to start in. If you're already great at the game, this matters a little less than otherwise, but this prefecture choice will affect your game progression somewhat, as busier prefectures have more schools and teams, so you have to win a lot more games to get out of the prefectural tournament and make it to Koshien.
 
 So the biggest tip here is: *If you want an easier route, choose a prefecture with fewer teams, and if you want more of a grind or challenge, choose a busier one.* I chose Aomori both because I like the area and think it's cool, and because it has a regular number of teams. Tokyo or Osaka would have been cool, but they have so many teams!

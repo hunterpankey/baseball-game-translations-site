@@ -25,7 +25,7 @@ tags:
   - gameplay
 layout: game
 ---
-
+[[toc]]
 ## Playing Games
 
 Your school will automatically play in the prefectural tournaments a few times a year. Winning this tournament will get you into the regional tournaments, and maybe even into the Meiji Jingu national tournament at the olympic field, or Koshien, the really prestigious one!

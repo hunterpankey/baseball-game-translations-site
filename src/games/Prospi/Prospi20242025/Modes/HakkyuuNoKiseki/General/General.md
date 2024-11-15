@@ -24,7 +24,7 @@ tags:
   - hakkyuu-no-kiseki
 layout: game
 ---
-
+[[toc]]
 ### Starting Out
 
 #### Choosing the right prefecture

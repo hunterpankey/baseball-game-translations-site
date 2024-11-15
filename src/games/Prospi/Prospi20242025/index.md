@@ -27,7 +27,7 @@ eleventyNavigation:
   title: Prospi 2024 #  as it will appear in the nav
   order: 4    # order to display in the nav
 ---
-
+[[toc]]
 {# ![Pawa Puro 2024 Main Menu](</assets/images/games/PowerfulPros/2024/general/main menu.png>) #}
 
 ## Modes

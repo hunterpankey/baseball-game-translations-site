@@ -24,6 +24,7 @@ tags:
   - hakkyuu-no-kiseki
 layout: game
 ---
+[[toc]]
 ## Selecting and Executing Practices
 
 ![Main dashboard bottom practice selections](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/main-dashboard-bottom.png)

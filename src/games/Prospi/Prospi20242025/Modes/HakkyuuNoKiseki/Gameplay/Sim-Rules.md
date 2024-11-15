@@ -25,7 +25,7 @@ tags:
   - gameplay
 layout: game
 ---
-
+[[toc]]
 ## Gameplay Modes
 
 There are two gameplay modes where you'll actually see some on-field action, Field Play and Team Play.
@@ -41,7 +41,7 @@ The options above in order are:
 * Skip and Sim the Whole Game ({% jishoSearch "試合結果へ" %}) - skip straight to the end
 
 ### Tactical Mode
-![tactical play](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/Playing-Games/tactical-play-logo.png)
+![tactical play](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/Playing-Games/tactical-play-logo.png =150x150)
 
 ![description of how to play the tactical mode](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/Playing-Games/tactical-play-sim-rules.png)
 
@@ -70,7 +70,7 @@ You will play in the following situations:
 
 ### Team Play Mode
 
-![team play logo](../../../../../../assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/Playing-Games/team-play-logo.png)
+![team play logo](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/Playing-Games/team-play-logo.png =150x150)
 
 ![description of how to play the team play mode](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/Playing-Games/team-play-sim-rules.png)
 
@@ -99,7 +99,7 @@ You will play in the following situations:
   * When behind ({% jishoSearch "負けている" %}) - Any situation with runners on base
 
 #### Field Play Mode
-![field play logo](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/Playing-Games/field-play-logo.png)
+![field play logo](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/Playing-Games/field-play-logo.png =150x150)
 
 ![field play settings](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/Playing-Games/field-play-settings.png)
 

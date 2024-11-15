@@ -166,18 +166,18 @@ module.exports = function (eleventyConfig) {
 	}
 
 	let anchorOptions = {
-		permaLink: markdownItAnchor.permalink.linkAfterHeader({ symbol: '§' })
-	}
+		permalink: markdownItAnchor.permalink.headerLink({ safariReaderFix: true })
+	};
 
 	let tocOptions = {
-		listType: "ul"
+		level: 2
 	}
 
 	let markdownLib = markdownIt(options)
 		.use(markdownItEmoji)
 		.use(markdownItImSize)
 		.use(markdownItAnchor, anchorOptions)
-		.use(markdownItToc)
+		.use(markdownItToc, tocOptions)
 	eleventyConfig.setLibrary('md', markdownLib)
 
 	/**

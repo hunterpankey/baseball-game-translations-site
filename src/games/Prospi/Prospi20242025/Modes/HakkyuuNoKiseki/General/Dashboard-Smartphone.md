@@ -24,7 +24,7 @@ tags:
   - hakkyuu-no-kiseki
 layout: game
 ---
-
+[[toc]]
 ## The Hakkyuu no Kiseki Interface
 
 ### Dashboard

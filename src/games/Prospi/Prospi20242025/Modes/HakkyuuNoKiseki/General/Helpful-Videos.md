@@ -24,7 +24,7 @@ tags:
   - hakkyuu-no-kiseki
 layout: game
 ---
-
+[[toc]]
 ## 動画
 
 As you might imagine, most of the people playing this game and making videos are Japanese, so if you don't speak the language, turn on YouTube's automatic captions, and it'll do its best to translate for you.

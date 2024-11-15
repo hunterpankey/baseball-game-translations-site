@@ -25,7 +25,7 @@ tags:
   - april
 layout: game
 ---
-
+[[toc]]
 ## {% jisho "練習" %}{% jisho "方向性" %}
 
 Once a year, you can set your team's general development policy, to be balanced ({% jishoSearch "バランス重視" %}), focus on batting ({% jisho "打撃" %}), baserunning ({% jisho "機動力" %}), or defense and pitching ({% jisho "守備" %}・{% jisho "投手" %}). This setting will affect the progression your players get for non-focused practice and training. It doesn't seem to affect the results from the training cards selected for the week, though.

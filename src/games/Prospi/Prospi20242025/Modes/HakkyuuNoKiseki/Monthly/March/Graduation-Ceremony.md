@@ -25,7 +25,7 @@ tags:
   - march
 layout: game
 ---
-
+[[toc]]
 ## 卒業
 Every March, after the third semester, third-year students graduate and go out into the world to start whatever it is they want to do. In Hakkyuu no Kiseki, that means that they will improve the various town locations and maybe represent your high school in the pros!
 
