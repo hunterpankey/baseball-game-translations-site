@@ -48,11 +48,14 @@ layout: game
 
 #### March
 
-[3/2 Graduation Ceremony](./Monthly/March/Graduation-Ceremony/)
+[Mar. 2: Graduation Ceremony](./Monthly/March/Graduation-Ceremony/)
 
 #### April
-[4/8 New Member Joining](./Monthly/April/New-Member-Joining)
-[4/8 Annual Training Policy](./Monthly/April/Annual-Training-Policy)
+[Apr. 8: New Member Joining](./Monthly/April/New-Member-Joining)
+[Apr. 8: Annual Training Policy](./Monthly/April/Annual-Training-Policy)
+
+#### November
+[Nov.: Winter Scouting](./Monthly/November/Winter-Scouting)
 
 ## General Pages
 [General Tips](<./General>)
