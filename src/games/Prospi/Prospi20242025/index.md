@@ -33,4 +33,4 @@ eleventyNavigation:
 ## Modes
 [Hakkyuu no Kiseki](Modes/HakkyuuNoKiseki)
 
-## Videos
+{# ## Videos #}

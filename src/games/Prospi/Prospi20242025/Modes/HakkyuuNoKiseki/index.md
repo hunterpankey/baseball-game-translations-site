@@ -24,7 +24,7 @@ tags:
 layout: game
 ---
 
-{# ![Success Mode main menu](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Start/PlayerRegistration/2.png) #}
+![Hakkyuu no Kiseki title card](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/hakkyuu-no-kiseki-title-card.png)
 
 ## Getting Started
 [Choosing a Prefecture](<./Start/Choosing-a-Prefecture>)
@@ -59,4 +59,5 @@ To do: Add pages around playing, simulating, or managing games
 
 ## General Pages
 [General Tips](<./General>)
+[Fame Levels](./General/Fame-Levels)
 

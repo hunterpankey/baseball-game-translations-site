@@ -46,6 +46,9 @@ Your club manager will tell you who your opponent is, and what their fame level 
 
 ![notice about a player](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/Playing-Games/Pregame-Sequence/3-manager-conversation-pro-player.png)
 
+#### Setting the Play Mode
+You can choose how to play the game, by watching, simming, or skipping entirely, by choosing one player to play as, by managing the play-by-play tactics, or by playing the interesting parts of the game yourself. [Check the various play modes](../Sim-Rules) and select one to continue.
+
 #### Setting the Difficulty
 ![difficulty selection](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/Playing-Games/Pregame-Sequence/4-player-difficulty-selection.png)
 
