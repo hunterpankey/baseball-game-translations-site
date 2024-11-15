@@ -1,5 +1,9 @@
 @tailwind base;
 
+body {
+	scroll-behavior: smooth;
+}
+
 h1,
 h2,
 h3,
@@ -14,11 +18,11 @@ h1 {
 }
 
 h2 {
-	@apply pt-12 text-3xl;
+	@apply pb-4 text-3xl;
 }
 
 h3 {
-	@apply text-2xl;
+	@apply pb-2 text-2xl;
 }
 
 h4 {
@@ -45,11 +49,21 @@ p {
 }
 
 ol {
-	@apply pb-4 ml-8 list-decimal;
+	@apply pb-4 ml-4 list-decimal;
+	counter-reset: list-item;
 }
 
 ul {
-	@apply pb-4 ml-8 list-disc;
+	@apply pb-4 ml-4 list-disc;
+}
+
+li {
+	display: block;
+	counter-increment: list-item;
+}
+
+li:before {
+	content: counters(list-item, '.') ' ';
 }
 
 blockquote {

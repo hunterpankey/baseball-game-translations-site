@@ -4,6 +4,9 @@ const pluginNavigation = require('@11ty/eleventy-navigation')
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight')
 const markdownIt = require('markdown-it')
 const markdownItEmoji = require('markdown-it-emoji')
+const markdownItImSize = require('markdown-it-imsize')
+const markdownItAnchor = require('markdown-it-anchor')
+const markdownItToc = require('markdown-it-toc-done-right')
 const pluginSvgSprite = require("eleventy-plugin-svg-sprite");
 
 // const collections = require('./utils/collections.js')
@@ -161,7 +164,20 @@ module.exports = function (eleventyConfig) {
 		linkify: true,
 		typographer: true,
 	}
-	let markdownLib = markdownIt(options).use(markdownItEmoji)
+
+	let anchorOptions = {
+		permaLink: markdownItAnchor.permalink.linkAfterHeader({ symbol: '§' })
+	}
+
+	let tocOptions = {
+		listType: "ul"
+	}
+
+	let markdownLib = markdownIt(options)
+		.use(markdownItEmoji)
+		.use(markdownItImSize)
+		.use(markdownItAnchor, anchorOptions)
+		.use(markdownItToc)
 	eleventyConfig.setLibrary('md', markdownLib)
 
 	/**
