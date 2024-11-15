@@ -36,7 +36,7 @@ layout: game
 ## Regular Play
 
 ### Practices
-[Practicing and Activities](./General/Practicing.md)
+[Practicing and Activities](./General/Practicing)
 
 ### Games
 [Playing Games](Gameplay/Playing-Games)
