@@ -41,7 +41,7 @@ From left to right, the cards shown above translate to:
 8. Dumbbells
 9. Convenience store - visit the convenience store and get some items like energy drinks
 
-Above the cards is a short message describing it. The highlighted one says, 「{% jisho "送球チェックをします。スローイング" %} :arrow_up: 」, which is really not an improvement over what's on the card, but if you hit L1 or something, it'll give you an even better description.
+Above the cards is a short message describing it. The highlighted one says, 「{% jisho "送球チェックをします。スローイング" %} :arrow_up: 」, which is really not an improvement over what's on the card, but if you hit Start/Option, it'll give you an even better description.
 
 In any given period, you'll can select three activities (five during special training camps), with varying effects. Select them with X, and once you've selected three cards, press X again to execute. Practice cards improve the skills noted. There are a bunch of non-practice cards as well:
 * The schedule improvement card makes the activities better, either by making them more effective, canceling any negative effects (the skull icons by the cards), or buffing a card to a positive effect (music note or upward arrow icon).

@@ -42,12 +42,14 @@ layout: game
 [Practicing and Activities](./General/Practicing.md)
 
 ### Games
+[Playing Games](Gameplay/Playing-Games)
+[Simulation Rules](Gameplay/Sim-Rules)
 To do: Add pages around playing, simulating, or managing games
 
 ### Monthly Schedule
 
 #### March
-Some dates will fluctuate slightly from year to year.
+*Note: Some dates will fluctuate slightly from year to year.*
 
 [3/2 Graduation Ceremony](./Monthly/March/Graduation-Ceremony/)
 
