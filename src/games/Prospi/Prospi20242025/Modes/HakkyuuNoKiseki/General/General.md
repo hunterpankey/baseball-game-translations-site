@@ -4,7 +4,7 @@ date: 2024-11-10
 author: hunter-baun
 excerpt: General tips for finding success in White Ball Miracle mode
 game: Pro Yakyuu Spirits 2024-2025
-mode: White Ball Miracle
+mode: Hakkyuu no Kiseki
 category: Miscellaneous
 draft: 
 seo:
