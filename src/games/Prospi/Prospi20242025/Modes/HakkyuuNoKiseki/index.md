@@ -28,13 +28,10 @@ layout: game
 
 ## Getting Started
 [Choosing a Prefecture](<./Start/Choosing-a-Prefecture>)
-{# [Player Registration](./Play/Start/PlayerRegistration/)
-[Introductions](<./Play/Start/Introduction>) #}
 
 ## Instructions and Help
 [The Main Game Loop](./General/Main-Game-Loop)
 [Dashboard and Smartphone](./General/Dashboard-Smartphone)
-<!-- [Instructions](Instructions) -->
 
 ## Regular Play
 
@@ -44,12 +41,11 @@ layout: game
 ### Games
 [Playing Games](Gameplay/Playing-Games)
 [Simulation Rules](Gameplay/Sim-Rules)
-To do: Add pages around playing, simulating, or managing games
 
 ### Monthly Schedule
+*Note: Some dates will fluctuate slightly from year to year.*
 
 #### March
-*Note: Some dates will fluctuate slightly from year to year.*
 
 [3/2 Graduation Ceremony](./Monthly/March/Graduation-Ceremony/)
 
