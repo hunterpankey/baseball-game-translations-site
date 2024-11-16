@@ -162,6 +162,39 @@ When I was first starting out, I wanted to have a roster of flame-throwers, so I
 
 That said, this third year player is retiring as soon as I lose a game, and since this is my third year in the program, the team isn't really that good, so realistically, I'm looking at maybe three more games with this player. So it's not really a big deal. I probably have five more points total to earn across all of these attributes. Pretty low stakes decisions, here.
 
+#### All Pitching Practice Orders
+
+![pitching orders page 1](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/Player-Activities/roster-training-pitching-orders-1.png)
+* Omakase - Let the player do what they want
+* All-Purpose - General, all-around leveling up
+* Increase Max Velocity
+* Increase Stamina
+* Fatigue Recovery
+* Pitch Sharpness Menu - Select the pitch after selecting this
+* Pitch Control Menu - Select the pitch after selecting this
+
+![pitching orders page 2](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/Player-Activities/roster-training-pitching-orders-2.png)
+* Learn New Pitch - Select the new pitch after selecting this
+* Pitch Break Menu - Select the pitch after selecting this
+* Batting Omakase - A combination of contact and power
+* Contact Menu
+* Improve Power
+* Improve Running Speed
+* Defense Omakase - A combination of glove skills, throwing accuracy and power, and primary position fielding
+
+![pitching orders page 3](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/Player-Activities/roster-training-pitching-orders-3.png)
+* Glove Skills/Catching
+* Throwing Accuracy
+* Throwing Power
+* Learn New Position
+* Improve fielding on existing position
+* Change batting type - trajectory/strategy
+* Learn switch hitting or hitting from the other side
+
+![pitching orders page 4](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/Player-Activities/roster-training-pitching-orders-4.png)
+* Change batting stance to square, open, etc.
+* Change pitching form to overhand, sidearm, submarine, etc.
+
 ### Hitters
 We'll look at that hitter again, Takeshi Yuasa to see the hitter training options. Here is his page:
 
@@ -188,3 +221,27 @@ As I look at this, I see that I'm two points away from the next letter rank in t
 It happens to be mid-April, and I'm in the middle of the prefectural tournament, with the regional tourney and others after that if I keep winning. I'd like to get good performance out of my catcher here, so I'd probably level up the recovery stat so I get those {% jisho "体力" %} blocks back faster. 
 
 Again, this is a 3rd year player, so the stakes are pretty low, and you can't really mess this up at this point. If I accidentally forgot about a freshman outfielder on catcher quality for three months, I'd probably be mad at myself, though.
+
+#### All Batting/Fielding Practice Orders
+![batting/field orders page 1](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/Player-Activities/roster-training-batting-orders-1.png)
+* Omakase - Let the player do what they want
+* All-Purpose - General, all-around leveling up
+* Batting Omakase - A combination of contact and power
+* Contact Menu
+* Power
+* Running Speed
+* Defense Omakase - A combination of glove skills, throwing accuracy and power, and primary position fielding
+
+![batting/field orders page 2](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/Player-Activities/roster-training-batting-orders-2.png)
+* Glove Skills/Catching
+* Throwing Accuracy
+* Throwing Power
+* Fatigue Recovery
+* Catcher's Skill - Improves pitcher performance while catching
+* Learn a new position
+* Improve fielding on existing position
+
+![batting/field orders page 3](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/Player-Activities/roster-training-batting-orders-3.png)
+* Change batting type - trajectory/strategy
+* Learn switch hitting or hitting from the other side
+* Change batting stance to square, open, etc.
