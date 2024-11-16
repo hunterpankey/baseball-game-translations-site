@@ -37,6 +37,7 @@ layout: game
 ## Regular Play
 
 ### Practices
+[Choosing Player Activities](./General/Player-Activities)
 [Practicing and Activities](./General/Practicing)
 
 ### Games
