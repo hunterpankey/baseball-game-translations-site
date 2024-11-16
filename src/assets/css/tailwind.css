@@ -57,12 +57,12 @@ ul {
 	@apply ml-4 list-disc;
 }
 
-li {
+ol li {
 	display: block;
 	counter-increment: list-item;
 }
 
-li:before {
+ol li:before {
 	content: counters(list-item, '.') ' ';
 }
 

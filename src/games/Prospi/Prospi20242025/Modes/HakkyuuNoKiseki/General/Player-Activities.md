@@ -31,7 +31,7 @@ layout: game
 ## Introduction
 A huge piece of the Hakkyuu no Kiseki mode is selecting which aspects of the game each player should work on. Do you want to have a team of speedy slap hitters and defensive wizards, big power guys, ace pitchers, or something in between? (Probably something in between... but it's up to you!) Here's how you develop the team that you want.
 
-## Roster Menu
+## Roster Screen
 ![Smartphone menu](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/smartphone.png =125x)
 You'll do all of this through the roster menu in the smartphone. Hit L1 on the dashboard screen and then choose the second icon on the top row to view the roster. We'll look at one of my pitchers, Fukushima, and one of my hitters, Takeshi Yuasa (I have two players with the surname Yuasa, so they each get their give name's first character in the nameplate to distinguish them).
 
@@ -48,7 +48,7 @@ All pages show several common pieces of information on the left side of the play
 * Handedness/Dexterity ({% jisho "右" %}) - right handed thrower (first character), right handed batter (second); {% jisho "左" %} is the character for left.
 
 ### Page 1
-![Roster page 1](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/Player-Activities/roster-page-1.png) 
+{# ![Roster page 1](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/Player-Activities/roster-page-1.png)  #}
 
 The first page shows the following stats:
 

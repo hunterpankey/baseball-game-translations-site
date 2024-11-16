@@ -61,3 +61,6 @@ layout: game
 ## General Pages
 [General Tips](<./General>)
 [Fame Levels](./General/Fame-Levels)
+[Lists and Collections](./General/Lists)
+[Calendar Dates and Holidays](./General/Holidays-Key-Dates)
+[Consumable Items](./General/Items)

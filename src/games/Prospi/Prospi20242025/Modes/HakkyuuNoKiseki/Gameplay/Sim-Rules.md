@@ -76,7 +76,7 @@ You will play in the following situations:
 
 In Team Play Mode, you'll play certain parts of the game, and the CPU will simulate parts of the game, depending on the current game situation. Exactly when you'll play is described above and translated below. The left side shows offense situations and the right side shows defense.
 
-Regardless of being home or visitor, if you score an unspecified certain number of runs, the remainder of the game will simulate. Also, this mode has a mercy rule of 10 runs before the 7th, and 7 runs at or after the 7th. If there's a possibility of a mercy rule ("called game", {% jisho "コールド試合" %}) being called, you'll get to play those situations. So you can either close out a blowout win or save yourself by scoring a couple of runs and keeping the game alive.
+Regardless of being home or visitor, if you score an unspecified certain number of runs, the remainder of the game will simulate. Also, this mode has a mercy rule of 10 runs in the 5th and 6th innings, and 7 runs after the 7th or later. If there's a possibility of a mercy rule ("called game", {% jisho "コールド試合" %}) being called, you'll get to play those situations. So you can either close out a blowout win or save yourself by scoring a couple of runs and keeping the game alive.
 
 #### Offense
 You will play in the following situations:

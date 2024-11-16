@@ -107,3 +107,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# ignore the folder full of screen shots to filter through
+working_files
