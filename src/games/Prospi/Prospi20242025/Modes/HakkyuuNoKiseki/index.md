@@ -46,6 +46,10 @@ layout: game
 [Playing Games](Gameplay/Playing-Games)
 [Simulation Rules](Gameplay/Sim-Rules)
 
+### Activities
+[Bookstore](./Activities/Bookstore)
+[Convience Store](./Activities/Konbini)
+
 ### Monthly Schedule
 *Note: Some dates will fluctuate slightly from year to year.*
 
@@ -59,6 +63,8 @@ layout: game
 
 #### November
 [Nov.: Winter Scouting](./Monthly/November/Winter-Scouting)
+
+### Events
 
 ## General Pages
 [Fame Levels](./General/Fame-Levels)
