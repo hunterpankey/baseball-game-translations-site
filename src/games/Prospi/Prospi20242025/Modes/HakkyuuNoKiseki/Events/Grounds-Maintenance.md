@@ -33,7 +33,7 @@ Sometimes, the players get their act together and actually maintain the grounds 
 - Grounds Level Increases - The grounds level will go up by some amount, possibly by multiple points.
 
 ## Standard Dialog
-The following screens of dialog should be constant when the event occurs, exacept for the player doing the work.
+The following screens of dialog should be constant when the event occurs, except for the player doing the work.
 ![Tabata decides to help out](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Events/Grounds-Maintenance/player-grounds-maintenance-event-1.png)
 > Tabata silently tackles the problem of maintaining the grounds.
 

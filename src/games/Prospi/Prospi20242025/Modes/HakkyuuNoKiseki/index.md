@@ -49,6 +49,8 @@ layout: game
 ### Activities
 [Bookstore](./Activities/Bookstore)
 [Convience Store](./Activities/Konbini)
+[Schedule Improvement](./Activities/Schedule-Improvement)
+[Day Off](./Activities/Day-Off)
 
 ### Monthly Schedule
 *Note: Some dates will fluctuate slightly from year to year.*
@@ -66,6 +68,7 @@ layout: game
 
 ### Events
 [Grounds Maintenance](Events/Grounds-Maintenance)
+[Player's Birthday](./Events/Player-Birthday)
 
 ## General Pages
 [Fame Levels](./General/Fame-Levels)
