@@ -37,6 +37,15 @@ The below screen is from the start of my third year, so I've won some tournament
 
 ![screen showing new players joining the club](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Monthly/April/new-class-members/new-class-members-2026.png)
 
+The star rating is related to the overall strength of the players. They're both measured in stars, which is confusing, but here goes anyway:
+- ★★★★★	221 and up
+- ★★★★ 181-220
+- ★★★	141-180
+- ★★ 101-140
+- ★	0-100
+
+So if you get a three-star player, you'll know that they have an overall strength betweek 141 and 180 stars.
+
 You can see that I have eight players joining, one of which is my scouted player. Because of the general fame of the school, plus some randomness in the player generation, I have one four-star player, four three-star players, two two-star players, and one one-star player.
 
 ### Glossary
