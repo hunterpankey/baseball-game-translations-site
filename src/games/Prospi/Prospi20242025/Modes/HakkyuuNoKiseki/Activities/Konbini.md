@@ -37,13 +37,19 @@ Here's the activity to go to the convenience store after unlocking it with a gra
 The following two screens of dialog should be the same for each of the convenience store instances.
 
 ![Going to the convenience store](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Activities/Konbini/konbini-activity-1.png)
+> I decided to go out to the convenience store. It was a store where a former player was working.
+
 ![Retired player recommends a book to us](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Activities/Konbini/konbini-activity-2.png)
+> I hadn't seen him in a long time, but he told me about a recommended product.
 
 ## Variable Dialog
 The following screens of dialog will vary based on which product the game randomized for you.
 
 ![Retired player recommends a book to us](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Activities/Konbini/konbini-activity-3.png)
+> I decided to buy the recommended snacks/candy. ...But, unfortunately the players suddenly stuffed them into their stomacks.
+
 ![Retired player recommends a book to us](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Activities/Konbini/konbini-activity-4.png)
+> Sugisaki (line 1) and Fukushima's (3) mood became good. Yuasa's (2) mood became normal.
 
 I got some candy/snacks, but these rascals ate them all. At least their moods improved as a result.
 

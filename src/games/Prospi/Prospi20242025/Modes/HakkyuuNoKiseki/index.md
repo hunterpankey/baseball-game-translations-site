@@ -65,6 +65,7 @@ layout: game
 [Nov.: Winter Scouting](./Monthly/November/Winter-Scouting)
 
 ### Events
+[Grounds Maintenance](Events/Grounds-Maintenance)
 
 ## General Pages
 [Fame Levels](./General/Fame-Levels)

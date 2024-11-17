@@ -36,13 +36,19 @@ Here's how it goes when you choose to go to the bookstore after unlocking it wit
 The following two screens of dialog should be constant when you go to the bookstore.
 
 ![Going to the bookstore](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Activities/Bookstore/bookstore-activity-1.png)
+> I decided to go out to the bookstore. It's a bookstore where a former player works.
+
 ![Retired player recommends a book to us](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Activities/Bookstore/bookstore-activity-2.png)
+> Maybe he was bored, but he kept pushing a recommendation...
 
 ## Variable Dialog
 The following screens of dialog will vary based on which book the game randomized for you.
 
 ![Using a coupon for a book](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Activities/Bookstore/bookstore-activity-3.png)
+> By coincidence, I had a book token, so I decided to purchase a book with it.
+
 ![Receiving a book](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Activities/Bookstore/bookstore-activity-4.png)
+> I acquired the Book of Motivation.
 
 This book is the Book of Motivation. I can apply this to a player to improve them.
 
