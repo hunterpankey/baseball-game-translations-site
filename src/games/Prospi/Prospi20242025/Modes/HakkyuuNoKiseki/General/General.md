@@ -25,6 +25,9 @@ tags:
 layout: game
 ---
 [[toc]]
+
+> See the translation of the official Konami [Hakkyuu no Kiseki FAQ](../FAQ) for some additional information.
+
 ### Starting Out
 
 #### Choosing the right prefecture

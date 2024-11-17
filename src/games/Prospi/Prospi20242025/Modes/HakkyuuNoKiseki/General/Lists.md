@@ -60,8 +60,10 @@ layout: game
 Schools have an associated fame/renown level that reflects how difficult they are to beat. Leveling up your school to higher fame levels means that players you recruit will be more likely to enroll, so winning games and raising the level is key to building a better team and winning.
 
 From best to worst:
-* Master (?) - generally an A/S-ranked school
+* {% jisho "名門" %} - Prestigious - generally an A/S-ranked school
 * {% jisho "強豪" %} - Powerhouse - generally a B/A-ranked school
 * {% jisho "中堅" %} - Mid-level - generally a C-ranked school
 * {% jisho "そこそこ" %} - Mediocre - generally a D-ranked school
-* {% jisho "弱小" %} - Weak - generally an E-ranked school
+* {% jisho "弱小" %} - Weak - generally an E-ranked school 
+
+> I don't think I've seen an F- or G-ranked school yet, and I don't think there's a level below 弱小.

@@ -33,6 +33,8 @@ layout: game
 ## Instructions and Help
 [The Main Game Loop](./General/Main-Game-Loop)
 [Dashboard and Smartphone](./General/Dashboard-Smartphone)
+[General Tips](<./General>)
+[Official FAQ Translated](./General/FAQ)
 
 ## Regular Play
 
@@ -59,7 +61,6 @@ layout: game
 [Nov.: Winter Scouting](./Monthly/November/Winter-Scouting)
 
 ## General Pages
-[General Tips](<./General>)
 [Fame Levels](./General/Fame-Levels)
 [Lists and Collections](./General/Lists)
 [Calendar Dates and Holidays](./General/Holidays-Key-Dates)
