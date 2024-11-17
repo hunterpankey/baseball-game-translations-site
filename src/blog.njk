@@ -15,7 +15,7 @@ pagination:
   alias: posts
 
 eleventyNavigation:
-  key: main
+  key: blog
   title: Blog # as it will appear in the nav
   order: 3 # order to display in the nav
 ---
@@ -32,5 +32,5 @@ Please see instructions in /src/_data/structure.js >>> ===== Post List Style Opt
 {# ===== Paginate based on "size" frontmatter value above ===== #}
 {# Don't even include the pagination component if there are fewer posts than needed to paginate #}
 {% if collections.post.length > pagination.size %}
-{% include "components/pagination.njk" %}
+  {% include "components/pagination.njk" %}
 {% endif %}

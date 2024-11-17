@@ -20,6 +20,11 @@ tags:
   - baseball
   - pawa-pro
 layout: game
+
+eleventyNavigation:
+  key: powerfulPros
+  title: Powerful Pros #  as it will appear in the nav
+  order: 5 
 ---
 ### Games in the Series
 

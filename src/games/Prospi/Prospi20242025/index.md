@@ -23,7 +23,7 @@ tags:
 layout: game  
 
 eleventyNavigation:
-  key: main
+  key: prospi24
   title: Prospi 2024 #  as it will appear in the nav
   order: 4    # order to display in the nav
 ---

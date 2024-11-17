@@ -23,7 +23,8 @@ tags:
 layout: game
 
 eleventyNavigation:
-  key: main
+  key: powerfulPros2024
+  parent: powerfulPros
   title: Pawa Puro 2024 #  as it will appear in the nav
   order: 5    # order to display in the nav
 ---
