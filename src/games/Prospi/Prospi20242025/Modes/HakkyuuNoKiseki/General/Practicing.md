@@ -25,21 +25,30 @@ tags:
 layout: game
 ---
 [[toc]]
+
+Ultimately, what we're trying to do is get each of the players on the team to improve in the various skill areas so that they can compete in games more effectively. This is done by practicing weekly and working on specific areas of their game. Improvements from periodic activities comes in two different, but similar ways:
+1. Specific activities that you choose that level up specific areas: For example, if you choose the dumbbell activity, that levels up batting power, so all of your players will get a little bump to their batting power.
+2. General practice for the period: All players will raise all skill areas by some amount over the course of a week's practice. If that amount pushes them over the amount required to get another point/level in that area, then the point total will increase.
+
+Players will improve by other non-practice, non-game means as well, such as [consuming items](../../General/Items), [reading a book](../../General/Items#books), using a piece of equipment like a glove or cleats/spikes, and other events like [birthdays](../../Events/Player-Birthday).
+
 ## Selecting and Executing Practices
 
 ![Main dashboard bottom practice selections](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/main-dashboard-bottom.png)
-You'll pick practice and other activities from the bottom of the dashboard screen shown above. When there is a set event during a week, you'll select practices for the period from today until the next event, and results will be generally proportionally scaled to the amount of time in the period, i.e., if the period is two days because there's a game two days from now, you'll see about 2/7ths of the normal progression.)
+You'll pick practice and other activities from the bottom of the dashboard screen shown above. Normall, practice selections will apply to an entire week, but when there is a set event during a week like a game, you'll select practices for the period from today until that event, and results will be proportionally scaled to the amount of time in the period. So if there's a game on Wednesday, the period is two days because there's a game two days from now, and you'll see about 2/7ths of the normal progression, and another period will happen between Wednesday and the following Monday with new selections and the other 5/7ths of the progression for the week.)
 
 From left to right, the cards shown above translate to:
-1. Throwing check - improves throwing
-2. Schedule improvement - reshuffles the cards and turns bad outcomes into good ones
-3. Glove skills ("catch ball") - Improves fielding skills for {% jisho "捕球" %}
-4. Practice swings - improves batting contact
-5. Glove skills - note the extra border around the two of these, and the two repeats at the end
-6. Study hall - improves scholarship allowing for more books and skills to be learned by players
-7. Dumbbells - improves power
-8. Dumbbells
-9. Convenience store - visit the convenience store and get some items like energy drinks
+| Card                                                                                                                                 |                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| ![Throwing Check card](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/throwing-check.png =75x)     | Throwing check - improves throwing                                                             |
+| ![Schedule Review card](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/schedule-review.png =75x)   | Schedule improvement - reshuffles the cards and turns bad outcomes into good ones              |
+| ![Playing Catch card](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/playing-catch.png =75x)       | Glove skills ("catch ball") - Improves fielding skills for {% jisho "捕球" %}                  |
+| ![Practice Swings card](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/practice-swinging.png =75x) | Practice swings - improves batting contact                                                     |
+| ![Playing Catch card](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/playing-catch.png =75x)       | Glove skills - note the extra border around the two of these, and the two repeats at the end   |
+| ![Study Hall card](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/study-hall.png =75x)             | Study hall - improves scholarship allowing for more books and skills to be learned by players  |
+| ![Dumbbells card](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/dumbbell.png =75x)                | Dumbbells - improves power                                                                     |
+| ![Dumbbells card](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/dumbbell.png =75x)                | Dumbbells                                                                                      |
+| ![Convenience Store card](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/konbini.png =75x)         | Convenience store - visit the convenience store and get some items like energy drinks or candy |
 
 Above the cards is a short message describing it. The highlighted one says, 「{% jisho "送球チェックをします。スローイング" %} :arrow_up: 」, which is really not an improvement over what's on the card, but if you hit Start/Option, it'll give you an even better description.
 
