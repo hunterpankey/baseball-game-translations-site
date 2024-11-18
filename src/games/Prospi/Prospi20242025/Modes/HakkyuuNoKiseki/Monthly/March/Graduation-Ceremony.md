@@ -3,6 +3,9 @@ title: Graduation Ceremony
 date: 2024-11-13
 author: hunter-baun
 excerpt: When the third-years graduate and go out into the world
+series:
+  title: Pro Yakyuu Spirits
+  url: /games/Prospi/
 game: 
   title: Pro Yakyuu Spirits 2024-2025
   url: "/games/Prospi/Prospi20242025/"

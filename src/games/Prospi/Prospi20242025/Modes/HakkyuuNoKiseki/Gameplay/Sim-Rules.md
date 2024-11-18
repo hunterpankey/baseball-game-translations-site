@@ -3,6 +3,9 @@ title: Sim Rules
 date: 2024-11-14
 author: hunter-baun
 excerpt: What decides when you get to play vs. when the simulation takes over?
+series:
+  title: Pro Yakyuu Spirits
+  url: /games/Prospi/
 game: 
   title: Pro Yakyuu Spirits 2024-2025
   url: "/games/Prospi/Prospi20242025/"

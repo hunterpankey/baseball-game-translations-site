@@ -3,6 +3,9 @@ title: Player Activities
 date: 2024-11-15
 author: hunter-baun
 excerpt: How to keep your players growing and improving the way you want them to
+series:
+  title: Pro Yakyuu Spirits
+  url: /games/Prospi/
 game: 
   title: Pro Yakyuu Spirits 2024-2025
   url: "/games/Prospi/Prospi20242025/"

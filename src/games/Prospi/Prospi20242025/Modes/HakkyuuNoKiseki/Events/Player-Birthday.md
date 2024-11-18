@@ -3,6 +3,9 @@ title: Player's Birthday Event
 date: 2024-11-16
 author: hunter-baun
 excerpt: Yes, your players do have birthdays, and they get a little boost
+series:
+  title: Pro Yakyuu Spirits
+  url: /games/Prospi/
 game: 
   title: Pro Yakyuu Spirits 2024-2025
   url: "/games/Prospi/Prospi20242025/"

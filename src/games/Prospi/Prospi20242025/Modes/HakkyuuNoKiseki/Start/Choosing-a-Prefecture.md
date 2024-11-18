@@ -3,6 +3,9 @@ title: Choosing a Starting Prefecture
 date: 2024-11-10
 author: hunter-baun
 excerpt: Considerations and tips for selecting your starting prefecture
+series:
+  title: Pro Yakyuu Spirits
+  url: /games/Prospi/
 game: 
   title: Pro Yakyuu Spirits 2024-2025
   url: "/games/Prospi/Prospi20242025/"

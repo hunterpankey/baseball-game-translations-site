@@ -3,6 +3,9 @@ title: Improving the Schedule
 date: 2024-11-16
 author: hunter-baun
 excerpt: Improving activity outcomes in the schedule
+series:
+  title: Pro Yakyuu Spirits
+  url: /games/Prospi/
 game: 
   title: Pro Yakyuu Spirits 2024-2025
   url: "/games/Prospi/Prospi20242025/"

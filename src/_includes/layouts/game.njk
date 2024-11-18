@@ -4,6 +4,10 @@ layout: base
 <article class="{{ structure.g_pageWidth }}">
   {# BREADCRUMB #}
   <nav class="flex items-center {{colors.navCustom.text or colors.navDefault.text }} {{ colors.navCustom.barBg or colors.navDefault.barBg }} text-sm font-medium space-x-2 px-4 py-1 rounded-xs">
+    {% if series %}
+      <a href="{{ series.url }}" class="hover:text-black transition-colors">{{ series.title }}</a>
+      <span class="text-gray-500">/</span>
+    {% endif %}
     {% if game %}
       <a href="{{ game.url }}" class="hover:text-black transition-colors">{{ game.title }}</a>
       <span class="text-gray-500">/</span>

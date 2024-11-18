@@ -3,6 +3,9 @@ title: Fame Levels
 date: 2024-11-14
 author: hunter-baun
 excerpt: Schools have fame levels that affect recruiting and other aspects
+series:
+  title: Pro Yakyuu Spirits
+  url: /games/Prospi/
 game: 
   title: Pro Yakyuu Spirits 2024-2025
   url: "/games/Prospi/Prospi20242025/"

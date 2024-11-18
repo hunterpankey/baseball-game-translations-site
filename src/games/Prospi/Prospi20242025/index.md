@@ -4,6 +4,9 @@ date: 2024-11-10
 author: hunter-baun
 excerpt: Pro Yakyuu Spirits 2024-2025
 draft:
+series:
+  title: Pro Yakyuu Spirits
+  url: /games/Prospi/
 game:
 mode:
 category: Index

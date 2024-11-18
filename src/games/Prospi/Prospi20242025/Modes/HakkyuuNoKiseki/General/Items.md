@@ -3,6 +3,9 @@ title: Items
 date: 2024-11-15
 author: hunter-baun
 excerpt: What are all these books and drinks and baseball cards for?!
+series:
+  title: Pro Yakyuu Spirits
+  url: /games/Prospi/
 game: 
   title: Pro Yakyuu Spirits 2024-2025
   url: "/games/Prospi/Prospi20242025/"

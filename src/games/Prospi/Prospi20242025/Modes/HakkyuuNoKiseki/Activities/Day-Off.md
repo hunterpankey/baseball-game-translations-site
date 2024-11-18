@@ -3,6 +3,9 @@ title: Day Off Activity
 date: 2024-11-16
 author: hunter-baun
 excerpt: Give your players a break every once in a while
+series:
+  title: Pro Yakyuu Spirits
+  url: /games/Prospi/
 game: 
   title: Pro Yakyuu Spirits 2024-2025
   url: "/games/Prospi/Prospi20242025/"

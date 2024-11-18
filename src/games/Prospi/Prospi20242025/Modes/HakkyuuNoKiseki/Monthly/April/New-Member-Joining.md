@@ -3,6 +3,9 @@ title: New Club Members Joining
 date: 2024-11-13
 author: hunter-baun
 excerpt: Every year, your school gets a new group of first year students joining the team
+series:
+  title: Pro Yakyuu Spirits
+  url: /games/Prospi/
 game: 
   title: Pro Yakyuu Spirits 2024-2025
   url: "/games/Prospi/Prospi20242025/"

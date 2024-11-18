@@ -3,6 +3,9 @@ title: General Tips for "Hakkyuu no Kiseki" Mode
 date: 2024-11-10
 author: hunter-baun
 excerpt: General tips for finding success in White Ball Miracle mode
+series:
+  title: Pro Yakyuu Spirits
+  url: /games/Prospi/
 game: 
   title: Pro Yakyuu Spirits 2024-2025
   url: "/games/Prospi/Prospi20242025/"

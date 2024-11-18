@@ -3,6 +3,7 @@ title: Pro Yakyuu Spirits Game Series
 date: 2024-11-10
 author: hunter-baun
 excerpt: Information about the games in the Pro Yakyuu Spirits/Prospi/PYS series
+series:
 game: 
 mode: 
 category: Index

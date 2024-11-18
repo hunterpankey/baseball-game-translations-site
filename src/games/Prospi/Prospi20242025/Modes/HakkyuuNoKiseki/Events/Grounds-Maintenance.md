@@ -3,6 +3,9 @@ title: Grounds Maintenance Activity
 date: 2024-11-16
 author: hunter-baun
 excerpt: When the players get it together and clean up the field
+series:
+  title: Pro Yakyuu Spirits
+  url: /games/Prospi/
 game: 
   title: Pro Yakyuu Spirits 2024-2025
   url: "/games/Prospi/Prospi20242025/"
