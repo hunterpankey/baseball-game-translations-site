@@ -4,7 +4,7 @@
   <subtitle>Game translations for Japanese baseball games to help people play</subtitle>
   <link href="http://localhost:8088"/>
   <link href="http://localhost:8088/feed.xml" rel="self"/>
-  <updated>2024-11-17T06:06:00Z</updated>
+  <updated>2024-11-17T21:38:00Z</updated>
   <id>http://localhost:8088</id>
   <author>
     <name>Hunter Baun</name>
@@ -61,6 +61,24 @@
 &lt;p&gt;I hope this stuff is helping you play! Feel free to send in requests for information. Eventually I’d like to cover more modes like Star Player and Season mode. Someday, I might even try My Ballpark. Seriously, there are so many awesome single-player modes in Prospi this time around!&lt;/p&gt;
 &lt;p&gt;If you’re having trouble, the community over in the &lt;a href=&quot;https://discord.gg/pVGaPXYVRq&quot;&gt;ProSpi Translation Discord&lt;/a&gt; is really helpful, and &lt;a href=&quot;https://prospitranslation.wixsite.com/2024&quot;&gt;TheGreatMuta’s ProSpiTranslation guide&lt;/a&gt; is amazing!&lt;/p&gt;
 &lt;p&gt;Anyway, enjoy!&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Site Updates - November 17, 2024</title>
+      <link href="http://localhost:8088/2024/11/17/site-updates-november-17-2024/"/>
+      <updated>2024-11-17T21:38:00Z</updated>
+      <id>http://localhost:8088/2024/11/17/site-updates-november-17-2024/</id>
+      <content type="html">&lt;p&gt;I’ve been working on more of the plumbing/web-dev side of things today. So far, I’ve been using whatever simple Markdown rendering gets text and images out there as fast as possible, without much regard to presentation. But so far, the site is really text-heavy. So I did a few things today to make things a little nicer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Game page headings have been updated to something a little more attractive with a nicer breadcrumb and details line.&lt;/li&gt;
+&lt;li&gt;I started writing up a vocab section on some pages for the common Japanese words that are helpful to know. It was initially just a bulleted list of text, but I replaced it on the Day Off page with something a little nicer. I’ll go back through the other pages with vocab and fix &#39;em up.&lt;/li&gt;
+&lt;li&gt;I also developed a little component to display practice activity cards more nicely than just an image on the page. That’s in the Choosing Player Activities page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;updated-pages&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;http://localhost:8088/2024/11/17/site-updates-november-17-2024/#updated-pages&quot;&gt;&lt;span&gt;Updated Pages&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/General/Practicing/&quot;&gt;Practicing and Activity Details&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/General/Player-Activities/&quot;&gt;Choosing Player Activities&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Activities/Day-Off/&quot;&gt;Day Off Activity&lt;/a&gt;&lt;/p&gt;
 </content>
     </entry>
 </feed>
