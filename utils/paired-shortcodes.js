@@ -90,4 +90,7 @@ module.exports = {
 	dd: function (content, classes = '') {
 		return `<dd class="pb-4 md:col-span-7 md:mt-0  ${classes}">${content}</dd></div>`
 	},
+	vocab: function (content, classes = '') {
+		return `<ul class="list-none max-w-xl bg-white rounded-lg shadow divide-y divide-gray-200 ${classes}">${content}</ul>`;
+	},
 }

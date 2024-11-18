@@ -55,7 +55,18 @@ module.exports = {
 	jishoSearch: function (searchTerm, displayTerm) {
 		return `<a href='https://jisho.org/search/${searchTerm}' target='_blank'>${displayTerm || searchTerm}</a>`;
 	},
+	vocabItem: function (searchTerm, displayTerm, pronunciation, definition, classes = '') {
+		return `<li class="px-4 py-1">
+			<div class="flex justify-between">
+				<span class="font-semibold text-lg">
+					<a href='https://jisho.org/search/${searchTerm}' target='_blank'>${displayTerm || searchTerm}</a>
+				</span>
+				<span class="text-gray-500 text-xs">${pronunciation}</span>
+			</div>
+			<p class="text-gray-700">${definition}</p>
+		</li>`;
+	},
 	link: function (displayText, url, shouldOpenInNewTab) {
 		return `<a href=${url} ${shouldOpenInNewTab ? "target='_blank'" : ""}>${displayText}</a>`;
-	}
+	},
 }

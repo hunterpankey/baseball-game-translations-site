@@ -49,11 +49,13 @@ The following two screens of dialog should be the same for each of the convenien
 > Ishizu (line 1) and Nomura (3) recovered a little bit of energy, and Nakano (2) recovered completely.
 
 ## Vocab
-- {% jisho "休み" %} - yasumi - rest, holiday, vacation
-- {% jisho "疲れ" %} - tsukare - tiredness, fatigue
-- {% jisho "皆", "みんな" %} - minna - everyone
-- {% jisho "久々" %} - hisabisa - a long time, a while
-- {% jisho "歓喜" %} - kanki - delight, great joy
-- {% jisho "少し" %} - sukoshi - a little bit
-- {% jisho "体力" %} - tairyoku - energy, body strength
-- {% jisho "回復" %} - kaifuku - recovery
+{% vocab %}
+  {% vocabItem '休み', "", "yasumi", "rest, holiday, vacation" %}
+  {% vocabItem "疲れ", "", "tsukare", "tiredness, fatigue" %}
+  {% vocabItem "皆", "みんな", "minna", "everyone" %}
+  {% vocabItem "久々", "", "hisabisa", "a long time, a while" %}
+  {% vocabItem "少し", "", "sukoshi", "a little bit" %}
+  {% vocabItem "歓喜", "", "kanki", "a little bit" %}
+  {% vocabItem "体力", "", "tairyoku", "energy, body strength" %}
+  {% vocabItem "回復", "", "kaifuku", "recovery" %}
+{% endvocab %}

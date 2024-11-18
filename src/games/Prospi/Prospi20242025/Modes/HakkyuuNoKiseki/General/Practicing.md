@@ -39,7 +39,7 @@ You'll pick practice and other activities from the bottom of the dashboard scree
 
 From left to right, the cards shown above translate to:
 <section id="ExampleCards" class="w-fit mx-auto grid grid-cols-2 lg:grid-cols-4 md:grid-cols-3 justify-items-center justify-center gap-y-6 gap-x-14 mb-5">
-  <div class="w-64 bg-white shadow-md rounded-xl duration-500 hover:scale-[1.01] hover:shadow-xl">
+  <div class="w-64 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
       <img src="/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/throwing-check.png"
         alt="Throwing Check card" class="w-64 object-cover rounded-t-xl"/>
       <div class="px-4 py-3 w-64">
@@ -49,7 +49,7 @@ From left to right, the cards shown above translate to:
         </div>
       </div>
   </div>
-  <div class="w-64 bg-white shadow-md rounded-xl duration-500 hover:scale-[1.02] hover:shadow-xl">
+  <div class="w-64 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
       <img src="/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/schedule-review.png"
         alt="Schedule Review card" class="w-64 object-cover rounded-t-xl"/>
       <div class="px-4 py-3 w-64">
@@ -59,7 +59,7 @@ From left to right, the cards shown above translate to:
         </div>
       </div>
   </div>
-  <div class="w-64 bg-white shadow-md rounded-xl duration-500 hover:scale-[1.03] hover:shadow-xl">
+  <div class="w-64 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
       <img src="/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/playing-catch.png"
         alt="Playing Catch card" class="w-64 object-cover rounded-t-xl"/>
       <div class="px-4 py-3 w-64">
@@ -69,7 +69,7 @@ From left to right, the cards shown above translate to:
         </div>
       </div>
   </div>
-  <div class="w-64 bg-white shadow-md rounded-xl duration-500 hover:scale-[1.03] hover:shadow-xl">
+  <div class="w-64 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
       <img src="/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/practice-swinging.png"
         alt="Practice Swings card" class="w-64 object-cover rounded-t-xl"/>
       <div class="px-4 py-3 w-64">
@@ -79,7 +79,7 @@ From left to right, the cards shown above translate to:
         </div>
       </div>
   </div>
-  <div class="w-64 bg-white shadow-md rounded-xl duration-500 hover:scale-[1.03] hover:shadow-xl">
+  <div class="w-64 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
       <img src="/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/study-hall.png"
         alt="Study Hall card" class="w-64 object-cover rounded-t-xl"/>
       <div class="px-4 py-3 w-64">
@@ -89,7 +89,7 @@ From left to right, the cards shown above translate to:
         </div>
       </div>
   </div>
-  <div class="w-64 bg-white shadow-md rounded-xl duration-500 hover:scale-[1.03] hover:shadow-xl">
+  <div class="w-64 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
       <img src="/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/playing-catch.png"
         alt="Dumbbells card" class="w-64 object-cover rounded-t-xl"/>
       <div class="px-4 py-3 w-64">
@@ -99,7 +99,7 @@ From left to right, the cards shown above translate to:
         </div>
       </div>
   </div>
-  <div class="w-64 bg-white shadow-md rounded-xl duration-500 hover:scale-[1.03] hover:shadow-xl">
+  <div class="w-64 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
       <img src="/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/konbini.png"
         alt="Convenience Store card" class="w-64 object-cover rounded-t-xl"/>
       <div class="px-4 py-3 w-64">
