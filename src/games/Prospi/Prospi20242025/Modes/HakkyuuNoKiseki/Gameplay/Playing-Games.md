@@ -3,8 +3,12 @@ title: Playing Games
 date: 2024-11-14
 author: hunter-baun
 excerpt: So how do you actually play games in this mode?
-game: Pro Yakyuu Spirits 2024-2025
-mode: Hakkyuu no Kiseki
+game: 
+  title: Pro Yakyuu Spirits 2024-2025
+  url: "/games/Prospi/Prospi20242025/"
+mode: 
+  title: Hakkyuu no Kiseki
+  url: "/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki"
 category: Gameplay
 draft: 
 seo:

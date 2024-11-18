@@ -3,8 +3,12 @@ title: Sim Rules
 date: 2024-11-14
 author: hunter-baun
 excerpt: What decides when you get to play vs. when the simulation takes over?
-game: Pro Yakyuu Spirits 2024-2025
-mode: Hakkyuu no Kiseki
+game: 
+  title: Pro Yakyuu Spirits 2024-2025
+  url: "/games/Prospi/Prospi20242025/"
+mode: 
+  title: Hakkyuu no Kiseki
+  url: "/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki"
 category: Gameplay
 draft: 
 seo:

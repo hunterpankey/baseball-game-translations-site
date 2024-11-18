@@ -4,7 +4,7 @@ date: 2024-11-10
 author: hunter-baun
 excerpt: Pro Yakyuu Spirits 2024-2025
 draft:
-game: Pro Yakyuu Spirits 2024-2025
+game:
 mode:
 category: Index
 seo:

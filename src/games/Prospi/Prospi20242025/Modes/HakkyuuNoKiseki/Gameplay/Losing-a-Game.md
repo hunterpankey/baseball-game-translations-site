@@ -3,8 +3,12 @@ title: Losing a Game
 date: 2024-11-17
 author: hunter-baun
 excerpt: What happens when you lose a game?
-game: Pro Yakyuu Spirits 2024-2025
-mode: Hakkyuu no Kiseki
+game: 
+  title: Pro Yakyuu Spirits 2024-2025
+  url: "/games/Prospi/Prospi20242025/"
+mode: 
+  title: Hakkyuu no Kiseki
+  url: "/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki"
 category: Gameplay
 draft: 
 seo:

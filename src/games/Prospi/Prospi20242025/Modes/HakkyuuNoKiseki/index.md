@@ -3,8 +3,9 @@ title: Hakkyuu no Kiseki Mode
 date: 2024-11-10
 author: hunter-baun
 excerpt: Hakkyuu no Kiseki Mode translations for Pro Yakyuu Spirits 2024-2025
-game: Pro Yakyuu Spirits 2024-2025
-mode: Hakkyuu no Kiseki Mode
+game: 
+  title: Pro Yakyuu Spirits 2024-2025
+  url: "/games/Prospi/Prospi20242025/"
 category: Index
 draft: 
 seo:

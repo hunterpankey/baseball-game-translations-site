@@ -3,8 +3,12 @@ title: Holidays and Key Dates
 date: 2024-11-16
 author: hunter-baun
 excerpt: List of auspicious days in the Japanese calendar
-game: Pro Yakyuu Spirits 2024-2025
-mode: Hakkyuu no Kiseki
+game: 
+  title: Pro Yakyuu Spirits 2024-2025
+  url: "/games/Prospi/Prospi20242025/"
+mode: 
+  title: Hakkyuu no Kiseki
+  url: "/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki"
 category: Miscellaneous
 draft: 
 seo:

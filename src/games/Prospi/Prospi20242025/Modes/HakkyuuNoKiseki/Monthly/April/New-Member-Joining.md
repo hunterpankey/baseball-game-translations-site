@@ -3,8 +3,12 @@ title: New Club Members Joining
 date: 2024-11-13
 author: hunter-baun
 excerpt: Every year, your school gets a new group of first year students joining the team
-game: Pro Yakyuu Spirits 2024-2025
-mode: Hakkyuu no Kiseki
+game: 
+  title: Pro Yakyuu Spirits 2024-2025
+  url: "/games/Prospi/Prospi20242025/"
+mode: 
+  title: Hakkyuu no Kiseki
+  url: "/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki"
 category: 
 draft: 
 seo:
