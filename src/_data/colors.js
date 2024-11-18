@@ -100,7 +100,9 @@ module.exports = {
 	 * manage those in /src/assets/css/tailwind.css
 	 */
 	headingsDefault: 'text-teal-500',
+	headingsHoverDefault: 'text-teal-700',
 	headingsCustom: 'text-gray-700',
+	headingsHoverCustom: 'text-gray-900',
 
 	/**
 	 * ===== Excerpts on Post Lists
@@ -218,10 +220,10 @@ module.exports = {
 		bgHover: 'bg-gray-300',
 	},
 	tagPillCustom: {
-		text: '',
-		textHover: '',
-		bg: '',
-		bgHover: '',
+		text: 'text-gray-700',
+		textHover: 'text-gray-100',
+		bg: 'bg-gray-200',
+		bgHover: 'bg-gray-800',
 	},
 
 	/**
