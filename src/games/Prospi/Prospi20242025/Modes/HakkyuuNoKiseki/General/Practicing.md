@@ -30,7 +30,7 @@ Ultimately, what we're trying to do is get each of the players on the team to im
 1. Specific activities that you choose that level up specific areas: For example, if you choose the dumbbell activity, that levels up batting power, so all of your players will get a little bump to their batting power.
 2. General practice for the period: All players will raise all skill areas by some amount over the course of a week's practice. If that amount pushes them over the amount required to get another point/level in that area, then the point total will increase.
 
-Players will improve by other non-practice, non-game means as well, such as [consuming items](../../General/Items), [reading a book](../../General/Items#books), using a piece of equipment like a glove or cleats/spikes, and other events like [birthdays](../../Events/Player-Birthday).
+Players will improve by other [non-practice, non-game means](#non-practice-activities) as well, such as [consuming items](../../General/Items), [reading a book](../../General/Items#books), using a piece of equipment like a glove or cleats/spikes, and other events like [birthdays](../../Events/Player-Birthday).
 
 ## Selecting and Executing Practices
 
@@ -38,19 +38,80 @@ Players will improve by other non-practice, non-game means as well, such as [con
 You'll pick practice and other activities from the bottom of the dashboard screen shown above. Normall, practice selections will apply to an entire week, but when there is a set event during a week like a game, you'll select practices for the period from today until that event, and results will be proportionally scaled to the amount of time in the period. So if there's a game on Wednesday, the period is two days because there's a game two days from now, and you'll see about 2/7ths of the normal progression, and another period will happen between Wednesday and the following Monday with new selections and the other 5/7ths of the progression for the week.)
 
 From left to right, the cards shown above translate to:
-| Card                                                                                                                                 |                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
-| ![Throwing Check card](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/throwing-check.png =75x)     | Throwing check - improves throwing                                                             |
-| ![Schedule Review card](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/schedule-review.png =75x)   | Schedule improvement - reshuffles the cards and turns bad outcomes into good ones              |
-| ![Playing Catch card](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/playing-catch.png =75x)       | Glove skills ("catch ball") - Improves fielding skills for {% jisho "捕球" %}                  |
-| ![Practice Swings card](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/practice-swinging.png =75x) | Practice swings - improves batting contact                                                     |
-| ![Playing Catch card](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/playing-catch.png =75x)       | Glove skills - note the extra border around the two of these, and the two repeats at the end   |
-| ![Study Hall card](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/study-hall.png =75x)             | Study hall - improves scholarship allowing for more books and skills to be learned by players  |
-| ![Dumbbells card](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/dumbbell.png =75x)                | Dumbbells - improves power                                                                     |
-| ![Dumbbells card](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/dumbbell.png =75x)                | Dumbbells                                                                                      |
-| ![Convenience Store card](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/konbini.png =75x)         | Convenience store - visit the convenience store and get some items like energy drinks or candy |
+<section id="ExampleCards" class="w-fit mx-auto grid grid-cols-2 lg:grid-cols-4 md:grid-cols-3 justify-items-center justify-center gap-y-6 gap-x-14 mb-5">
+  <div class="w-64 bg-white shadow-md rounded-xl duration-500 hover:scale-[1.01] hover:shadow-xl">
+      <img src="/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/throwing-check.png"
+        alt="Throwing Check card" class="w-64 object-cover rounded-t-xl"/>
+      <div class="px-4 py-3 w-64">
+        <p class="text-lg font-bold text-black block capitalize">Throwing Check</p>
+        <div class="flex items-center">
+          <span>Improves throwing</span>
+        </div>
+      </div>
+  </div>
+  <div class="w-64 bg-white shadow-md rounded-xl duration-500 hover:scale-[1.02] hover:shadow-xl">
+      <img src="/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/schedule-review.png"
+        alt="Schedule Review card" class="w-64 object-cover rounded-t-xl"/>
+      <div class="px-4 py-3 w-64">
+        <p class="text-lg font-bold text-black block capitalize">Schedule Review</p>
+        <div class="flex items-center">
+          <span>Reshuffles the cards and turns bad outcomes into good ones</span>
+        </div>
+      </div>
+  </div>
+  <div class="w-64 bg-white shadow-md rounded-xl duration-500 hover:scale-[1.03] hover:shadow-xl">
+      <img src="/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/playing-catch.png"
+        alt="Playing Catch card" class="w-64 object-cover rounded-t-xl"/>
+      <div class="px-4 py-3 w-64">
+        <p class="text-lg font-bold text-black block capitalize">Glove skills</p>
+        <div class="flex items-center">
+          <span>Improves fielding skills for {% jisho "捕球" %}. Literally, "catch ball".</span>
+        </div>
+      </div>
+  </div>
+  <div class="w-64 bg-white shadow-md rounded-xl duration-500 hover:scale-[1.03] hover:shadow-xl">
+      <img src="/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/practice-swinging.png"
+        alt="Practice Swings card" class="w-64 object-cover rounded-t-xl"/>
+      <div class="px-4 py-3 w-64">
+        <p class="text-lg font-bold text-black block capitalize">Practice Swings</p>
+        <div class="flex items-center">
+          <span>Improves batting contact</span>
+        </div>
+      </div>
+  </div>
+  <div class="w-64 bg-white shadow-md rounded-xl duration-500 hover:scale-[1.03] hover:shadow-xl">
+      <img src="/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/study-hall.png"
+        alt="Study Hall card" class="w-64 object-cover rounded-t-xl"/>
+      <div class="px-4 py-3 w-64">
+        <p class="text-lg font-bold text-black block capitalize">Study Hall</p>
+        <div class="flex items-center">
+          <span>Improves scholarship allowing for more books and skills to be learned by players</span>
+        </div>
+      </div>
+  </div>
+  <div class="w-64 bg-white shadow-md rounded-xl duration-500 hover:scale-[1.03] hover:shadow-xl">
+      <img src="/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/playing-catch.png"
+        alt="Dumbbells card" class="w-64 object-cover rounded-t-xl"/>
+      <div class="px-4 py-3 w-64">
+        <p class="text-lg font-bold text-black block capitalize">Dumbbells</p>
+        <div class="flex items-center">
+          <span>Improves power</span>
+        </div>
+      </div>
+  </div>
+  <div class="w-64 bg-white shadow-md rounded-xl duration-500 hover:scale-[1.03] hover:shadow-xl">
+      <img src="/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/konbini.png"
+        alt="Convenience Store card" class="w-64 object-cover rounded-t-xl"/>
+      <div class="px-4 py-3 w-64">
+        <p class="text-lg font-bold text-black block capitalize">Convenience Store</p>
+        <div class="flex items-center">
+          <span>Visit the convenience store and get some items like energy drinks or candy</span>
+        </div>
+      </div>
+  </div>
+</section>
 
-Above the cards is a short message describing it. The highlighted one says, 「{% jisho "送球チェックをします。スローイング" %} :arrow_up: 」, which is really not an improvement over what's on the card, but if you hit Start/Option, it'll give you an even better description.
+Above the cards is a short message describing it. The highlighted one says, 「{% jishoSearch "送球チェックをします。スローイング" %} :arrow_up: 」, which is really not an improvement over what's on the card, but if you hit Start/Option, it'll give you an even better description.
 
 In any given period, you'll can select three activities (five during special training camps), with varying effects. Select them with X, and once you've selected three cards, press X again to execute. Practice cards improve the skills noted. 
 
@@ -70,15 +131,59 @@ Selecting the three activity cards will remove them from the collection. Additio
 
 ## Card Combinations and Sequences
 Certain sequences and combinations will give a bonus to effectiveness. Two combinations are as follows:
-- The Day Off card followed by any on-field practice card - The day after an off day will provide a bonus to whatever the practice type is. If you want to play the Day Off card and a non-practice card, play them in order properly: 1. Day Off, 2. On-Field Practice, 3. Non-Practice.
 
-<div class="w-full grid grid-cols-4 gap-0 content-center">
-  <img src='/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/day-off.png' class='inline content-center' />
-  <img src='/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/dumbbell.png' class='inline content-center' />
-  <img src='/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/university.png' class='inline content-center' />
-</div>
-
-- The Watch Game/Spectate card followed by any on-field practice card - Same bonus. Apparently, watching another game will inspire your players to find more meaning in the practice.
+<ul class="list-none bg-white rounded-lg shadow divide-y divide-gray-200">
+    <li class="px-6 py-4">
+        <div class="flex justify-between">
+            <span class="font-semibold text-lg">The Day Off card followed by any on-field practice card</span>
+        </div>
+        <p class="text-gray-700">The day after an off day will provide a bonus to whatever the practice type is. If you want to play the Day Off card and a non-practice card, play them in order properly: 1. Day Off, 2. On-Field Practice, 3. Non-Practice.</p>
+        <section id="CardSequenceExample" class="w-fit mx-auto grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 justify-items-center justify-center gap-y-20 gap-x-14 mt-10 mb-5">
+          <div class="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
+              <img src="/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/day-off.png"
+                alt="Product" class="h-80 w-72 object-cover rounded-t-xl"/>
+              <div class="px-4 py-3 w-72">
+                <p class="text-lg font-bold text-black truncate block capitalize">
+                  Day Off
+                </p>
+                <div class="flex items-center">
+                  Take the day off to rest and recover
+                </div>
+              </div>
+          </div>
+          <div class="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
+              <img src="/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/dumbbell.png"
+                alt="Product" class="h-80 w-72 object-cover rounded-t-xl"/>
+              <div class="px-4 py-3 w-72">
+                <p class="text-lg font-bold text-black truncate block capitalize">
+                  Dumbbells
+                </p>
+                <div class="flex items-center">
+                  Pump some iron and work on your power
+                </div>
+              </div>
+          </div>
+          <div class="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
+              <img src="/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/activity-cards/university.png"
+                alt="Product" class="h-80 w-72 object-cover rounded-t-xl"/>
+              <div class="px-4 py-3 w-72">
+                <p class="text-lg font-bold text-black truncate block capitalize">
+                  Visit the University
+                </p>
+                <div class="flex items-center">
+                  Go to the university and see one of your former players
+                </div>
+              </div>
+          </div>
+        </section>
+    </li>
+    <li class="px-6 py-4">
+        <div class="flex justify-between">
+            <span class="font-semibold text-lg">The Watch Game/Spectate card followed by any on-field practice card</span>
+        </div>
+        <p class="text-gray-700">Same bonus. Apparently, watching another game will inspire your players to find more meaning in the practice.</p>
+    </li>
+</ul>
 
 There are several combinations that give non-standard effectiveness besides these, so watch for the game to show you a notification to that effect.
 
@@ -101,6 +206,3 @@ Let's say that the team recovers seven out of nine cost points per period. When 
 
 ### Learn the Activity Sequence Bonuses
 Try the card sequences from [Card Sequences](#card-combinations-and-sequences) as well as other sensible combinations to learn what bonuses you can get. Any time you can get a more effective week is a good development week. Any time you play the Day Off card, make the next one a strong practice card.
-
-
-Players will level up an actual full point if they fill their point meter via that activity. Even if a player doesn't get a point from the activity, they're still getting benefits, just not enough this time to score the next point in the skill. You can see the improvement in the smartphone roster screen's player details for the skill.

@@ -40,12 +40,45 @@ You'll do all of this through the roster menu in the smartphone. Hit L1 on the d
 ### Common Information
 ![common information](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/Player-Activities/roster-page-common-info.png)
 All pages show several common pieces of information on the left side of the player row for both pitchers and hitters: 
-* Name ({% jisho "福島" %}) - Fukushima
-* Position ({% jisho "投手" %}) - pitcher
-* School Year ({% jisho "3年" %}) - 3rd year, i.e., a senior in Japanese high school
-* Current Fatigue Level ({% jisho "体力" %}) - 5/5 energy, i.e., not fatigued at all
-* Learning Items Applied - one piece of equipment (the bat and ball icon), and two books
-* Handedness/Dexterity ({% jisho "右" %}) - right handed thrower (first character), right handed batter (second); {% jisho "左" %} is the character for left.
+
+<ul class="list-none bg-white rounded-lg shadow divide-y divide-gray-200">
+  <li class="px-4 py-1">
+    <div class="flex justify-between">
+      <span class="font-semibold text-lg">Name</span>
+    </div>
+    <p class="text-gray-700">{% jisho "福島" %} - Fukushima</p>
+  </li>
+  <li class="px-4 py-1">
+    <div class="flex justify-between">
+      <span class="font-semibold text-lg">Position</span>
+    </div>
+    <p class="text-gray-700">{% jisho "投手" %} - Pitcher</p>
+  </li>
+  <li class="px-4 py-1">
+    <div class="flex justify-between">
+      <span class="font-semibold text-lg">School Year</span>
+    </div>
+    <p class="text-gray-700">{% jisho "3年" %} - 3rd year, i.e., a senior in Japanese high school</p>
+  </li>
+  <li class="px-4 py-1">
+    <div class="flex justify-between">
+      <span class="font-semibold text-lg">Current Fatigue Level</span>
+    </div>
+    <p class="text-gray-700">{% jisho "体力" %} - 5/5 energy, i.e., not fatigued at all</p>
+  </li>
+  <li class="px-4 py-1">
+    <div class="flex justify-between">
+      <span class="font-semibold text-lg">Learning Items Applied</span>
+    </div>
+    <p class="text-gray-700">One piece of equipment (the bat and ball icon), and two books</p>
+  </li>
+  <li class="px-4 py-1">
+    <div class="flex justify-between">
+      <span class="font-semibold text-lg">Handedness/Dexterity</span>
+    </div>
+    <p class="text-gray-700">Right handed thrower (first character), right handed batter (second character).<br /> Right: {% jisho "右" %}, Left: {% jisho "左" %}</p>
+  </li>
+</ul>
 
 ### Page 1
 {# ![Roster page 1](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/Player-Activities/roster-page-1.png)  #}
@@ -245,3 +278,12 @@ Again, this is a 3rd year player, so the stakes are pretty low, and you can't re
 * Change batting type - trajectory/strategy
 * Learn switch hitting or hitting from the other side
 * Change batting stance to square, open, etc.
+
+## Additional Views
+
+There are three other pages to the roster screen.
+- You can view pitching stats, which will show your regular pitchers as well as all your fielders with their terrible pitching skills. Everyone, technically can take the mound and throw straight pitches. The default is fastball at 120 kph (about 75 mph) only, but anyone can receive points in top speed, stamina, or learn a new pitch if you want to develop a new pitcher.
+- You can view everyone as a hitter, which will show your pitchers' batting stats. Some of them might be ok, since high school kids usually haven't gone pure pitcher or pure fielder by then. Some of the pitchers will be really terrible hitters, though, and since they still have to hit, you might want to level their contact and power up to F at least to give yourself a chance at a couple of extra hits from the #9 slot in the lineup.
+- Finally, you can direct practice orders by group, ordering all pitchers to work on top speed, for example, or all hitters to work on contact vs righties. The groups shown in the screen below are, in order: pitchers, all fielders, catchers, infielders, and outfielders. Note that setting all fielders will override each of the other three sub-groups.
+
+![Group training screen](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/Player-Activities/group-training.png)
