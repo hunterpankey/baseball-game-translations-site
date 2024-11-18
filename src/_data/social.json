@@ -4,6 +4,10 @@
 		"url": ""
 	},
 	{
+		"platform": "discord-mark-white",
+		"url": "https://discord.gg/pVGaPXYVRq"
+	},
+	{
 		"platform": "rss",
 		"url": "/feed.xml"
 	}

@@ -15,7 +15,8 @@
     {%- include "partials/head.njk" %}
     {% set prismOkaidia %}{% include "src/assets/css/prism-okaidia.css" %}{% endset -%}
     <style>
-      {{prismOkaidia | safe}}</style>
+      {{prismOkaidia | safe}}
+    </style>
   </head>
   <body class="{{ colors.siteTextCustom or siteTextDefault }}">
     {% svgsprite %}
@@ -35,7 +36,7 @@
           <img class="object-cover {{ images.align }} w-full h-full" src="{{ images.feature if 'http' in images.feature else (images.feature if "./" in images.feature else "/assets/images/" + images.feature) }}" alt="{{ title }}">
         </figure>
       {% endif %}
-      <div class="{{ colors.bodyCustom.barBg or colors.bodyDefault.barBg }}">
+      <div class="flex-grow {{ colors.bodyCustom.barBg or colors.bodyDefault.barBg }}">
         <div class="flex-grow max-w-full">
           <main class="block py-12" id="content">
             {{ content | safe }}

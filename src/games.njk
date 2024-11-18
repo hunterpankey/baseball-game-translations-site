@@ -28,5 +28,9 @@ pagination:
 {# ===== Paginate based on "size" frontmatter value above =====  #}
 {# Don't even include the pagination component if there are fewer posts than needed to paginate  #}
 {% if collections.game.length > pagination.size %}
-  {% include "components/pagination.njk" %}
+  <div class="grid gap-8 mx-auto mt-1 lg:max-w-none">
+    <div class="flex flex-col items-center">
+      {% include "components/pagination.njk" %}
+    </div>
+  </div>
 {% endif %}

@@ -8,7 +8,7 @@ tags: pages
   <h1 class="{{ colors.headingsCustom or colors.headingsDefault }}">{{ seo.title or title }}</h1>
 
   {% if seo.description %}
-    <div class="p-2 {{ colors.borderCustom.borders or colors.borderDefault.borders }} {{ colors.borderCustom.color or colors.borderDefault.color }}">
+    <div class="py-2 px-1 {{ colors.borderCustom.borders or colors.borderDefault.borders }} {{ colors.borderCustom.color or colors.borderDefault.color }}">
       {{ seo.description }}
     </div>
   {% endif %}
