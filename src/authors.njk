@@ -16,7 +16,8 @@ eleventyNavigation:
 {% columns %}
 {% cols "flex-none" %}
 <p>
-  <img class="h-64 rounded-lg" src="{{ author.image }}" alt="Photo of {{ title }}"></p>
+  <img class="h-64 rounded-full" src="{{ author.image }}" alt="Photo of {{ title }}">
+</p>
 {% endcols %}
 {% cols "flex-grow px-8" %}
 <div class="mt-4 text-gray-500">
@@ -58,7 +59,7 @@ eleventyNavigation:
 </div>
 {% endcols %}
 {% endcolumns %}
-<div class="px-8 pt-4 mt-8 text-gray-500 border-t border-gray-300">
+<div class="px-8 pt-4 mt-4 text-gray-500 border-t border-gray-300">
   <div class="text-lg font-semibold {{ colors.headingsCustom or colors.headingsDefault }}">10 most recent posts by
       {{ title }}:</div>
   {% set posts = collections.post | getPagesByAuthor(author.slug) %}
@@ -72,7 +73,7 @@ eleventyNavigation:
     {% endfor %}
   </ul>
 </div>
-<div class="px-8 pt-4 mt-8 text-gray-500 border-t border-gray-300">
+<div class="px-8 pt-4 mt-4 text-gray-500 border-t border-gray-300">
   <div class="text-lg font-semibold {{ colors.headingsCustom or colors.headingsDefault }}">10 most recent game translation
       pages by {{ title }}:</div>
   {% set posts = collections.game | getPagesByAuthor(author.slug) %}

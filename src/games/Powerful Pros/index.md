@@ -29,4 +29,4 @@ eleventyNavigation:
 ### Games in the Series
 
 [Powerful Pros 2022](<Powerful Pros 2022>)
-[Powerful Pros 2024-2025](<Powerful Pros 2025>)
+[Powerful Pros 2024-2025](<Powerful Pros 2024>)

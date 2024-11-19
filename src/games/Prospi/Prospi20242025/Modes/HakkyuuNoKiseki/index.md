@@ -48,6 +48,7 @@ layout: game
 
 ### Games
 [Playing Games](Gameplay/Playing-Games)
+[During a Game](./Gameplay/During-a-Game)
 [Losing a Game](./Gameplay/Losing-a-Game)
 [Simulation Rules](Gameplay/Sim-Rules)
 

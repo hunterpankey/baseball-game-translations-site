@@ -30,10 +30,13 @@ eleventyNavigation:
   title: Prospi 2024 #  as it will appear in the nav
   order: 4    # order to display in the nav
 ---
-[[toc]]
 {# ![Pawa Puro 2024 Main Menu](</assets/images/games/PowerfulPros/2024/general/main menu.png>) #}
+![Pro Yakyuu Spirits 2024-2025 title card](/assets/images/2024/10/prospi2024-titlecard.png)
+
+[[toc]]
 
 ## Modes
 [Hakkyuu no Kiseki](Modes/HakkyuuNoKiseki)
 
-{# ## Videos #}
+## Videos
+[Helpful Videos](./General/Helpful-Videos)

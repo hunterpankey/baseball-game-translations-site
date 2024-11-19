@@ -41,7 +41,7 @@ dd a {
 }
 
 p {
-	@apply mb-4;
+	@apply my-4;
 }
 
 .wrapper>p:first-of-type {
