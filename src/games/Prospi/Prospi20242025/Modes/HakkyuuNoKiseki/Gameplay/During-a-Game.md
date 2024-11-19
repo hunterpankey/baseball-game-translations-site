@@ -81,6 +81,7 @@ Last, it shows the starting pitcher with some basic info as well. This guy is Sh
 [18]: {{ imageFolder }}/18-end-of-inning.png
 [19]: {{ imageFolder }}/19-pitching-moment.png
 [20]: {{ imageFolder }}/20-final-score-card.png
+[21]: {{ imageFolder }}/21-final-line-score.png
 
 ## Gameplay
 ![Pitching warmup interface][15]
@@ -191,7 +192,11 @@ Right side:
 
 #### Messenger Menu
 ![Messenger menu][8]
-You can also coach players during the game. Rather than going out yourself, you send in another player to take the message to the batter or pitcher. From the pause menu, select "Messenger" in the bottom-left. You'll see a list of your players, along with their school year and what effect they'll have. Possible effects are:
+You can also coach players during the game. Rather than going out yourself, you send in another player to take the message to the batter or pitcher. From the pause menu, select "Messenger" in the bottom-left. You'll see a list of your players, along with their school year and what kind of message they will send. 
+
+In the status bar at the bottom, the effect they'll have is shown. This one says, 「打者能力をものすごく上げます （１打席、打者のミートアップ特大）」, which means "Batter's ability will rise greatly (For one at bat, the batter's contact will go up an extra-large amount)". The part we care about is in the middle, 「{% jishoSearch "ミートアップ" %}」.
+
+Possible effects are:
 * Improve contact (ミート)
 * Improve power (パワー)
 * Improve mood
@@ -211,7 +216,7 @@ As in the pinch hitter menu, you can switch back to the pinch hitting menu, look
 
 ### Simulation
 ![Beginning simulation][13]
-After the first inning is complete, the CPU will take over and simulate the game until one of the sim rules is hit. The sim screen shows the two teams with lineups, including batting order number, field position and associated color, name, and mood for each player. The line score is along the top, and the game situation is shown in the center.
+After the first inning is complete, the CPU will take over and simulate the game until one of the [sim rules](../Sim-Rules) is hit. The sim screen shows the two teams with lineups, including batting order number, field position and associated color, name, and mood for each player. The line score is along the top, and the game situation is shown in the center.
 
 * The control in the top right is to control how substitutions are made. 「{% jishoSearch "選手交代切替" %}」. Press square/X to change. This is currently set to auto (「{% jisho "オート" %}」).
 * Inning: Shown with the numeral, the counter 「回」, and the top (表) or bottom (ウラ) indicator.
@@ -222,11 +227,11 @@ After the first inning is complete, the CPU will take over and simulate the game
 
 #### Returning to Live Play
 ![Returning to live play][19]
-When one of the live play criteria is hit, you'll see a screen like this that gives you the game situation before sending you back to the field. In this case, I'll be pitching with two outs and no runners in the bottom of the seventh. My pitcher has thrown 69 pitches (「{% jisho "投球" %}{% jisho "数" %}」), he's given up 1 hit (「{% jisho "被" %}{% jisho "安打" %}」), has 6 strikeouts (「{% jisho "奪三振" %}」), and 1 walk (「{% jisho "四死球" %}」). Press X here to go back to the field.
+When one of the [live play criteria](../Sim-Rules) is hit, you'll see a screen like this that gives you the game situation before sending you back to the field. In this case, I'll be pitching with two outs and no runners in the bottom of the seventh. My pitcher has thrown 69 pitches (「{% jisho "投球" %}{% jisho "数" %}」), he's given up 1 hit (「{% jisho "被" %}{% jisho "安打" %}」), has 6 strikeouts (「{% jisho "奪三振" %}」), and 1 walk (「{% jisho "四死球" %}」). Press X here to go back to the field.
 
 ### Finishing the Game
 ![Game over card][20]
 When the game is over, you'll see something like this screen for a win, or a similar one for a loss with different characters in the middle. In this case, {% jisho "勝利" %} means "victory", and {% jisho "対" %} means "vs." or "against".
 
 ![Final line score][21]
-Next you'll get the final line score as everyone trots off the field. Press X to wrap it up and go to the post-game.
+Next you'll get the final line score as everyone trots off the field. This one was a good one for my team. They don't all go like this, for sure. Also, note the 2000VP that I earned for this game. I can go back to the mode select menu into the VP store and buy items or unlock stadiums, coaches, and OB players with this. Press X to wrap it up and go to the post-game.
