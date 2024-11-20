@@ -78,6 +78,7 @@ layout: game
 [Player's Birthday](./Events/Player-Birthday)
 
 ## General Pages
+[Activity Card List](./General/Practice-Activity-Cards)
 [Fame Levels](./General/Fame-Levels)
 [Lists and Collections](./General/Lists)
 [Calendar Dates and Holidays](./General/Holidays-Key-Dates)

@@ -69,4 +69,16 @@ module.exports = {
 	link: function (displayText, url, shouldOpenInNewTab) {
 		return `<a href=${url} ${shouldOpenInNewTab ? "target='_blank'" : ""}>${displayText}</a>`;
 	},
+	cardTile: function (cardTitle, cardDescription, cardImgUrl) {
+		return `<div class="w-64 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
+      <img src="${cardImgUrl}"
+        alt="${cardTitle}" class="w-64 object-cover rounded-t-xl"/>
+      <div class="px-4 py-3 w-64">
+        <p class="text-lg font-bold text-black block capitalize">${cardTitle}</p>
+        <div class="flex items-center">
+          <span>${cardDescription}</span>
+        </div>
+      </div>
+  	</div>`;
+	}
 }
