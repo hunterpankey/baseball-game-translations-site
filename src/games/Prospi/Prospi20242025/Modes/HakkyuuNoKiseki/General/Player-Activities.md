@@ -32,15 +32,16 @@ tags:
   - practice
 layout: game
 ---
-
 [[toc]]
+
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ## Introduction
 A huge piece of the Hakkyuu no Kiseki mode is selecting which aspects of the game each player should work on. Do you want to have a team of speedy slap hitters and defensive wizards, big power guys, ace pitchers, or something in between? (Probably something in between... but it's up to you!) Here's how you develop the team that you want.
 
 ## Roster Screen
 ![Smartphone menu](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/smartphone.png =125x)
-You'll do all of this through the roster menu in the smartphone. Hit L1 on the dashboard screen and then choose the second icon on the top row to view the roster. We'll look at one of my pitchers, Fukushima, and one of my hitters, Takeshi Yuasa (I have two players with the surname Yuasa, so they each get their give name's first character in the nameplate to distinguish them).
+You'll do all of this through the roster menu in the smartphone. Hit L1 on the dashboard screen and then choose the second icon on` the top row to view the roster. We'll look at one of my pitchers, Fukushima, and one of my hitters, Takeshi Yuasa (I have two players with the surname Yuasa, so they each get their give name's first character in the nameplate to distinguish them).
 
 *Note: The roster screen actually has four pages, accessible on PS5 with the left half of the touchpad. See the button prompts in the top right of the screen ({% jishoSearch "ページ切替" %})*
 
@@ -294,3 +295,5 @@ There are three other pages to the roster screen.
 - Finally, you can direct practice orders by group, ordering all pitchers to work on top speed, for example, or all hitters to work on contact vs righties. The groups shown in the screen below are, in order: pitchers, all fielders, catchers, infielders, and outfielders. Note that setting all fielders will override each of the other three sub-groups.
 
 ![Group training screen](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/Player-Activities/group-training.png)
+
+</article>

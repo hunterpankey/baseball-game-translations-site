@@ -166,11 +166,13 @@ module.exports = function (eleventyConfig) {
 	}
 
 	let anchorOptions = {
-		permalink: markdownItAnchor.permalink.headerLink({ safariReaderFix: true })
+		permalink: markdownItAnchor.permalink.linkInsideHeader({ symbol: "#" })
 	};
 
 	let tocOptions = {
-		level: 2
+		level: 2,
+		listClass: "menu rounded-box w-72",
+		listType: "ul"
 	}
 
 	let markdownLib = markdownIt(options)
