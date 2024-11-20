@@ -36,14 +36,16 @@ layout: game
 
 You're not gonna win 'em all, not unless you're save-scumming pretty hard. So get used to it, especially in the beginning. You might win one or two games as an E-ranked school, but you'll go up against a C-ranked opponent and get wrecked soon enough. Tournaments are all single-elimination, single-game rounds. There's no loser's bracket that you can rise up out of in this game.
 
-## Immediately After
+## Defeat
 ![Game loss card](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/Losing-a-Game/game-loss-card.png)
 
 This is the card shown when you lose a game. Obviously, you'll see your own school logo instead of mine. The word is {% jisho "敗北" %}, which means "defeat" or "loss". If this was a tournament game, you're knocked out of the tournament and you'll lose out on the player development benefits of playing in additional games. If this is a practice game, this kinda doesn't matter.
 
 Early on, after winning a game or two in the prefectural tournaments, the next goal will be winning enough games in the prefectural tournament, or becoming the tournament champion that you gain an entry to the regional tournament. My school is in Aomori, which has enough teams such that the prefectural tournament takes six wins. My most recent 2026 season saw me as the runner-up, which is still good enough to make the regional, so a loss doesn't always end your season.
 
-## Dialog
+You'll see the same statistics options as when you [win the game](../Postgame#details).
+
+## Returning to the Dashboard
 Here's the chat you have with your club manager afterward. My tourney run was successful enough to make it into the regional as the third screen shows. You might see a differenc sequence if you get knocked out earlier, or if this was a practice game outside of a tournament.
 
 ![Oh no, we lost!](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/Losing-a-Game/game-loss-dialog-1.png)
