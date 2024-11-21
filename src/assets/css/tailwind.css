@@ -64,7 +64,7 @@ pre code {
 }
 
 .table-of-contents {
-	@apply border-l-1 border-solid float-right;
+	@apply border-l-2 border-solid float-right;
 }
 
 .table-of-contents a {
