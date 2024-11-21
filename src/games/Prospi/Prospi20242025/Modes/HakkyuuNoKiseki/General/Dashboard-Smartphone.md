@@ -32,6 +32,7 @@ tags:
 layout: game
 ---
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ## The Hakkyuu no Kiseki Interface
 
 ### Dashboard
@@ -96,3 +97,5 @@ From left-to-right, top-to-bottom, the smartphone icons are:
 * System - save and load, configure audio and preferences, and quit back to the mode screen
 
 You've set most of the team configuration during setup. The roster screen is probably the most important. Most of the others will be essentially empty at the start and begin to fill in as you play the mode a bit. A few of the icons are unavailable until you hit a certain date or event, so don't be alarmed if you can't get to something right away.
+
+</article>

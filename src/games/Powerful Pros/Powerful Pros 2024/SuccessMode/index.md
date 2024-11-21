@@ -23,6 +23,8 @@ tags:
   - success-mode
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ![Success Mode main menu](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Start/PlayerRegistration/2.png)
 
@@ -89,3 +91,5 @@ layout: game
 <!-- [Names and Characters](<Names>) -->
 
 ## Videos
+
+</article>

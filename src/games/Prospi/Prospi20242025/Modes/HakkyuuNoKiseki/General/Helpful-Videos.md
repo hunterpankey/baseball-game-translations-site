@@ -32,9 +32,12 @@ tags:
 layout: game
 ---
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ## 動画
 
 As you might imagine, most of the people playing this game and making videos are Japanese, so if you don't speak the language, turn on YouTube's automatic captions, and it'll do its best to translate for you.
 
 ### How to change your opponents' uniforms to real-life Japanese high schools.
 {% youtube "pvRxOrHmww4" %}
+
+</article>

@@ -33,6 +33,7 @@ tags:
 layout: game
 ---
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ## 卒業
 Every March, after the third semester, third-year students graduate and go out into the world to start whatever it is they want to do. In Hakkyuu no Kiseki, that means that they will improve the various town locations and maybe represent your high school in the pros!
 
@@ -49,3 +50,5 @@ After the ceremony, you'll get a recap of the graduating players with their new 
 ![listing of graduating players with stats](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Monthly/March/Graduation/graduation-listing.png)
 
 Here the first player, Mizoguchi ({% jisho "溝口" %}) got drafted and is going to the NPB ({% jisho "プロ野球選手" %}). The first row of statistics is for all high school games ({% jishoSearch "高校通算" %}), and the second row is the official games ({% jishoSearch "公式戦通算" %}) (i.e., not including the practice games). The statistics listed are games played ({% jisho "試合" %}), innings pitched ({% jisho "投球回" %}), ERA ({% jisho "防御率" %}), batting average ({% jisho "打率", "打率" %}), HR ({% jisho "本塁打", "本" %}), RBI ({% jisho "打点", "点" %}), and stolen bases ({% jisho "盗塁", "盗" %}).
+
+</article>

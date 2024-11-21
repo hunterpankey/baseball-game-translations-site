@@ -34,9 +34,13 @@ eleventyNavigation:
 ![Pro Yakyuu Spirits 2024-2025 title card](/assets/images/2024/10/prospi2024-titlecard.png)
 
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ## Modes
 [Hakkyuu no Kiseki](Modes/HakkyuuNoKiseki)
 
 ## Videos
 [Helpful Videos](./General/Helpful-Videos)
+
+
+</article>

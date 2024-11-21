@@ -21,6 +21,8 @@ tags:
   - pawa-pro
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ![Should display help?](</assets/images/games/PowerfulPros/2024/MyLife/Help/0.png>)
 
@@ -48,3 +50,5 @@ You can also play with players you've previously created in Success Mode or othe
 試合で活躍して 1 軍昇格、レギュラ ー を目指すのはもちろん、オフの日を満喫したり、結婚したり、充実したマイライフを送りましよう。
 
 Of course, you can perform well in games and be promoted to the first team, and aim to become a regular player, but you can also enjoy your days off, get married, and live a fulfilling My Life.
+
+</article>

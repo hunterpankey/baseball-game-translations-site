@@ -33,6 +33,7 @@ tags:
 layout: game
 ---
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ## 入部
 
 Every year in March, the new school year starts in Japan. Soon after, around April 8th, your new players will finally be revealed. Not sure why one wouldn't talk with the school administration to find out if your scouted players have enrolled, but that's not how the game works.
@@ -75,3 +76,5 @@ Next you'll see a list of your players and some options to edit them. You can ch
 ![new class member registration](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Monthly/April/new-class-members/new-class-member-registration.png)
 
 The first button is for name changes ({% jisho "名前" %}), and the second one is for appearance and equipment ({% jisho "容姿設定", "容姿" %}). Choose OK to finish and return to the main menu.
+
+</article>

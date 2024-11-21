@@ -23,6 +23,8 @@ tags:
   - instructions
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ![](</assets/images/games/PowerfulPros/2024/SuccessMode/Play/FirstRunInstructions/1.png>)
 1. サクセスはスト ー リ ー を楽しみながら、試合や練習をすることで選手を育成し、理想の選手に育て上げることを目指すモ ー ドです。
@@ -39,3 +41,5 @@ After clearing each scenario, you can create an original player in their final s
 ![](</assets/images/games/PowerfulPros/2024/SuccessMode/Play/FirstRunInstructions/4.png>)
 4. サクサクセスモ ー ドでは、マップを進めながら選手を育成し、手軽にオリジナル選手を作成できます。
 In Saku-Success mode, you can easily create an original player by training your player as you progress through the maps.
+
+</article>

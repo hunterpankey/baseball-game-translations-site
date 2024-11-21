@@ -26,6 +26,8 @@ tags:
   - practice
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ## Scene 1
 
@@ -237,3 +239,5 @@ Koumoto Fukuo's rating has increased by 5!
 
 生木盛生の評価5上がった！
 Namaki Morio's rating has increased by 5!
+
+</article>

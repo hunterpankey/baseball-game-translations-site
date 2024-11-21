@@ -26,6 +26,8 @@ tags:
   - practice
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ## Scene 1
 
 私：はぁ、はぁ。。。
@@ -113,3 +115,6 @@ I've leveled up!
 
 秋月三桜の応援レベルガ２になった！
 Akizuki Misaki's support level has reached level 2!
+
+
+</article>

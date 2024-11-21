@@ -56,12 +56,19 @@ pre code {
 	@apply bg-transparent border-0 rounded-none;
 }
 
+/*////////////////////////// */
+
 .table-of-contents a {
 	@apply py-1;
 }
 
 .table-of-contents ul {
 	@apply py-0;
+}
+
+.header-anchor {
+	text-decoration: none !important;
+	@apply text-lg;
 }
 
 @tailwind components;

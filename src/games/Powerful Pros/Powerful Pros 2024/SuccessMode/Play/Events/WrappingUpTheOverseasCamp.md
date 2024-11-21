@@ -23,6 +23,8 @@ tags:
   - event
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ## Scene 1
 
@@ -74,3 +76,5 @@ Okay, I'll show them that I'm different this year!
 ![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Events/WrappingUpTheOverseasCamp/9.png)
 私：ダメだった。。。今の監督評価のままだと、今後のべンチ入りすら難しいかも。
 Me: Ugh... If the manager's evaluation of me stays the way it is now, it might be difficult for me to even make the bench in the future.
+
+</article>

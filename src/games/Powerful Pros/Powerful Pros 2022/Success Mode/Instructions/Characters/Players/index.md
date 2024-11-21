@@ -22,6 +22,8 @@ tags:
   - instructions
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ## Instruction/Help Menu Selections
 サクセスに登場するキャラ -> 選手キャラ
@@ -42,3 +44,4 @@ As players level up, their abilities will improve, and the higher the player lev
 3. ただし、千将高校シナリオでは独自の成長をします。ご注意ください。（詳細は千将高校のヘルプを参照）
 *Tadashi, senshou koukou shinario de wa dokuji no seichou o shimasu. Go chuui kudasai. (Shousai wa senshou koukou no herupu o sanshou)*
 However, in the Sensho High School scenario, they will grow in their own way. Please note. (See Sensho High School Help for details)
+</article>

@@ -23,6 +23,8 @@ tags:
   - event
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ## Scene 1
 
@@ -182,3 +184,5 @@ INFO: I met team doctor Rika Kato.
 ![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Events/MeetingTheNewTeamDoctor/35.png)
 体力が 5 回復した!
 My stamina has recovered by 5 points!
+
+</article>

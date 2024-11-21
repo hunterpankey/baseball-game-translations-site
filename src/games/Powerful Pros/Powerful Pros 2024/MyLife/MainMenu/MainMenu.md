@@ -23,6 +23,8 @@ tags:
   - my-life-mode
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ![Main menu with three buttons for new, continue, and help](/assets/images/games/PowerfulPros/2024/MyLife/MainMenu/1.png)
 
 はじめから\
@@ -33,3 +35,5 @@ Continue
 
 へるぷ\
 Help
+
+</article>

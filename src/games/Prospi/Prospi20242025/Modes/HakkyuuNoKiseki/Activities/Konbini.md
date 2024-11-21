@@ -33,6 +33,7 @@ tags:
 layout: game
 ---
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 Here's the activity to go to the convenience store after unlocking it with a graduating player.
 
@@ -68,3 +69,5 @@ I got some candy/snacks, but these rascals ate them all. At least their moods im
 - {% jisho "商品" %} - shouhin - products, goods
 - {% jisho "速攻" %} - sokkou - quickly, immediately
 - {% jisho "胃袋" %} - ibukuro - belly (literally, "belly bag")
+
+</article>

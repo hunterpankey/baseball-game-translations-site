@@ -32,6 +32,7 @@ tags:
 layout: game
 ---
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ## Fame Levels
 
 Schools have an associated fame/renown level that reflects how difficult they are to beat. Leveling up your school to higher fame levels means that players you recruit will be more likely to enroll, so winning games and raising the level is key to building a better team and winning.
@@ -42,3 +43,5 @@ From best to worst:
 * {% jisho "中堅" %} - Mid-level - generally a C-ranked school
 * {% jisho "そこそこ" %} - Mediocre - generally a D-ranked school
 * {% jisho "弱小" %} - Weak - generally an E-ranked school
+
+</article>

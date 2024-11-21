@@ -49,44 +49,46 @@ You'll do all of this through the roster menu in the smartphone. Hit L1 on the d
 ![common information](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/Player-Activities/roster-page-common-info.png)
 All pages show several common pieces of information on the left side of the player row for both pitchers and hitters: 
 
-<ul class="list-none bg-white rounded-lg shadow divide-y divide-gray-200">
-  <li class="px-4 py-1">
-    <div class="flex justify-between">
-      <span class="font-semibold text-lg">Name</span>
-    </div>
-    <p class="text-gray-700">{% jisho "福島" %} - Fukushima</p>
-  </li>
-  <li class="px-4 py-1">
-    <div class="flex justify-between">
-      <span class="font-semibold text-lg">Position</span>
-    </div>
-    <p class="text-gray-700">{% jisho "投手" %} - Pitcher</p>
-  </li>
-  <li class="px-4 py-1">
-    <div class="flex justify-between">
-      <span class="font-semibold text-lg">School Year</span>
-    </div>
-    <p class="text-gray-700">{% jisho "3年" %} - 3rd year, i.e., a senior in Japanese high school</p>
-  </li>
-  <li class="px-4 py-1">
-    <div class="flex justify-between">
-      <span class="font-semibold text-lg">Current Fatigue Level</span>
-    </div>
-    <p class="text-gray-700">{% jisho "体力" %} - 5/5 energy, i.e., not fatigued at all</p>
-  </li>
-  <li class="px-4 py-1">
-    <div class="flex justify-between">
-      <span class="font-semibold text-lg">Learning Items Applied</span>
-    </div>
-    <p class="text-gray-700">One piece of equipment (the bat and ball icon), and two books</p>
-  </li>
-  <li class="px-4 py-1">
-    <div class="flex justify-between">
-      <span class="font-semibold text-lg">Handedness/Dexterity</span>
-    </div>
-    <p class="text-gray-700">Right handed thrower (first character), right handed batter (second character).<br /> Right: {% jisho "右" %}, Left: {% jisho "左" %}</p>
-  </li>
-</ul>
+<div class="not-prose">
+  <ul class="list-none bg-white rounded-lg shadow divide-y divide-gray-200">
+    <li class="px-4 py-1">
+      <div class="flex justify-between">
+        <span class="font-semibold text-lg">Name</span>
+      </div>
+      <p class="text-gray-700">{% jisho "福島" %} - Fukushima</p>
+    </li>
+    <li class="px-4 py-1">
+      <div class="flex justify-between">
+        <span class="font-semibold text-lg">Position</span>
+      </div>
+      <p class="text-gray-700">{% jisho "投手" %} - Pitcher</p>
+    </li>
+    <li class="px-4 py-1">
+      <div class="flex justify-between">
+        <span class="font-semibold text-lg">School Year</span>
+      </div>
+      <p class="text-gray-700">{% jisho "3年" %} - 3rd year, i.e., a senior in Japanese high school</p>
+    </li>
+    <li class="px-4 py-1">
+      <div class="flex justify-between">
+        <span class="font-semibold text-lg">Current Fatigue Level</span>
+      </div>
+      <p class="text-gray-700">{% jisho "体力" %} - 5/5 energy, i.e., not fatigued at all</p>
+    </li>
+    <li class="px-4 py-1">
+      <div class="flex justify-between">
+        <span class="font-semibold text-lg">Learning Items Applied</span>
+      </div>
+      <p class="text-gray-700">One piece of equipment (the bat and ball icon), and two books</p>
+    </li>
+    <li class="px-4 py-1">
+      <div class="flex justify-between">
+        <span class="font-semibold text-lg">Handedness/Dexterity</span>
+      </div>
+      <p class="text-gray-700">Right handed thrower (first character), right handed batter (second character).<br /> Right: {% jisho "右" %}, Left: {% jisho "左" %}</p>
+    </li>
+  </ul>
+</div>
 
 ### Page 1
 {# ![Roster page 1](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/Player-Activities/roster-page-1.png)  #}

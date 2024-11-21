@@ -23,6 +23,8 @@ tags:
   - event
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 
 ## Scene 1
@@ -319,3 +321,6 @@ Mental points increased by 15!
 
 やる気が1下がった！
 Motivation decreased by 1!
+
+
+</article>

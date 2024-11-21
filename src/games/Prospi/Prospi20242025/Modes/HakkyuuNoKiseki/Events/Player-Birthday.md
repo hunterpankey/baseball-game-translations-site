@@ -33,6 +33,7 @@ tags:
 layout: game
 ---
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 Yes, once a year (obviously), each of your players will have a birthday. Here's how the events go.
 
@@ -56,3 +57,6 @@ The following screens of dialog should be constant when the event occurs, exacep
 - {% jisho "大人" %} - otona - adult (literally, "big person")
 - {% jisho "気がする" %} - ki ga suru - to feel like, to seem like
 - {% jisho "テンション" %} - tenshon - mood, spirit, energy
+
+
+</article>

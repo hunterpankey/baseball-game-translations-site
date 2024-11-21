@@ -33,6 +33,7 @@ tags:
 layout: game
 ---
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ## Playing Games
 
 Your school will automatically play in the prefectural tournaments a few times a year. Winning this tournament will get you into the regional tournaments, and maybe even into the Meiji Jingu national tournament at the olympic field, or Koshien, the really prestigious one!
@@ -73,3 +74,5 @@ Next you'll set your lineup. If this is a regular game, you already have your li
 When you select the top button ({% jishoSearch "試合開始" %}), the game will begin.
 
 ![lineup changes](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/Playing-Games/Pregame-Sequence/6-lineup-changes.png)
+
+</article>

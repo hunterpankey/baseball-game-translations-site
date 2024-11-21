@@ -33,6 +33,7 @@ tags:
 layout: game
 ---
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 Constant practice and games will wear your players out and lead to less effective practices and worse performances. This is one of the main ways to manage your players' fatigue levels, along with improving players' fatigue recovery attributes ({% jishoSearch "体力回復" %}), and giving them stamina drinks.
 
@@ -66,3 +67,6 @@ The following two screens of dialog should be the same for each of the convenien
   {% vocabItem "体力", "", "tairyoku", "energy, body strength" %}
   {% vocabItem "回復", "", "kaifuku", "recovery" %}
 {% endvocab %}
+
+
+</article>

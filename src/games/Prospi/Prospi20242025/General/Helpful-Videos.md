@@ -32,6 +32,7 @@ tags:
 layout: game
 ---
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ## 動画
 
@@ -62,3 +63,5 @@ Here's a video in Japanese about how to farm XP to afford all the unlockables. T
 
 I would not be at all surprised if this were patched out at some point, if it isn't already.
 {% youtube "RUFZWfz-uT4" %}
+
+</article>

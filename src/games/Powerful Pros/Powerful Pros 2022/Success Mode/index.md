@@ -23,6 +23,8 @@ tags:
   - my-life-mode
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ![Success Mode main menu](</assets/images/games/PowerfulPros/2022/general/success mode main menu.png>)
 
@@ -62,3 +64,6 @@ layout: game
 From YouTuber [Kang Gang](https://www.youtube.com/@kanggang9802), who has a few different Pawa Puro videos over the years:
 
 {% youtube "ZCVz93xtsMc", "Powerful Pros 2022-2023 Success Mode" %}
+
+
+</article>

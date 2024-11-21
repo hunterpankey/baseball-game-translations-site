@@ -31,6 +31,8 @@ tags:
   - hakkyuu-no-kiseki
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 - 1/25 - "Participating Schools Announced" - 出場校発表
 - 2/25 - 3rd Semester Final Exams - 期末試験
@@ -52,3 +54,5 @@ layout: game
 - 11/4 - Cultural Festival - 文化祭
 - 11/21 - Tournament Bracket Announcement
 - 12/7 - 2nd Semester Final Exams
+
+</article>

@@ -23,6 +23,8 @@ tags:
   - event
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Events/MeetingTheOwner/1.png)
 三浦監督：全員集合!
@@ -72,3 +74,6 @@ Me: He must have immeasurable power. Alright, let's get some results this year a
 INFO:山本オーナーと出会った
 Info: I met owner Yamamoto.
 
+
+
+</article>

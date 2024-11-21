@@ -24,6 +24,8 @@ tags:
   - instructions
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ### パラメータや状態
 
 #### サクセス専用の能力
@@ -41,3 +43,5 @@ Getting along well means you're more likely to receive higher evaluations from m
 3. 動き物はアルバイトでの収入が上がり、買い物上手はショップでアイテムを安く購入できるようになります。
 *Ugokimono wa arubaito de no shuunyuu ga agari, kaimono jouzu wa shoppu de aitemu o yasuku kounyuu dekiru you ni narimasu.*
 Being an active person increases your income from part-time jobs, and being a good shopper means you can buy items at shops at cheaper prices.
+
+</article>

@@ -24,6 +24,8 @@ tags:
   - event
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ## Scene 1
 ![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Appeals/AppealToManager1/1.png)
@@ -66,3 +68,5 @@ Miura: You did it. I've changed my opinion of you!
 ![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Appeals/AppealToManager1/8.png)
 三浦監督の評価が２０上がった!
 Miura's evaluation has gone up by 20!
+
+</article>

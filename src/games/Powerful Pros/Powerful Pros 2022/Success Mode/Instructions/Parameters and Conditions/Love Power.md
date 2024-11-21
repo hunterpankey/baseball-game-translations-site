@@ -23,6 +23,8 @@ tags:
   - instructions
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ### パラメータや状態
 
 #### ラブパワーについて
@@ -36,3 +38,5 @@ When you practice at a practice location where she is, Love Power may be activat
 2. ラブパワー状態になると、やる気が最大になり、練習の効果が上がります。また、消費する体力も下がります。
 *Rabupawa- joutai ni naru to, yaruki ga saidai ni nari, renshuu no kouka ga agarimasu. Mata, shouhi suru tairyoku mo sagarimasu.*
 When you are in Love Power state, your motivation will be at its maximum and the effectiveness of your practice will increase. It will also reduce the amount of stamina consumed.
+
+</article>

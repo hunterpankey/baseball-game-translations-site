@@ -24,6 +24,8 @@ tags:
   - practice
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ## サクセスモードについて
 ### コツ
 
@@ -50,3 +52,5 @@ Tips have levels, and if the teammate who teaches you is highly skilled, the tip
 スペシャルタッグトレーニングは発動時もコツイベントは発生することがあります。
 *Supesharu taggu toreiningu wa hatsudou-ji mo kotsu ibento wa hassei suru koto ga arimasu.*
 Tip events may also occur when Special Tag Training is activated.
+
+</article>

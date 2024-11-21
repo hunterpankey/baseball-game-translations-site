@@ -23,6 +23,8 @@ tags:
   - event
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ## Scene 1
 
@@ -93,3 +95,5 @@ Yabe: Yes!
 マイク・マックスと出会った。
 I met Bob Jett.
 I met Mike Max.
+
+</article>

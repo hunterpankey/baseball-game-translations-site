@@ -24,6 +24,8 @@ tags:
   - instructions
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ## サクセスモードについて
 ### ケガ
 
@@ -44,3 +46,5 @@ Whether or not you will get injured is determined by your injury rate. The highe
 ケガ率は、体力とやる気が高いほど下がります。
 *Kegaritsu wa, tairyoku to yaruki ga takai hodo sagarimasu.*
 The higher your stamina and motivation, the lower your injury rate will be.
+
+</article>

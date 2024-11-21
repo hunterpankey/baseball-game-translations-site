@@ -22,6 +22,8 @@ tags:
   - success-mode
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ## Instruction/Help Menu Selections
 サクサクセスについて
 
@@ -51,3 +53,5 @@ Progressing through stages will make your players stronger, but the risks also i
 5. 体力がなくなるとゲームオーバーとなり、選手登録ができません。体力はＧＯＡＬするか、パネルの効果で回復できます。体力に注意しながら進みましょう。
 *Tairyoku wa go-ru suru ka, paneru no kouka de kaifuku dekimasu. Tairyoku ni chuui shinagara susumimashou.*
 If you run out of stamina, the game is over and you will not be able to register a player. You can recover stamina by reaching a GOAL or through the effects of panels. Be sure to pay attention to your stamina as you progress.
+
+</article>

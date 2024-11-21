@@ -31,6 +31,8 @@ tags:
   - hakkyuu-no-kiseki
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 
 ## プロ野球選手図鑑に選手を表示するにはどうすればいいですか。
@@ -210,3 +212,6 @@ The specifications are slightly different from the reincarnated players in Eikan
 - When on your team: May appear anyone (If playing in a past era, a player from the same place of origin and year will appear)
 - When on the opposing team: Will appear in the prefecture based on the high school they attended (Tanaka Masahiro will appear in Hokkaido)
 - When scouted: Will appear in the prefecture of their origin (Tanaka Masahiro will appear in Hyogo)
+
+
+</article>

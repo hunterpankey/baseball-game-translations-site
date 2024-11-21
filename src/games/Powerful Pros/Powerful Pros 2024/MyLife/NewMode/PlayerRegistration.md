@@ -23,6 +23,8 @@ tags:
   - instructions
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ![Interface screen for team selection](</assets/images/games/PowerfulPros/2024/MyLife/NewMode/PlayerRegistration/1 team select.png>)
 
@@ -283,3 +285,6 @@ Fixes the COM match level to "Powerful".
 8. Strength: Overwhelming power
 9. Weakness: Poor at stealing bases
 10. Game level: Normal
+
+
+</article>

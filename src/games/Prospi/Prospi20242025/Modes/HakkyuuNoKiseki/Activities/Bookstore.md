@@ -33,6 +33,7 @@ tags:
 layout: game
 ---
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 Here's how it goes when you choose to go to the bookstore after unlocking it with a graduating player.
 
@@ -70,3 +71,5 @@ This book is the Book of Motivation. I can apply this to a player to improve the
 - {% jisho "購入" %} - kounyuu - purchase
 - {% jisho "やる気" %} - yaruki - motivation (literally, "doing energy")
 - {% jisho "入手" %} - nyuushu - acquisition, procurement
+
+</article>

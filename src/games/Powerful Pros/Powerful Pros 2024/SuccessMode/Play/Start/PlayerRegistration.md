@@ -26,6 +26,8 @@ tags:
   - success-mode
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ![Powerful Pros 2024-2025 Main Menu with Success Mode Selected](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Start/PlayerRegistration/1.png)
 
 ![Success Mode Main Menu](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Start/PlayerRegistration/2.png)
@@ -136,3 +138,5 @@ Confirm the usage of the special item with "OK". The special item will be consum
 
 ## Completion
 After confirming the special item or not selecting one, registration is complete, and the scenario will start directly.
+
+</article>

@@ -30,10 +30,11 @@ eleventyNavigation:
 ---
 
 ![attract screen](/assets/images/common/PowerfulPros2022_attract.png)
-
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ### Modes
 
 Eikan Nine
 My Life
 [Success Mode](<Success Mode>)
+</article>

@@ -23,6 +23,8 @@ tags:
   - instructions
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ## Instruction/Help Menu Selections
 サクセスに登場するキャラ -> スカウト
 
@@ -41,3 +43,5 @@ The higher the scouts' evaluation of you, the higher your draft pick will be.
 Sukauto no iru renshū o eran dari, shiai de katsuyaku suru koto de, sukauto kara no hyōka o ageru koto ga dekimasu.
 
 You can increase the scouts' evaluation of you by choosing to attend practices where scouts are present and by performing well in games.
+
+</article>

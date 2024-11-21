@@ -23,6 +23,8 @@ tags:
   - instructions
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ## Instruction/Help Menu Selections
 サクセスに登場するキャラ -> 監督
@@ -37,3 +39,4 @@ If your coach gives you a low evaluation, you may not be able to play in a match
 2. 監督のいる練習を選ぶことで、評価を上げることができます。
 *Kantoku no iru renshuu o erabu koto de, hyouka o ageru koto ga dekimasu.*
 You can improve your evaluation by choosing to practice with the coach.
+</article>

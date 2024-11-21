@@ -32,6 +32,7 @@ tags:
 layout: game
 ---
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ## 白球の奇跡
 
 Hakkyuu no Kiseki is a big single-player mode in PYS24. You'll take the role of a high school baseball coach, baseball club manager, and other miscellaneous roles. You can simulate games, play a strategic role directing pitching and batting strategy, or even play the games yourself! In this article, we'll talk about the main actions and activities that you need to know about to have success.
@@ -72,3 +73,5 @@ Grounds will deteriorate over time as you practice on it consecutively without t
 ### Setting the Lineup and On-Field Strategy
 
 You can set your ideal starting lineup and main starting pitcher through the smartphone menu. Use the "omakase" ({% jisho "お任せ", "おまかせ" %}) option to let the game auto-set the lineup. You can make further changes after auto-setting the lineup, for example, if you want to give some younger players some starts for a few games. You can change the lineup immediately before the game as well, so don't worry if you forget a change you want to make.
+
+</article>

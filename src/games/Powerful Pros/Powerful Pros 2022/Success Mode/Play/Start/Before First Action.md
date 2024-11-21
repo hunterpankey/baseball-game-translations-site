@@ -22,6 +22,8 @@ tags:
   - success-mode
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 矢部君：プレーヤーくん、これから練習でやんすか？
 Yabe: Player-kun, are you going to practice now?
@@ -31,3 +33,6 @@ Okay, I'll join you!
 
 知識：監督評価が高くなると、レギュラーとして試合出場できるようになります。練習の説明を見ますか？
 Information: If your manager's evaluation of you increases, you will be able to play in games as a starter. Would you like to see an explanation of the practice system?
+
+
+</article>

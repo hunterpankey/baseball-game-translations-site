@@ -23,6 +23,8 @@ tags:
   - event
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ## Scene 1
 
@@ -92,3 +94,6 @@ Yabe: I can do it if I try!
 ![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Events/EatingRamenWithYabe/15.png)
 そして、総重量１６キロの定食を矢部くんは完食してしまったのであった！
 And so, Yabe ate the entire meal, all 16 kilos!
+
+
+</article>

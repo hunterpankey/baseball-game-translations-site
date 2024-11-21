@@ -34,6 +34,7 @@ layout: game
 imageFolder: /assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/Postgame
 ---
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 [1]: {{ imageFolder }}/1-victory-card.png
 [2]: {{ imageFolder }}/2-line-score-detail.png
@@ -135,3 +136,5 @@ Then, one of our players got a new nickname for themselves. When a player's fame
 
 ![17][17]
 And finally, the manager explains that Yuasa's fame has increased. It doesn't explicitly say that the scout rating has increased, but that's basically what has happened.
+
+</article>

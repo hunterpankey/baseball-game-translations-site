@@ -26,7 +26,12 @@ eleventyNavigation:
   title: Powerful Pros #  as it will appear in the nav
   order: 5 
 ---
+
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
+
 ### Games in the Series
 
 [Powerful Pros 2022](<Powerful Pros 2022>)
 [Powerful Pros 2024-2025](<Powerful Pros 2024>)
+
+</article>

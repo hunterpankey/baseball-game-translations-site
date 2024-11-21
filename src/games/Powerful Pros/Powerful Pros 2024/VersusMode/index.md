@@ -23,6 +23,8 @@ tags:
   - instructions
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ![](/assets/images/games/PowerfulPros/2024/VersusMode/1.png)
 1. 対戦では好きなチ ー ムや球場を選んで友だちや家族、コンピュ ー タ （COM） と試合をすることができます。
@@ -35,3 +37,5 @@ When playing against a computer, select "Solo," and when playing with friends an
 ![](/assets/images/games/PowerfulPros/2024/VersusMode/3.png)
 3. 「なりきり」では、 1 人の選手になりきって、打撃をはじめ、選手の目線で守備や走塁に挑めます。
 In the "Role Play" mode, you can become a player and take on batting, defense, and base running from the player's perspective.
+
+</article>

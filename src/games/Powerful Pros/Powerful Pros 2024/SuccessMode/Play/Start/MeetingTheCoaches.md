@@ -23,6 +23,8 @@ tags:
   - event
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ![](</assets/images/games/PowerfulPros/2024/SuccessMode/Play/Start/MeetingTheCoaches/1.png>)
 1. 私：今年こそは結果を出さないと本気でやばい。この海外春季キャンプは重要だぞ！
@@ -147,3 +149,5 @@ I met Ino, the development coach.
 ![](</assets/images/games/PowerfulPros/2024/SuccessMode/Play/Start/MeetingTheCoaches/31.png>)
 31. やる気が 1 上がった！
 My motivation has increased by one!
+
+</article>

@@ -23,6 +23,8 @@ tags:
   - event
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Events/ThrowingPracticeWithHasegawa/1.png)
 ピュッ！
 Whoosh!
@@ -119,3 +121,5 @@ The next generation of Mr. Dragons is definitely...
 
 時間もない、そろそろ実行するか。
 We're running out of time, so it's time to get started.
+
+</article>

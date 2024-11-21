@@ -22,6 +22,11 @@ tags:
   - prospi
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
+
 ### Games in the Series
 
 [Pro Yakyuu Spirits 2024-2025](<Prospi20242025>)
+
+</article>

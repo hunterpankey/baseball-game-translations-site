@@ -25,6 +25,8 @@ tags:
   - practice
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ![Koshien scene](</assets/images/games/PowerfulPros/2022/Success Mode/Play/Start/Introduction/1.png>)
 オレの名前は「キャラクター」。パワフル高校の野球部員だ。夢のため、毎日練習に明け暮れている。
@@ -49,3 +51,5 @@ Come on! No matter how strong my opponent is, I won't lose!
 ![Character introspection](</assets/images/games/PowerfulPros/2022/Success Mode/Play/Start/Introduction/6.png>)
 そいつら全員打ち倒して、必ず栄光をつかんでやるぞ！
 I'll beat them all and seize the glory for sure!
+
+</article>

@@ -22,6 +22,8 @@ tags:
   - success-mode
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ## Scene 1
 
@@ -156,3 +158,6 @@ Level up!
 ![Level up](32.png)
 本若春陽の応援レベルが2になった！
 Haruhi Motowaka's support level has reached 2!
+
+
+</article>

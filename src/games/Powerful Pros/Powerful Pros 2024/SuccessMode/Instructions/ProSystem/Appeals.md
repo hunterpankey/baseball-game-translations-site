@@ -23,6 +23,8 @@ tags:
   - event
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ![](/assets/images/games/PowerfulPros/2024/SuccessMode/Instructions/ProSystem/Appeals/1.png)
 本作の新機能としてアピ ー ルがあります。アピ ー ルは、監督にアピ ー ル、コ ー チにアピ ー ル、仲間にアピ ー ルの 3 種類があります。
@@ -39,3 +41,6 @@ When you appeal to the coach, you can receive missions from the coach and obtain
 ![](/assets/images/games/PowerfulPros/2024/SuccessMode/Instructions/ProSystem/Appeals/4.png)
 仲間にアピ ー ルは、一定期間チ ー ムメイトの得意練習参加率が大幅にアップし、体力が少し回復します。
 When you appeal to teammates, the participation rate of your teammates in your favorite training increases significantly for a certain period of time, and your stamina is slightly restored.
+
+
+</article>

@@ -23,6 +23,8 @@ tags:
   - my-life-mode
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ![New menu with three buttons for newcomers, current player, and new player modes](/assets/images/games/PowerfulPros/2024/MyLife/MainMenu/NewMenu/1.png)
 
 **プロ野球入生編**
@@ -50,3 +52,5 @@ Original players edition
 Create a sensation in the world of professional baseball with your own original players!  
 * You cannot play with original players created in My Life.  
 Number of years played: Maximum 30 years
+
+</article>

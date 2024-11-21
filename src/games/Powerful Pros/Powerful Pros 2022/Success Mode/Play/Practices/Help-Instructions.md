@@ -22,6 +22,8 @@ tags:
   - success-mode
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ### 練習の種数
 
 練習には、投手、野手ともに7種数の基本練習があり、レベルが高いほど効果が大きくなります。総合練習は、キャプテン時のみ選択可能です。練習レベルは、連取回数やイベント、アイテムで上がります。
@@ -71,3 +73,5 @@ Levels up as players who practice together accumulate experience points.
 The likeability of the manager who appeared in the selected practice will increase.
 6. Support Level
 Levels up as the likeability of the manager who appeared in the selected practice increases.
+
+</article>

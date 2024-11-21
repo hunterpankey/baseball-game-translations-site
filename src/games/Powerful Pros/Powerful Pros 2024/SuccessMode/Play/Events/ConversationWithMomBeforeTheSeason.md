@@ -23,6 +23,8 @@ tags:
   - event
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Events/ConversationWithMomBeforeTheSeason/1.png)
 私：そろそろシーズン開幕だなあ可。
 Me: The season is about to start.
@@ -65,3 +67,5 @@ Beep!
 ![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Events/ConversationWithMomBeforeTheSeason/10.png)
 私：母さん・・・オレ、今年こそ活躍をしてみせるよ!
 Me: Mom... I'm gonna show you I can do well this year!
+
+</article>

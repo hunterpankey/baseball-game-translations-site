@@ -32,6 +32,7 @@ tags:
 layout: game
 ---
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 > See the translation of the official Konami [Hakkyuu no Kiseki FAQ](../FAQ) for some additional information.
 
@@ -162,3 +163,5 @@ Also, the mode doesn't end when you win Koshien. This is an open-ended mode wher
 
 #### Usability
 The game lets you edit your players, uniforms, flag, and more. If you know Japanese or want to learn your players names with the kanji, have fun! You can probably learn the most popular 100 kanji for names in a month or two with some practice. Or feel free to go in and edit your players names to use the romaji alphabet so you can read them easier. Or change the names altogether! Some streamers out there rename their players after folks in chat or donors or other community members. Do whatever you want there to have fun and make it more interesting!
+
+</article>

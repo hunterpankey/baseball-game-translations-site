@@ -22,6 +22,8 @@ tags:
   - instructions
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 1. サクセスはストーリーを楽しみながら、試合や練習をすることで選手を育成し、ドラフト指名を受けてプロ入りを目指すモードです。
 *Sakusesu wa suto-ri- o tanoshiminagara, shiai ya renshuu o suru koto de senshu o ikusei shi, dorafuto shimei o ukete puro-iri o mezasu mo-do desu.*
 Success is a mode where you can enjoy the story, train your players through matches and practice, and aim to become a professional by being drafted.
@@ -38,3 +40,6 @@ You can become a professional by increasing your evaluation from professional ba
 *Sakusakusesu mo-do de wa, mappu o susumenagara senshu o ikusei shi, shurui ni orijinaru tegaru o sakusei dekimasu.*
 In Success mode, you can train players as you progress through the maps and create your own original players.
 
+
+
+</article>

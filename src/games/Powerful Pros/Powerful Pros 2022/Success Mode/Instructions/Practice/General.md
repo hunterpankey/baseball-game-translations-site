@@ -24,6 +24,8 @@ tags:
   - instructions
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ## サクセスモードについて
 
 ### 練習について
@@ -41,3 +43,6 @@ Each practice has a level, and it can increase by winning multiple times in a ro
 またチームメイトにはそれぞれ得意練習があり、チームメイトが得意としている練習を選ぶことで、獲得する経験点が増えます。
 *Mata chi-mumeito ni wa sorezore tokui renshuu ga ari, chi-mumeito ga tokui to shite iru renshuu o erabu koto de, kakutoku suru keikenten ga fuemasu.*
 Each teammate also has a favorite practice, and you can gain more experience points by choosing a practice that your teammate is good at.
+
+
+</article>

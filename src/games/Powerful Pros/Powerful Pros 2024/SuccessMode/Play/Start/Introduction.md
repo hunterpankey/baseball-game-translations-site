@@ -23,6 +23,8 @@ tags:
   - success-mode
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 This is the Chunichi Dragons scenario, "Veteran Qualifications". There are scenarios for each of the eleven other NPB teams, plus the futures scenario, and the infinite scenario.
 
@@ -68,3 +70,5 @@ No, I'm going to become a player known as Mr. Dragon!
 ![](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Start/Introduction/9.png)
 9. こうしてオレのプロ野球人生が再スタ ー トした!
 And so my professional baseball career has restarted!
+
+</article>

@@ -30,6 +30,7 @@ layout: game
 ![Hakkyuu no Kiseki title card](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/hakkyuu-no-kiseki-title-card.png)
 
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ## Getting Started
 [Choosing a Prefecture](<./Start/Choosing-a-Prefecture>)
@@ -83,3 +84,6 @@ layout: game
 [Lists and Collections](./General/Lists)
 [Calendar Dates and Holidays](./General/Holidays-Key-Dates)
 [Consumable Items](./General/Items)
+[Special Traits](./General/Manager-Training-Skills)
+
+</article>

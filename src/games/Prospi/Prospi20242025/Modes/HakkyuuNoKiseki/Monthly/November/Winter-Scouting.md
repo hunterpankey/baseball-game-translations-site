@@ -35,6 +35,7 @@ tags:
 layout: game
 ---
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ## Scouting New Players
 
 Every November through the following February, you'll be able to scout middle school players and visit them to ask them to come play baseball at your high school. These opportunities will appear as a weekly activity with a map of Japan in red blocks. As your school gets more famous, you'll be able to scout more frequently, in more prefectures, with better information about players, and better players will be more likely to accept your invitation.
@@ -83,3 +84,6 @@ Once you've agonized over the players available to you and picked out a winner, 
 And that's basically it for the scouting trip. Remember that you might get another scouting chance in the same year, even multiple others, so if you need multiple positions, scout one on one trip and the next on the next trip. Even if you don't scout exactly what you need, you're still getting 6+ new players in April. They might not be very good, but you'll have them.
 
 
+
+
+</article>

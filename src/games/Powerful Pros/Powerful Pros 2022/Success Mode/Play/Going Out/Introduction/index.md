@@ -24,6 +24,8 @@ tags:
   - introduction
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 !["Going out" options: alone, with a teammate, cancel](</assets/images/games/PowerfulPros/2022/Success Mode/Play/Going Out/Introduction/1 - selection menu.png>)
 誰かと遊びに行こうかな？
@@ -62,3 +64,5 @@ My motivation increased by 1!
 
 体力が20回復した！
 I recovered 20 stamina!
+
+</article>

@@ -24,6 +24,8 @@ tags:
   - instructions
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ## パラメータや状態
 
 ### 体力について
@@ -39,3 +41,5 @@ When stamina is low, the chance of injury during practice increases, but the exp
 イベントなどで最大体力が上がることがあります。最大体力が高くなると、ケガ率で下がります。
 *Ibento nado de saidai tairyoku ga agaru koto ga arimasu. Saidai tairyoku ga takaku naru to, kegaritsu de sagarimasu.*
 Maximum stamina can increase during events, etc. When maximum stamina is high, the chance of injury decreases.
+
+</article>

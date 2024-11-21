@@ -32,6 +32,7 @@ tags:
 layout: game
 ---
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 Ultimately, what we're trying to do is get each of the players on the team to improve in the various skill areas so that they can compete in games more effectively. This is done by practicing weekly and working on specific areas of their game. Improvements from periodic activities comes in two different, but similar ways:
 1. Specific activities that you choose that level up specific areas: For example, if you choose the dumbbell activity, that levels up batting power, so all of your players will get a little bump to their batting power.
@@ -213,3 +214,5 @@ Let's say that the team recovers seven out of nine cost points per period. When 
 
 ### Learn the Activity Sequence Bonuses
 Try the card sequences from [Card Sequences](#card-combinations-and-sequences) as well as other sensible combinations to learn what bonuses you can get. Any time you can get a more effective week is a good development week. Any time you play the Day Off card, make the next one a strong practice card.
+
+</article>

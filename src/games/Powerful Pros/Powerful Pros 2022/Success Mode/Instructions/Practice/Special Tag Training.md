@@ -24,6 +24,8 @@ tags:
   - practice
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ## サクセスモードについて
 
 ### スペシャルタッグトレーニング
@@ -51,3 +53,5 @@ To activate it, you need to raise your teammate's evaluation to a certain level 
 *Fukusuu hito no chi-mumeito ga hatsudou jouken o mitashite iru to yori kyouryoku na renshuu o okonau koto ga dekimasu.*
 
 If multiple teammates meet the activation conditions, you can perform a more powerful practice.
+
+</article>

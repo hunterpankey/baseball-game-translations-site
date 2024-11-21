@@ -24,6 +24,8 @@ tags:
   - practice
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 Practice results will depend on lots of factors, like the teammates and coaches that are present at the practice (see the top-right of the screen in the practice selection screen to see who will be present), those teammates' levels, your level, your fatigue level, everyone's action points, etc. But in general, your stamina will go down, your skill will go up, teammates rating and experience points will go up, and coaches and managers will like you more.
 
@@ -49,3 +51,5 @@ Narita's rating has increased by 7!
 
 内村の評価が7上がった！
 Uchimura's rating has increased by 7!
+
+</article>

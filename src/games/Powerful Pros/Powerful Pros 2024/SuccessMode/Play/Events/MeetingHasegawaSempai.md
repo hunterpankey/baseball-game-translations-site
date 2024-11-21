@@ -23,6 +23,8 @@ tags:
   - event
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Events/MeetingHasegawaSempai/1.png)
 私：ハァ~ア。
 Haa~ah.
@@ -118,3 +120,5 @@ Well, I'm the same way, I don't have any other options.
 ![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Events/MeetingHasegawaSempai/23.png)
 長谷川さんと出会った。
 Info: I met Hasegawa-san.
+
+</article>

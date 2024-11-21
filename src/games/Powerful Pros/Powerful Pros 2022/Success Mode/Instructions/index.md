@@ -23,6 +23,8 @@ tags:
   - instructions
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ## Success Mode
 [Overview](<Overview>)
 [How to Play](<How to Play>)
@@ -46,3 +48,6 @@ layout: game
 [Injury Recovery](<Parameters and Conditions/Injury Recovery>)
 [Personality Ability](<Parameters and Conditions/Personality-Ability>)
 [Love Power](<Parameters and Conditions/Love Power>)
+
+
+</article>

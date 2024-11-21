@@ -24,6 +24,8 @@ tags:
   - event
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ![Club room conversation](</assets/images/games/PowerfulPros/2022/Success Mode/Play/Start/Subaru Meeting/1.png>)
 私：スバル！ もう来てたのか、早いな。
@@ -104,3 +106,5 @@ I met Yabe, Akio, Hoshii, and Subaru.
 精神ポイントが8上がった！
 My technique points increased by 8!
 My mental points increased by 8!
+
+</article>

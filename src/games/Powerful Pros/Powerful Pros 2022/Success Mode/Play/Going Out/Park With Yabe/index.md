@@ -23,6 +23,8 @@ tags:
   - going-out
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ## Scene 1 - Invitation
 
@@ -92,3 +94,6 @@ My motivation went up by 1!
 
 矢部明雄の評価が10上がった！
 Yabe Akio's evaluation went up by 10!
+
+
+</article>

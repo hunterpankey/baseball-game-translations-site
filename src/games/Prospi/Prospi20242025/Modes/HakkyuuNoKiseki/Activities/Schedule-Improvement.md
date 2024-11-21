@@ -33,6 +33,7 @@ tags:
 layout: game
 ---
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 If you have a bunch of junk in your hand, this is the activity you want. Get rid of those skulls and supercharge your next couple of weeks of practice!
 
@@ -57,3 +58,5 @@ This book is the Book of Motivation. I can apply this to a player to improve the
 - {% jisho "にする" %} - ni suru - to decide to do something
 - {% jisho "コマンド" %}{% jisho "アイコン" %} - comando aikon - command icon (activity cards)
 - {% jisho "入れ替わる" %} - irekawaru - to be replaced
+
+</article>

@@ -22,6 +22,8 @@ tags:
   - success-mode
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ## Named Characters
 
@@ -53,3 +55,6 @@ layout: game
 | 名         | Name             | Role     | Note                                               |
 | ---------- | ---------------- | -------- | -------------------------------------------------- |
 | そこのお前 | "You over there" | Teammate | Pitches to Takeda during his tryout after action 2 |
+
+
+</article>

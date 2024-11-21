@@ -23,6 +23,8 @@ tags:
   - going-out
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ![Returning home from practice](</assets/images/games/PowerfulPros/2022/Success Mode/Play/Events/Riverbank/1.png>)
 ふぅ、やっと家に帰ってこれた。今日の練習もハードだったな。
@@ -64,3 +66,5 @@ My strength points increased by 12!
 
 技術ポイントが12上がった！
 My skill points increased by 12!
+
+</article>

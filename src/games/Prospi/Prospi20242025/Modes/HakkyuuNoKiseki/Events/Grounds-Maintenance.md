@@ -33,6 +33,7 @@ tags:
 layout: game
 ---
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 Sometimes, the players get their act together and actually maintain the grounds and field. Hooray! This will happen randomly when an event occurs during practices/activities for the week.
 
@@ -63,3 +64,5 @@ The following screen of dialog will vary based on what level you were at and how
 - {% jisho "少し" %} - sukoshi - a little bit
 - {% jisho "良くなる" %} - nakunaru - to become better
 - {% jisho "レベル" %} - reberu - level
+
+</article>

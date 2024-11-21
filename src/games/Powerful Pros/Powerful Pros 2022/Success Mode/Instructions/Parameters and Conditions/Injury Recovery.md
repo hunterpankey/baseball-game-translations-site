@@ -23,6 +23,8 @@ tags:
   - instructions
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ### パラメータや状態
 
 #### 病気について
@@ -41,3 +43,4 @@ Insomnia may reduce the effectiveness of the Rest command. Tooth decay means you
 3. これらの病気は、回復の通院コマンドで治病することができます。
 *Korera no byouki wa, kaifuku no tsuuin komando de jibyou suru koto ga dekimasu.*
 These illnesses can be cured with the recovery command.
+</article>

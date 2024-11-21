@@ -24,6 +24,8 @@ tags:
   - instructions
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ### パラメータや状態
 
 #### やる気について
@@ -37,3 +39,4 @@ Motivation affects the rate of injury during practice and the experience points 
 2. やる気はイベントなどで、上がることがありますが、逆に下がってしまうこともあります。
 *Yaruki wa ibento nado de, agaru koto ga arimasu ga, gyaku ni sagatte shimau koto mo arimasu.*
 Motivation can increase through events, but it can also decrease.
+</article>

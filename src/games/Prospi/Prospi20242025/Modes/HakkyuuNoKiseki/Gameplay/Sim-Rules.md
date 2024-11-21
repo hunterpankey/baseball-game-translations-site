@@ -33,6 +33,7 @@ tags:
 layout: game
 ---
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ## Gameplay Modes
 
 There are two gameplay modes where you'll actually see some on-field action, Field Play and Team Play.
@@ -111,3 +112,5 @@ You will play in the following situations:
 ![field play settings](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/Playing-Games/field-play-settings.png)
 
 In field play mode, you'll choose a player from your lineup to play as. By default, you'll play all at bats, baserunning, fielding, pitching, etc. as your chosen player.
+
+</article>

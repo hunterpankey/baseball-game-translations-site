@@ -34,6 +34,7 @@ layout: game
 imageFolder: /assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/During-a-Game
 ---
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 OK, we've covered how to get your team practicing well and efficiently, how to set your order and strategy, and how the game determines when you play vs when it simulates, so now let's talk about playing the actual game.
 
@@ -235,3 +236,6 @@ When the game is over, you'll see something like this screen for a win, or a sim
 
 ![Final line score][21]
 Next you'll get the final line score as everyone trots off the field. This one was a good one for my team. They don't all go like this, for sure. Also, note the 2000VP that I earned for this game. I can go back to the mode select menu into the VP store and buy items or unlock stadiums, coaches, and OB players with this. Press X to wrap it up and go to the post-game.
+
+
+</article>

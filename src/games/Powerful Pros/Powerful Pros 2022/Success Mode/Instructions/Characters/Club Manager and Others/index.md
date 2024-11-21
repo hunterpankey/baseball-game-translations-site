@@ -23,6 +23,8 @@ tags:
   - instructions
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ## Instruction/Help Menu Selections
 サクセスに登場するキャラ -> マネージャーやその他関係者
@@ -43,3 +45,4 @@ If you choose a practice session with that character or increase their favorabil
 3. ただし、千将高校シナリオでは独自の成長をします。ご注意ください。（詳細は千将高校のヘルプを参照）
 *Tadashi, senshou koukou shinariode wa dokuji no seichou o shimasu. Go chuui kudasai. (Shousai wa senshou koukou no herupu o sanshou)*
 However, in the Sensho High School scenario, they will grow in their own way. Please be careful. (See Sensho High School Help for details)
+</article>

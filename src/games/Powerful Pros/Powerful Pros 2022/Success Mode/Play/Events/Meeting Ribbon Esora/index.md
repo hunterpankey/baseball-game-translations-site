@@ -22,6 +22,8 @@ tags:
   - success-mode
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ## Scene 1
 ### (部室)(Club Room)
@@ -161,3 +163,5 @@ Leveled up!
 ![Event results](</assets/images/games/PowerfulPros/2022/Success Mode/Play/Events/Meeting Ribbon Esora/29.png>)
 絵空リボンの応援レベルが2になった！
 Esora Ribbon's cheering level reached 2!
+
+</article>

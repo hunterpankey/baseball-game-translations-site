@@ -23,6 +23,8 @@ tags:
   - event
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Events/WeMetAPuppy/1.png)
 矢部：バーンくん、急がないと練習に遅刻するでやんす。
 Yabe: Ban, if we don't hurry up you'll be late for practice.
@@ -180,3 +182,5 @@ Me: Hurry up!!
 ![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Events/WeMetAPuppy/35.png)
 ガンダーと出会った。
 I met Gandar.
+
+</article>

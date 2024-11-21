@@ -25,6 +25,8 @@ tags:
   - practice
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ## Scene 1
 
 お～い、東條だろうそこにいるの。ようやく見つけたぜ！
@@ -243,3 +245,6 @@ I met Tojo Kojiro.
 
 東條小次郎の評価5上がった！
 Tojo Kojiro's rating went up by 5 points!
+
+
+</article>

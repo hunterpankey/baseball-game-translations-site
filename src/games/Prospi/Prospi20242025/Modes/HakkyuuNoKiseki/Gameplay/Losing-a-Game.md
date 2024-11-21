@@ -33,6 +33,7 @@ tags:
 layout: game
 ---
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 You're not gonna win 'em all, not unless you're save-scumming pretty hard. So get used to it, especially in the beginning. You might win one or two games as an E-ranked school, but you'll go up against a C-ranked opponent and get wrecked soon enough. Tournaments are all single-elimination, single-game rounds. There's no loser's bracket that you can rise up out of in this game.
 
@@ -76,3 +77,5 @@ Even when you lose, there are some benefits:
 
 ![New teaching ability](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/Losing-a-Game/game-loss-dialog-8.png)
 > I gained an understanding of power distribution. I'm now able to teach power distribution.
+
+</article>

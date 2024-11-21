@@ -23,6 +23,8 @@ tags:
   - instructions
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 ### サクセスモードについて
 
 ![Success Mode main screen](</assets/images/games/PowerfulPros/2022/Success Mode/Instructions/Success Mode/Overview/1.png>)
@@ -39,3 +41,5 @@ Use experience points earned through practice, events, and matches to strengthen
 3. 途中で出会うプロ野球のスカウトからの評価を上げることでプロ入りできます。サクセス終了時にはオリジナル選手を作成できます。
 *Tochuu de deau puroyagu no sukauto kara no hyouka o ageru koto de puro-iri dekimasu. Sakusesu shuuryou toki niwa orijinaru senshu o sakusei dekimasu.*
 You can become a professional by increasing your evaluation from professional baseball scouts you meet along the way. At the end of Success, you can create your own original player.
+
+</article>

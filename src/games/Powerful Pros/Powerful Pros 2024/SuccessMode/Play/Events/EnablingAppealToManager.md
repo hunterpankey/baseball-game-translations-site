@@ -23,6 +23,8 @@ tags:
   - event
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Events/EnablingAppealToManager/1.png)
 私：監督！早くオレを試合に出してください!
@@ -49,3 +51,5 @@ Okay, I'll definitely get some results!
 ![alt text](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/Events/EnablingAppealToManager/6.png)
 「藍督にアピール」が使えるようになった。
 You can now use "Appeal to Manager."
+
+</article>

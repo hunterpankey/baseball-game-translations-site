@@ -23,6 +23,8 @@ tags:
   - event
 layout: game
 ---
+[[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ![](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/GoingOut/SpringCampBeach/1.png)
 日本はまだ寒いけど、こっちは暖かいな。
@@ -34,3 +36,5 @@ The marine blue ocean overseas has soothed my soul.
 ![](/assets/images/games/PowerfulPros/2024/SuccessMode/Play/GoingOut/SpringCampBeach/3.png)
 やる気が 1 上がった!
 My motivation has increased!
+
+</article>

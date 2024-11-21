@@ -32,6 +32,7 @@ tags:
 layout: game
 ---
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 When you first start out in Hakkyuu no Kiseki mode, you're going to be asked what prefecture you want to start in. If you're already great at the game, this matters a little less than otherwise, but this prefecture choice will affect your game progression somewhat, as busier prefectures have more schools and teams, so you have to win a lot more games to get out of the prefectural tournament and make it to Koshien.
 
 So the biggest tip here is: *If you want an easier route, choose a prefecture with fewer teams, and if you want more of a grind or challenge, choose a busier one.* I chose Aomori both because I like the area and think it's cool, and because it has a regular number of teams. Tokyo or Osaka would have been cool, but they have so many teams!
@@ -48,7 +49,9 @@ At the bottom of the prefecture selection screen, you'll see the name of the pre
 ![region selection map](</assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Start/prefecture map tohoku inset.png>)
 
 
-## Prefecture List [By Region](https://en.wikipedia.org/wiki/List_of_regions_of_Japan)
+## Prefecture List 
+{% link "Grouped by Region", "https://en.wikipedia.org/wiki/List_of_regions_of_Japan", true %}
+
 *Highest in Italics*, Above Average and Average in regular type, **Lowest in bold**
 
 *Note: All regions have 「[地区](https://jisho.org/word/%E5%9C%B0%E5%8C%BA)」 at the end of them in the game, meaning "region". You can pronounce it "chiku" if you want.*
@@ -124,3 +127,5 @@ At the bottom of the prefecture selection screen, you'll see the name of the pre
 
 ## Geography Quiz
 If you wanted to learn where these prefectures are, [Geoguessr/Seterra has you covered](https://www.geoguessr.com/vgp/3184). If you just want to learn more about regions and prefectures, there's always [Wikipedia](https://en.wikipedia.org/wiki/List_of_regions_of_Japan)!
+
+</article>
