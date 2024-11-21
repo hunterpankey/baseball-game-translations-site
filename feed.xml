@@ -4,7 +4,7 @@
   <subtitle>Game translations for Japanese baseball games to help people play</subtitle>
   <link href="http://localhost:8088"/>
   <link href="http://localhost:8088/feed.xml" rel="self"/>
-  <updated>2024-11-17T21:38:00Z</updated>
+  <updated>2024-11-21T01:03:00Z</updated>
   <id>http://localhost:8088</id>
   <author>
     <name>Hunter Baun</name>
@@ -80,5 +80,42 @@
 &lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/General/Player-Activities/&quot;&gt;Choosing Player Activities&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Activities/Day-Off/&quot;&gt;Day Off Activity&lt;/a&gt;&lt;/p&gt;
 </content>
+    </entry>
+    
+    <entry>
+      <title>Site Updates - November 20, 2024</title>
+      <link href="http://localhost:8088/2024/11/21/site-updates-november-20-2024/"/>
+      <updated>2024-11-21T01:03:00Z</updated>
+      <id>http://localhost:8088/2024/11/21/site-updates-november-20-2024/</id>
+      <content type="html">&lt;article class=&quot;prose max-w-xl lg:max-w-4xl lg:prose-lg&quot;&gt;
+More style and functionality updates from the past couple of days, but there&#39;s some new content as well.
+&lt;h2 id=&quot;better-functionality&quot; tabindex=&quot;-1&quot;&gt;Better Functionality &lt;a class=&quot;header-anchor&quot; href=&quot;http://localhost:8088/2024/11/21/site-updates-november-20-2024/#better-functionality&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;I integrated some nice typographic styles (you’re lookin’ at &#39;em now!) to make everything more readable and generally nicer to look at. Previously headings and text were spaced in fairly crazy ways, and now things are a little more sensible.&lt;/li&gt;
+&lt;li&gt;Tables of contents have been added to all other pages, and they’re a little nicer to look at as well due to some fancy styles.&lt;/li&gt;
+&lt;li&gt;Headings now have permalink symbols that you can copy to link someone directly to a section of a page. Feel free to use those instead of just linking to the top of a page if that helps.&lt;/li&gt;
+&lt;li&gt;New semantic styles that I can use to compose some slightly nicer views of information. Even though the typography stuff improved the basic elements like paragraphs and lists, they’re still a little boring and could present the information better. Now I’ve got some nice tools to do that without having to decend into CSS semi-hell.&lt;/li&gt;
+&lt;li&gt;The footer now has a link to the &lt;a href=&quot;https://discord.gg/pVGaPXYVRq&quot;&gt;Discord&lt;/a&gt;. You’re probably in there already if you’re seeing this post, but whatev’.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&quot;http://localhost:8088/games&quot;&gt;game pages list page&lt;/a&gt; now has a functional breadcrumb, tag pills, and some other nice styling changes.&lt;/li&gt;
+&lt;li&gt;Page headings have an improved breadcrumb with game series and mode now.&lt;/li&gt;
+&lt;li&gt;I pulled a bunch of stadium images out of the game for headers, so maybe some pages won’t just use that same school courtyard image. We’ll see if I get around to fixing up the old pages. You can see one from the Hiroshima Carp stadium on this post above. (Is it still the Mazda Zoom Zoom Stadium? Such a silly name…)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;updated-pages&quot; tabindex=&quot;-1&quot;&gt;Updated Pages &lt;a class=&quot;header-anchor&quot; href=&quot;http://localhost:8088/2024/11/21/site-updates-november-20-2024/#updated-pages&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Every content page for a game has been updated with a table of contents and improved typography.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/General/Manager-Training-Skills&quot;&gt;Special Player Skills&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/General/Practice-Activity-Cards/&quot;&gt;Practice Activity Cards&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Gameplay/During-a-Game&quot;&gt;During a Game&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Gameplay/Postgame&quot;&gt;Post Game&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/General/Helpful-Videos&quot;&gt;Helpful Videos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Activities/Day-Off&quot;&gt;Day Off Activity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Activities/Bookstore&quot;&gt;Bookstore Activity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Activities/Konbini&quot;&gt;Convenience Store Activity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Activities/Schedule-Improvement&quot;&gt;Schedule Improvement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Maybe there’s some other stuff that I’ve forgotten in the last couple of days.&lt;/p&gt;
+&lt;p&gt;Hope y’all are knocking the cover off the ball! (I watched &lt;a href=&quot;https://www.rogerebert.com/reviews/the-natural-1984&quot;&gt;The Natural&lt;/a&gt; the other day. Such a silly movie…)&lt;/p&gt;
+&lt;p&gt;–HB&lt;/p&gt;
+&lt;/article&gt;</content>
     </entry>
 </feed>
