@@ -25,6 +25,7 @@ layout: game
 ---
 [[toc]]
 <article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
+
 ## Success Mode
 [Overview](<Overview>)
 [How to Play](<How to Play>)

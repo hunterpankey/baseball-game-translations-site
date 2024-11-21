@@ -24,6 +24,7 @@ layout: game
 ---
 [[toc]]
 <article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
+
 ## Instruction/Help Menu Selections
 サクサクセスについて
 

@@ -36,7 +36,6 @@ layout: game
 ---
 [[toc]]
 <article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
-## Scouting New Players
 
 Every November through the following February, you'll be able to scout middle school players and visit them to ask them to come play baseball at your high school. These opportunities will appear as a weekly activity with a map of Japan in red blocks. As your school gets more famous, you'll be able to scout more frequently, in more prefectures, with better information about players, and better players will be more likely to accept your invitation.
 

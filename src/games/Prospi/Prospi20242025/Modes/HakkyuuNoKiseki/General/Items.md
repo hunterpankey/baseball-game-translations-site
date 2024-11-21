@@ -33,8 +33,9 @@ layout: game
 ---
 [[toc]]
 <article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
-### Status Modifiers
-#### Buckets and Sponges
+
+## Status Modifiers
+### Buckets and Sponges
 Description:
 【スポンジとバケツ】(消費アイテム)
 「雨」による練習効果ダウンなカットしキす
@@ -47,8 +48,8 @@ Cuts the effect of training in the rain
 しばらくの間雨でもへっちゃらになった。
 For a while, I didn't mind the rain.
 
-### Enhancers
-#### Pro Baseball Player Card "R"
+## Enhancers
+### Pro Baseball Player Card "R"
 Description: 
 【プロ野球選手カ ー ド R】(消費アイテム)
 有名なプロ野球選手のカ ー ドです。
@@ -62,8 +63,8 @@ Use Message: プロ野球選手を参考に手元の本にメモを記した。�
 
 I wrote notes in a book I have on hand, using professional baseball players as reference. I got the book on first pitches.
 
-### Books
-#### Active Baserunning Card
+## Books
+### Active Baserunning Card
 Description:
 【積極走塁の本】(消費アイテム)
 積極走塁になります。

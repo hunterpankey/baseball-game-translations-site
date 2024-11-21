@@ -26,6 +26,7 @@ layout: game
 ---
 [[toc]]
 <article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
+
 ## サクセスモードについて
 
 ### 練習について

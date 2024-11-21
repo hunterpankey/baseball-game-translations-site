@@ -58,6 +58,15 @@ pre code {
 
 /*////////////////////////// */
 
+.table-of-contents::before {
+	@apply ml-5 font-bold;
+	content: "Table of Contents";
+}
+
+.table-of-contents {
+	@apply border-l-1 border-solid float-right;
+}
+
 .table-of-contents a {
 	@apply py-1;
 }

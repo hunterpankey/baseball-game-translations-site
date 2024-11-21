@@ -25,6 +25,7 @@ layout: game
 ---
 [[toc]]
 <article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
+
 ### サクセスモードについて
 
 ![Success Mode main screen](</assets/images/games/PowerfulPros/2022/Success Mode/Instructions/Success Mode/Overview/1.png>)
