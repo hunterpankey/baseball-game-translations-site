@@ -77,6 +77,7 @@ layout: game
 [Nov.: Winter Scouting](./Monthly/November/Winter-Scouting)
 
 ### Events
+[An Efficient Practice Method](./Events/Efficient-Practice-Method)
 [Grounds Maintenance](Events/Grounds-Maintenance)
 [Player's Birthday](./Events/Player-Birthday)
 [Social Gathering](./Events/Social-Gathering)
