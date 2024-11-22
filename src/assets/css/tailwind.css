@@ -56,7 +56,8 @@ pre code {
 	@apply bg-transparent border-0 rounded-none;
 }
 
-/*////////////////////////// */
+
+/* Table of contents */
 
 .table-of-contents::before {
 	@apply ml-5 font-bold;
@@ -64,7 +65,7 @@ pre code {
 }
 
 .table-of-contents {
-	@apply border-l-2 border-solid float-right;
+	@apply border-l-2 border-solid float-right ml-2 mb-2;
 }
 
 .table-of-contents a {
@@ -78,6 +79,13 @@ pre code {
 .header-anchor {
 	text-decoration: none !important;
 	@apply text-lg;
+}
+
+.japanese {
+	@apply mx-8;
+	font-family: "Noto Sans JP", sans-serif;
+	font-optical-sizing: auto;
+	font-style: normal;
 }
 
 @tailwind components;

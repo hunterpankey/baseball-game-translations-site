@@ -57,8 +57,9 @@ layout: game
 ### Activities
 [Bookstore](./Activities/Bookstore)
 [Convience Store](./Activities/Konbini)
-[Schedule Improvement](./Activities/Schedule-Improvement)
 [Day Off](./Activities/Day-Off)
+[Schedule Improvement](./Activities/Schedule-Improvement)
+[Yorozuya](./Activities/Yorozuya)
 
 ### Monthly Schedule
 *Note: Some dates will fluctuate slightly from year to year.*

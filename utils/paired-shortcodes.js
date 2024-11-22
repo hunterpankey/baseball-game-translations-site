@@ -93,4 +93,9 @@ module.exports = {
 	vocab: function (content, classes = '') {
 		return `<ul class="list-none max-w-xl bg-white rounded-lg shadow divide-y divide-gray-200 ${classes}">${content}</ul>`;
 	},
+	japanese: function (content, speaker) {
+		let speakerHtml = speaker ? `<div class="text-lg text-center"><span class="bg-white text-black px-2 py-1 border-solid border-2 shadow-lg rounded-md">${speaker}</span></div>` : "";
+
+		return `<div class="japanese not-prose text-3xl m-4 p-4 border-solid border-2 shadow-lg rounded-lg text-white" style="background-color: slategray;">${speakerHtml}${content}</div>`;
+	},
 }

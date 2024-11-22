@@ -1,3 +1,4 @@
+const { default: daisyui } = require('daisyui')
 const defaultTheme = require('tailwindcss/defaultTheme')
 
 module.exports = {
@@ -32,4 +33,7 @@ module.exports = {
 	},
 	variants: {},
 	plugins: [require('@tailwindcss/forms'), require("@tailwindcss/typography"), require('daisyui')],
+	daisyui: {
+		themes: true
+	}
 }
