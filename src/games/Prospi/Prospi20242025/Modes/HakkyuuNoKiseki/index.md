@@ -79,6 +79,7 @@ layout: game
 ### Events
 [Grounds Maintenance](Events/Grounds-Maintenance)
 [Player's Birthday](./Events/Player-Birthday)
+[Social Gathering](./Events/Social-Gathering)
 
 ## General Pages
 [Activity Card List](./General/Practice-Activity-Cards)
