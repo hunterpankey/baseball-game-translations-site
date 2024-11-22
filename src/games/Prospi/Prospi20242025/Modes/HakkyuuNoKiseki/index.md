@@ -58,6 +58,7 @@ layout: game
 [Bookstore](./Activities/Bookstore)
 [Convience Store](./Activities/Konbini)
 [Day Off](./Activities/Day-Off)
+[Hospital](./Activities/Hospital)
 [Schedule Improvement](./Activities/Schedule-Improvement)
 [Yorozuya](./Activities/Yorozuya)
 
