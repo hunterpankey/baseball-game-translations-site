@@ -72,7 +72,7 @@ After a few seconds, they shout and bow to each other before heading off, home t
 The game then shows you your opponent, with team ranking, spiderweb ratings, and starting lineup with basic stats. The lineup rows are [position](../../General/Lists/#positions), last name, first name, batting handedness, average, and HR.
 
 ![Starting pitcher information][6]
-Last, it shows the starting pitcher with some basic info as well. This guy is Shougo Morimoto ("{% jisho "森本" %} {% jisho "翔吾" %}"), a senior (3rd year, {% jisho "三年生", "3年" %}), a starting pitcher ("{% jisho "先発" %}"), and a pitcher ("{% jisho "投手" %}).
+Last, it shows the starting pitcher with some basic info as well. This guy is Shougo Morimoto ("{% jisho "森本" %} {% jisho "翔吾" %}"), a senior (3rd year, "{% jisho "三年生", "3年" %}"), a starting pitcher ("{% jisho "先発" %}"), and a pitcher ("{% jisho "投手" %}").
 
 [13]: {{ imageFolder }}/13-sim-screen.png
 
@@ -89,7 +89,7 @@ Last, it shows the starting pitcher with some basic info as well. This guy is Sh
 If you're the home team, you can take three warmup pitches to find the zone on your various pitches. If you're the visitors, this won't happen until the bottom of the first inning. I usually throw one each of three offspeed pitches to remind myself of how far they break. You can skip this with triangle/Y.
 
 First, the score bug in the top left. It contains the following:
-* Inning indicator: numeral for the inning number and top ({% jisho "表" %}) and bottom ({% jisho "裏", "ウラ" %}). Japanese uses "front" and "back" instead of top and bottom. Unfortunately the characters for front and back are very similar (「{% jisho "表" %}」 and 「{% jisho "裏" %}」), so historically on an SDTV, the bottom is written in katakana (「{% jisho "裏", "ウラ" %}」)instead of kanji, which continues as tradition.
+* Inning indicator: numeral for the inning number and top ({% jisho "表" %}) and bottom ({% jisho "裏", "ウラ" %}). Japanese uses "front" and "back" instead of top and bottom. Unfortunately the characters for front and back are very similar (「{% jisho "表" %}」 and 「{% jisho "裏" %}」), so historically, because SDTVs didn't have enough resolution to make them look different, the bottom is written in katakana (「{% jisho "裏", "ウラ" %}」) instead of kanji, which continues as tradition.
 * Teams and score: In Japan, the home team is listed first, rather than second as it is in the US, so in the screen my team ({% jisho "大島" %}) is the visitors, listed second. I've scored 4 in the top of the first on two two-run homers in this game, and I'm playing a team that uses 「{% jisho "大" %}」 as it's insignia.
 * Bases occupied: When runners reach base the base diagram in the top-left lights up the appropriate base.
 * Balls, strikes, and outs: These work like you'd expect, lighting up the indicators.
@@ -97,7 +97,7 @@ First, the score bug in the top left. It contains the following:
 Next, the pitch type indicator in the top middle, which shows:
 * Pitches available: The L-stick directions with pitches that your pitcher can throw are lit up. You can reach the second pitch in a direction with L-stick in that direction followed by L1.
 * Pitches unavailable: the L-stick directions without pitches available are still shown but with a black line instead. You can train pitches that use that direction using practice orders.
-* Pitch quality and control: in the center of the indicator, you'll see two letters. These correspond to the sharpness and control of the pitch and will also correspond to the general sizes of the gray "good zone" and the white "best pitch" line when delivering the pitch.
+* Pitch quality and control: in the center of the indicator, you'll see two letters. These correspond to the sharpness and control of the pitch and will also correspond to the general sizes of the gray "good zone" and the white "best pitch" line when delivering the pitch. The break amount of the pitch is represented by the colored blocks in the arrow bar for the pitch.
 
 Below the strike zone is an indicator showing pitch velocity information:
 * Pitch velocity indicator: The magenta dot shows the velocity of the selected pitch type.
