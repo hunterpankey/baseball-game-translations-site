@@ -60,6 +60,7 @@ layout: game
 [Day Off](./Activities/Day-Off)
 [Hospital](./Activities/Hospital)
 [Schedule Improvement](./Activities/Schedule-Improvement)
+[University](./Activities/University)
 [Yorozuya](./Activities/Yorozuya)
 
 ### Monthly Schedule
