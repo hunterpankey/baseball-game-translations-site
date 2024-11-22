@@ -43,7 +43,7 @@ imageFolder: /assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Activitie
 
 <article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
-The home improvement store/home center is good for getting grounds maintenance equipment. Wneh you graduate some players, some of them will go to work there, and once that happens, the Home Center activity card will begin to appear on the dashboard.
+The home improvement store/home center is good for getting grounds maintenance equipment. When you graduate some players, some of them will go to work there, and once that happens, the Home Center activity card will begin to appear on the dashboard.
 
 ## Going to the Home Improvement Store
 ![1][1]

@@ -55,6 +55,7 @@ layout: game
 [Simulation Rules](Gameplay/Sim-Rules)
 
 ### Activities
+[Baseball Stadium](./Activities/Stadium)
 [Bookstore](./Activities/Bookstore)
 [Convience Store](./Activities/Konbini)
 [Day Off](./Activities/Day-Off)
