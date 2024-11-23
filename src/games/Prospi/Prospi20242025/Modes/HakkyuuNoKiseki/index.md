@@ -55,15 +55,15 @@ layout: game
 [Simulation Rules](Gameplay/Sim-Rules)
 
 ### Activities
-[Baseball Stadium](./Activities/Stadium) <span class="badge badge-primary">New</span> 
+[Baseball Stadium](./Activities/Stadium) <span class="badge badge-primary">New</span>
 [Bookstore](./Activities/Bookstore)
 [Convience Store](./Activities/Konbini)
 [Day Off](./Activities/Day-Off)
-[Home Center](./Activities/Home-Center) <span class="badge badge-primary">New</span> 
-[Hospital](./Activities/Hospital) <span class="badge badge-primary">New</span> 
+[Home Center](./Activities/Home-Center) <span class="badge badge-primary">New</span>
+[Hospital](./Activities/Hospital) <span class="badge badge-primary">New</span>
 [Schedule Improvement](./Activities/Schedule-Improvement)
-[Study Hall](./Activities/Study-Hall) <span class="badge badge-primary">New</span> 
-[University](./Activities/University) <span class="badge badge-primary">New</span> 
+[Study Hall](./Activities/Study-Hall) <span class="badge badge-primary">New</span>
+[University](./Activities/University) <span class="badge badge-primary">New</span>
 [Yorozuya](./Activities/Yorozuya) <span class="badge badge-primary">New</span>
 
 ### Monthly Schedule
@@ -81,10 +81,11 @@ layout: game
 [Nov.: Winter Scouting](./Monthly/November/Winter-Scouting)
 
 ### Events
-[An Efficient Practice Method](./Events/Efficient-Practice-Method) <span class="badge badge-primary">New</span> 
+[An Efficient Practice Method](./Events/Efficient-Practice-Method) <span class="badge badge-primary">New</span>
 [Grounds Maintenance](Events/Grounds-Maintenance)
 [Player's Birthday](./Events/Player-Birthday)
-[Social Gathering](./Events/Social-Gathering) <span class="badge badge-primary">New</span> 
+[Social Gathering](./Events/Social-Gathering) <span class="badge badge-primary">New</span>
+[Study Red Mark](./Events/Study-Red-Mark) <span class="badge badge-primary">New</span>
 
 ## General Pages
 [Activity Card List](./General/Practice-Activity-Cards)
