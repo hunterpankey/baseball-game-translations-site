@@ -30,6 +30,7 @@ tags:
   - prospi-2024
   - hakkyuu-no-kiseki
 layout: game
+imageFolder: /assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/items
 ---
 [[toc]]
 <article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
@@ -47,6 +48,23 @@ Cuts the effect of training in the rain
 
 しばらくの間雨でもへっちゃらになった。
 For a while, I didn't mind the rain.
+
+### Toolbox
+![Item image of a red toolbox]({{imageFolder}}/item-toolbox.png) 
+The toolbox repairs one level of damage to each of your applied pieces of equipment. To see your equipment, go to the smartphone items menu and hit R1 to switch to the second page. Your applied equipment will be displayed with circular damage indicators.
+
+Description: 【メンテナンスキット (VP) 】(消費アイテム)
+練習器材を手入れし耐久度を回復させます。
+※全セープデータ共通で使用可能なアイテムです。
+
+[Maintenance Kit (VP)] (Consumable Items)
+Maintains training equipment and restores its durability. 
+* This item can be used in all save data.
+
+練習器材の状態が良くなった。
+The condition of training equipment has improved.
+
+{% daisyAlert "I bought this item from the Prospi shop with VP, which makes it available in other game modes, hence the note at the bottom of the description.", "info" %}
 
 ## Enhancers
 ### Pro Baseball Player Card "R"

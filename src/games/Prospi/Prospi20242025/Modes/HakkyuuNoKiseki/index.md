@@ -55,15 +55,16 @@ layout: game
 [Simulation Rules](Gameplay/Sim-Rules)
 
 ### Activities
-[Baseball Stadium](./Activities/Stadium)
+[Baseball Stadium](./Activities/Stadium) <span class="badge badge-primary">New</span> 
 [Bookstore](./Activities/Bookstore)
 [Convience Store](./Activities/Konbini)
 [Day Off](./Activities/Day-Off)
-[Home Center](./Activities/Home-Center)
-[Hospital](./Activities/Hospital)
+[Home Center](./Activities/Home-Center) <span class="badge badge-primary">New</span> 
+[Hospital](./Activities/Hospital) <span class="badge badge-primary">New</span> 
 [Schedule Improvement](./Activities/Schedule-Improvement)
-[University](./Activities/University)
-[Yorozuya](./Activities/Yorozuya)
+[Study Hall](./Activities/Study-Hall) <span class="badge badge-primary">New</span> 
+[University](./Activities/University) <span class="badge badge-primary">New</span> 
+[Yorozuya](./Activities/Yorozuya) <span class="badge badge-primary">New</span>
 
 ### Monthly Schedule
 *Note: Some dates will fluctuate slightly from year to year.*
@@ -80,17 +81,17 @@ layout: game
 [Nov.: Winter Scouting](./Monthly/November/Winter-Scouting)
 
 ### Events
-[An Efficient Practice Method](./Events/Efficient-Practice-Method)
+[An Efficient Practice Method](./Events/Efficient-Practice-Method) <span class="badge badge-primary">New</span> 
 [Grounds Maintenance](Events/Grounds-Maintenance)
 [Player's Birthday](./Events/Player-Birthday)
-[Social Gathering](./Events/Social-Gathering)
+[Social Gathering](./Events/Social-Gathering) <span class="badge badge-primary">New</span> 
 
 ## General Pages
 [Activity Card List](./General/Practice-Activity-Cards)
-[Fame Levels](./General/Fame-Levels)
+[Fame Levels](./General/Fame-Levels) <span class="badge badge-primary">Updated</span>
 [Lists and Collections](./General/Lists)
 [Calendar Dates and Holidays](./General/Holidays-Key-Dates)
-[Consumable Items](./General/Items)
+[Consumable Items](./General/Items) <span class="badge badge-primary">Updated</span>
 [Special Traits](./General/Manager-Training-Skills)
 
 </article>
