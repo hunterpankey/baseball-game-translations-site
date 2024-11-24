@@ -84,6 +84,7 @@ layout: game
 
 #### Progress Events
 [School Fame Level Increase](./Events/School-Fame-Increase) <span class="badge badge-primary">New</span>
+[Scout Visit](./Events/Scout-Visit) <span class="badge badge-primary">New</span>
 
 #### Other Events
 [An Efficient Practice Method](./Events/Efficient-Practice-Method) <span class="badge badge-primary">New</span>
