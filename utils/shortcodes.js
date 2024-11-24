@@ -67,7 +67,7 @@ module.exports = {
 		</li>`;
 	},
 	link: function (displayText, url, shouldOpenInNewTab) {
-		return `<a href=${url} ${shouldOpenInNewTab ? "target='_blank'" : ""}>${displayText}</a>`;
+		return `<a href='${url}' ${shouldOpenInNewTab ? "target='_blank'" : ""}>${displayText}</a>`;
 	},
 	cardTile: function (cardTitle, cardDescription, cardImgUrl) {
 		return `<div class="w-64 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">

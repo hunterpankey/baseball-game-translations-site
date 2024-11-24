@@ -42,5 +42,7 @@ eleventyNavigation:
 ## Videos
 [Helpful Videos](./General/Helpful-Videos)
 
+## Miscellaneous
+[Creating Real Life Players](./General/Creating-Real-Life-Players)
 
 </article>
