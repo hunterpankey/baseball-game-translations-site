@@ -92,7 +92,7 @@ layout: game
 ## General Pages
 [Activity Card List](./General/Practice-Activity-Cards)
 [Fame Levels](./General/Fame-Levels) <span class="badge badge-primary">Updated</span>
-[Lists and Collections](./General/Lists)
+[Lists and Collections](./General/Lists) <span class="badge badge-primary">Updated</span>
 [Calendar Dates and Holidays](./General/Holidays-Key-Dates)
 [Consumable Items](./General/Items) <span class="badge badge-primary">Updated</span>
 [Special Traits](./General/Manager-Training-Skills)
