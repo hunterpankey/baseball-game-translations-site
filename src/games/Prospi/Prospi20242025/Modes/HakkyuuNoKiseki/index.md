@@ -83,6 +83,7 @@ layout: game
 ### Events
 [An Efficient Practice Method](./Events/Efficient-Practice-Method) <span class="badge badge-primary">New</span>
 [Cheering Bullhorn Color Selection](./Events/Bullhorn-Color-Selection) <span class="badge badge-primary">New</span>
+[Getting a Title](./Events/Getting-a-Title) <span class="badge badge-primary">New</span>
 [Grounds Maintenance](Events/Grounds-Maintenance)
 [Player's Birthday](./Events/Player-Birthday)
 [Social Gathering](./Events/Social-Gathering) <span class="badge badge-primary">New</span>
