@@ -4,7 +4,7 @@
   <subtitle>Game translations for Japanese baseball games to help people play</subtitle>
   <link href="http://localhost:8088"/>
   <link href="http://localhost:8088/feed.xml" rel="self"/>
-  <updated>2024-11-21T01:03:00Z</updated>
+  <updated>2024-11-23T23:40:00Z</updated>
   <id>http://localhost:8088</id>
   <author>
     <name>Hunter Baun</name>
@@ -115,6 +115,59 @@ More style and functionality updates from the past couple of days, but there&#39
 &lt;/ul&gt;
 &lt;p&gt;Maybe there’s some other stuff that I’ve forgotten in the last couple of days.&lt;/p&gt;
 &lt;p&gt;Hope y’all are knocking the cover off the ball! (I watched &lt;a href=&quot;https://www.rogerebert.com/reviews/the-natural-1984&quot;&gt;The Natural&lt;/a&gt; the other day. Such a silly movie…)&lt;/p&gt;
+&lt;p&gt;–HB&lt;/p&gt;
+&lt;/article&gt;</content>
+    </entry>
+    
+    <entry>
+      <title>Site Updates - November 23, 2024</title>
+      <link href="http://localhost:8088/2024/11/23/site-updates-november-23-2024/"/>
+      <updated>2024-11-23T23:40:00Z</updated>
+      <id>http://localhost:8088/2024/11/23/site-updates-november-23-2024/</id>
+      <content type="html">&lt;article class=&quot;prose max-w-xl lg:max-w-4xl lg:prose-lg&quot;&gt;
+Lots of little event and activity pages have been created based on a bunch of screenshots I took from my playthrough. I&#39;m up to September 2026 in my HK playthrough. I won the prefectural tournament in the summer and went to Koshien, but lost in the first game to a team that wasn&#39;t really better than my team, after beating a much better team in the prefectural finals. Oh well, c&#39;est la vie!
+&lt;h2 id=&quot;better-functionality&quot; tabindex=&quot;-1&quot;&gt;Better Functionality &lt;a class=&quot;header-anchor&quot; href=&quot;http://localhost:8088/2024/11/23/site-updates-november-23-2024/#better-functionality&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;I started adding badges to pages in the &lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki&quot;&gt;Prospi 2024 HK&lt;/a&gt; index page to show new and updated pages. I’ll clear &#39;em all when I write a new blog post with updates. It won’t be super-regular, so if you’re not checking in regularly, you’ll miss something. Not the end of the world, though.&lt;/li&gt;
+&lt;li&gt;I updated the styles for pages with dialogs or translations to show the original Japanese in &lt;a href=&quot;https://fonts.google.com/noto/specimen/Noto+Sans+JP&quot;&gt;Noto Sans JP&lt;/a&gt;, which I think is the font the game uses. It’s also in a dark slate background and larger font reminiscent of the way the game renders text in dialogs so you can read it ok. (By the way, if you install and configure a nice Japanese dictionary addon like “&lt;a href=&quot;https://github.com/yomidevs/yomitan#yomitan&quot;&gt;Yomitan&lt;/a&gt;” or something like that, you can see pronunciations, definitions, and kanji meanings in an overlay directly in the browser.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;new-pages&quot; tabindex=&quot;-1&quot;&gt;New Pages &lt;a class=&quot;header-anchor&quot; href=&quot;http://localhost:8088/2024/11/23/site-updates-november-23-2024/#new-pages&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Other Events
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Events/Efficient-Practice-Method&quot;&gt;An Efficient Practice Method&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Events/Bullhorn-Color-Selection&quot;&gt;Cheering Bullhorn Color Selection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Events/Dog-Visit&quot;&gt;Dog Visit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Events/Getting-a-Title&quot;&gt;Getting a Title&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Events/Social-Gathering&quot;&gt;Social Gathering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Events/Study-Red-Mark&quot;&gt;Study Red Mark&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Progress Events
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Events/School-Fame-Increase&quot;&gt;School Fame Level Increase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Events/Scout-Visit&quot;&gt;Scout Visit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Activities
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Activities/Stadium&quot;&gt;Baseball Stadium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Activities/Home-Center&quot;&gt;Home Center&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Activities/Hospital&quot;&gt;Hospital&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Activities/Study-Hall&quot;&gt;Study Hall&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Activities/University&quot;&gt;University&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Activities/Yorozuya&quot;&gt;Yorozuya&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;updated-pages&quot; tabindex=&quot;-1&quot;&gt;Updated Pages &lt;a class=&quot;header-anchor&quot; href=&quot;http://localhost:8088/2024/11/23/site-updates-november-23-2024/#updated-pages&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added 「名門」 characters to the top fame level description in &lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/General/Fame-Levels/&quot;&gt;Fame Levels&lt;/a&gt;. I’ll probably delete this page and just leave them in the &lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/General/Lists/&quot;&gt;Lists&lt;/a&gt; page.&lt;/li&gt;
+&lt;li&gt;Added mood icon images in &lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/General/Lists/&quot;&gt;Lists&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Added Batting Trajectories descriptions and text in &lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/General/Lists/&quot;&gt;Lists&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Added the Toolbox item to the &lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/General/Items/&quot;&gt;Items&lt;/a&gt; page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Meiji Jingu tournament streaming is pretty cool. &lt;a href=&quot;https://sports.yahoo.co.jp/livestream/vk&quot;&gt;Go watch some proper Japanese high school and collect tournament games!&lt;/a&gt; The &lt;a href=&quot;https://sports.yahoo.co.jp/livestream/vk/hsb-jingu/2021028995&quot;&gt;HS championship game&lt;/a&gt; and &lt;a href=&quot;https://sports.yahoo.co.jp/livestream/vk/bb-univ-jingu/2021029005&quot;&gt;college division championship game&lt;/a&gt; are on Monday morning and mid-day JST (8 and 11 p.m. Sunday night for US EST).&lt;/p&gt;
 &lt;p&gt;–HB&lt;/p&gt;
 &lt;/article&gt;</content>
     </entry>
