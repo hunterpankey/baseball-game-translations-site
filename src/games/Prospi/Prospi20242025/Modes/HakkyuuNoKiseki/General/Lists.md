@@ -30,8 +30,11 @@ tags:
   - prospi-2024
   - hakkyuu-no-kiseki
 layout: game
+imageFolder: /assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/General/
 ---
 [[toc]]
+<article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
+
 ## Positions
 * Pitcher - 投手 - tou-shu
 * Catcher - 捕手 - ho-shu
@@ -43,12 +46,18 @@ layout: game
 * Center Field - 中野手 - naka-gai-shu
 * Right Field - 右野手 - migi-gai-shu
 
+[1]: {{ imageFolder }}/mood-icons/great.png
+[2]: {{ imageFolder }}/mood-icons/good.png
+[3]: {{ imageFolder }}/mood-icons/ordinary.png
+[4]: {{ imageFolder }}/mood-icons/bad.png
+[5]: {{ imageFolder }}/mood-icons/awful.png
+
 ## Moods
-* Amazing - 超ノリノリ - chou-nori-nori
-* Good - ノリノリ - nori-nori
-* Normal/Nominal - ふつう - fu-tsuu
-* Bad - ダメダメ - dame-dame
-* Awful - 超ダメダメ - chou-dame-dame
+* ![Amazing mood icon][1]Amazing - 超ノリノリ - chou-nori-nori
+* ![Good mood icon][2]Good - ノリノリ - nori-nori
+* ![Ordinary mood icon][3]Normal/Nominal - ふつう - fu-tsuu
+* ![Bad mood icon][4]Bad - ダメダメ - dame-dame
+* ![Awful mood icon][5]Awful - 超ダメダメ - chou-dame-dame
 
 ## Personalities
 | Personality Type | Pronunciation  | Name                      | Effect                                                              |
@@ -74,3 +83,14 @@ From best to worst:
 * {% jisho "弱小" %} - Weak - generally an E-ranked school 
 
 > I don't think I've seen an F- or G-ranked school yet, and I don't think there's a level below 弱小.
+
+## Batting Trajectories
+
+- Low (低弾道) - 低角度の打球タイプ。ミートタイプの打者に多い。 - Low trajectory, low angle hit type - Common for contact-type hitters.
+- Medium (中弾道) - 中角度の打球タイプ。最も一般的な打球タイプ。 - Medium trajectory, medium angle - The most common hit type.
+- High (高弾道) - 高角度の打球タイプ。パワータイプの打者に多い。 - High trajectory, high angle hit type - Often used by power hitters.
+- Power Hitter:
+- Grounder (グラウンダー) - 打球をあまリ上げない打球タイプ。打球を転がしやすい。 - A hit type that does not rise very high - Easy to roll the ball (on the ground).
+
+
+</article>
