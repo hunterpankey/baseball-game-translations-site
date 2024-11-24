@@ -90,7 +90,7 @@ From best to worst:
 - Medium (中弾道) - 中角度の打球タイプ。最も一般的な打球タイプ。 - Medium trajectory, medium angle - The most common hit type.
 - High (高弾道) - 高角度の打球タイプ。パワータイプの打者に多い。 - High trajectory, high angle hit type - Often used by power hitters.
 - Power Hitter:
-- Grounder (グラウンダー) - 打球をあまリ上げない打球タイプ。打球を転がしやすい。 - A hit type that does not rise very high - Easy to roll the ball (on the ground).
+- Grounder (グラウンダー) - 打球をあまり上げない打球タイプ。打球を転がしやすい。 - A hit type that does not rise very high - Easy to roll the ball (on the ground).
 
 
 </article>

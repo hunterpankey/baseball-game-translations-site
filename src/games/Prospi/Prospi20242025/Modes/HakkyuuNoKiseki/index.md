@@ -81,6 +81,11 @@ layout: game
 [Nov.: Winter Scouting](./Monthly/November/Winter-Scouting)
 
 ### Events
+
+#### Progress Events
+[School Fame Level Increase](./Events/School-Fame-Increase) <span class="badge badge-primary">New</span>
+
+#### Other Events
 [An Efficient Practice Method](./Events/Efficient-Practice-Method) <span class="badge badge-primary">New</span>
 [Cheering Bullhorn Color Selection](./Events/Bullhorn-Color-Selection) <span class="badge badge-primary">New</span>
 [Dog Visit](./Events/Dog-Visit) <span class="badge badge-primary">New</span>

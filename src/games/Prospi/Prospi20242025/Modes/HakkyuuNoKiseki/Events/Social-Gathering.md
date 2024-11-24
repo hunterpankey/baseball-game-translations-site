@@ -54,7 +54,7 @@ The whole baseball team decided to have a social get-together.
 
 ![2][2]
 
-{% japanese "太田　美南" %}突然の懇親会あリがとうございます！<br />
+{% japanese "太田　美南" %}突然の懇親会ありがとうございます！<br />
 みんな練習のときとはまた違った感じでイキイキしていますね！{% endjapanese %}
 
 **(Club Manager) Minami Ota:** Thank you for the unexpected get-together! Everyone seems so lively and energetic compared to when we're at practice!

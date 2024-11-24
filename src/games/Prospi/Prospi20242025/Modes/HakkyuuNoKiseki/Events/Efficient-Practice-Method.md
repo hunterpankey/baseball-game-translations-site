@@ -80,7 +80,7 @@ He said it was a practice method to efficiently increase the pitch power.
 
 ![4][4]
 {% japanese %}
-野村のアイデアによリかなり<br />効率よく練習できたようでみんな大満足だ。
+野村のアイデアによりかなり<br />効率よく練習できたようでみんな大満足だ。
 {% endjapanese %}
 
 Everyone was pretty happy as Nomura's ideas enabled them to practice efficiently.
