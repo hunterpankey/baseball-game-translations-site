@@ -1,6 +1,6 @@
 ---
 title: Event - Bullhorn Color Selection
-date: 2024-11-21
+date: 2024-11-23
 author: hunter-baun
 excerpt: Once a year, you get to choose the color of the cheering bullhorn
 series:

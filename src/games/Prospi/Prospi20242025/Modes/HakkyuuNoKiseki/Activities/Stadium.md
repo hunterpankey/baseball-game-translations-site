@@ -1,6 +1,6 @@
 ---
 title: Activity - Baseball Stadium
-date: 2024-11-21
+date: 2024-11-22
 author: hunter-baun
 excerpt: Dialog and translations for the Baseball Stadium activity
 series:

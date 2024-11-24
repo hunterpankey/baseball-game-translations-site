@@ -1,6 +1,6 @@
 ---
 title: Activity - Home Center
-date: 2024-11-21
+date: 2024-11-22
 author: hunter-baun
 excerpt: Dialog and translations for the Home Improvement Store activity
 series:

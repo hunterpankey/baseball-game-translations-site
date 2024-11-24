@@ -1,6 +1,6 @@
 ---
 title: Event - Scout Visit
-date: 2024-11-21
+date: 2024-11-23
 author: hunter-baun
 excerpt: Pro scouts will come visit from time to time
 series:

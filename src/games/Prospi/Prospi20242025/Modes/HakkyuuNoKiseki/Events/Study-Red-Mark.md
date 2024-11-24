@@ -1,6 +1,6 @@
 ---
 title: Event - Study Red Mark
-date: 2024-11-21
+date: 2024-11-23
 author: hunter-baun
 excerpt: Some of the players are doing a bad job at school
 series:

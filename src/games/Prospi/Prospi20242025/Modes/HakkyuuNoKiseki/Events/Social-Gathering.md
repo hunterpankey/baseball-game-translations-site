@@ -1,6 +1,6 @@
 ---
 title: Event - Social Gathering
-date: 2024-11-21
+date: 2024-11-23
 author: hunter-baun
 excerpt: The baseball club gets together for a social event
 series:

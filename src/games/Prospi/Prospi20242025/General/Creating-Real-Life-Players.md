@@ -1,6 +1,6 @@
 ---
 title: Creating Real Life Players
-date: 2024-11-14
+date: 2024-11-23
 author: hunter-baun
 excerpt: Links to videos describing how to recreate real life players in Prospi 2024
 series:

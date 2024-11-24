@@ -1,6 +1,6 @@
 ---
 title: Activity - Study Hall
-date: 2024-11-21
+date: 2024-11-23
 author: hunter-baun
 excerpt: Dialog and translations for the Study Hall activity
 series:
