@@ -55,16 +55,17 @@ layout: game
 [Simulation Rules](Gameplay/Sim-Rules)
 
 ### Activities
-[Baseball Stadium](./Activities/Stadium) <span class="badge badge-primary">New</span>
+[Baseball Stadium](./Activities/Stadium)
 [Bookstore](./Activities/Bookstore)
 [Convience Store](./Activities/Konbini)
 [Day Off](./Activities/Day-Off)
-[Home Center](./Activities/Home-Center) <span class="badge badge-primary">New</span>
-[Hospital](./Activities/Hospital) <span class="badge badge-primary">New</span>
+[Home Center](./Activities/Home-Center)
+[Hospital](./Activities/Hospital)
+[Red-White Game](./Activities/Red-White-Game)
 [Schedule Improvement](./Activities/Schedule-Improvement)
-[Study Hall](./Activities/Study-Hall) <span class="badge badge-primary">New</span>
-[University](./Activities/University) <span class="badge badge-primary">New</span>
-[Yorozuya](./Activities/Yorozuya) <span class="badge badge-primary">New</span>
+[Study Hall](./Activities/Study-Hall)
+[University](./Activities/University)
+[Yorozuya](./Activities/Yorozuya)
 
 ### Monthly Schedule
 *Note: Some dates will fluctuate slightly from year to year.*
@@ -83,22 +84,22 @@ layout: game
 ### Events
 
 #### Progress Events
-[School Fame Level Increase](./Events/School-Fame-Increase) <span class="badge badge-primary">New</span>
-[Scout Visit](./Events/Scout-Visit) <span class="badge badge-primary">New</span>
+[School Fame Level Increase](./Events/School-Fame-Increase)
+[Scout Visit](./Events/Scout-Visit)
 
 #### Other Events
-[An Efficient Practice Method](./Events/Efficient-Practice-Method) <span class="badge badge-primary">New</span>
-[Cheering Bullhorn Color Selection](./Events/Bullhorn-Color-Selection) <span class="badge badge-primary">New</span>
-[Dog Visit](./Events/Dog-Visit) <span class="badge badge-primary">New</span>
-[Getting a Title](./Events/Getting-a-Title) <span class="badge badge-primary">New</span>
+[An Efficient Practice Method](./Events/Efficient-Practice-Method)
+[Cheering Bullhorn Color Selection](./Events/Bullhorn-Color-Selection)
+[Dog Visit](./Events/Dog-Visit)
+[Getting a Title](./Events/Getting-a-Title)
 [Grounds Maintenance](Events/Grounds-Maintenance)
 [Player's Birthday](./Events/Player-Birthday)
-[Social Gathering](./Events/Social-Gathering) <span class="badge badge-primary">New</span>
+[Social Gathering](./Events/Social-Gathering)
 [Study Red Mark](./Events/Study-Red-Mark) <span class="badge badge-primary">New</span>
 
 ## General Pages
 [Activity Card List](./General/Practice-Activity-Cards)
-[Fame Levels](./General/Fame-Levels) <span class="badge badge-primary">Updated</span>
+[Fame Levels](./General/Fame-Levels)
 [Lists and Collections](./General/Lists) <span class="badge badge-primary">Updated</span>
 [Calendar Dates and Holidays](./General/Holidays-Key-Dates)
 [Consumable Items](./General/Items) <span class="badge badge-primary">Updated</span>
