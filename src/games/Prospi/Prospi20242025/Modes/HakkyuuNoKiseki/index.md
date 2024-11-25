@@ -62,6 +62,7 @@ layout: game
 [Home Center](./Activities/Home-Center)
 [Hospital](./Activities/Hospital)
 [Red-White Game](./Activities/Red-White-Game) <span class="badge badge-primary">New</span>
+[Requesting a Practice Game](./Activities/Requesting-a-Practice-Game) <span class="badge badge-primary">New</span>
 [Schedule Improvement](./Activities/Schedule-Improvement)
 [Sports Store](./Activities/Sports-Store) <span class="badge badge-primary">New</span>
 [Study Hall](./Activities/Study-Hall)
