@@ -61,8 +61,17 @@ You can choose how to play the game, by watching, simming, or skipping entirely,
 
 After the dialog, you'll go to the field and get to choose your play mode and difficulty from three presets:
 * Rookie (ルーキー)
+  * "Basic" pitch speed
+  * Meet assist level 2
+  * Pitching assist level 2
 * Normal (ノーマル)
+  * "Basic+" pitch speed
+  * Meet assist level 1
+  * Pitching assist level 1
 * Expert (エキスパート)
+  * "Middle" pitch speed
+  * No meet assist at all
+  * No pitching assist at all
 
 ### Setting the Lineup
 Next you'll set your lineup. If this is a regular game, you already have your lineup set, but here's the chance to sub some players if you want to get the kids some playing time, or if you're worried about player attitudes and want to put the happy ones in for luck, this is the chance. (Players who are in a bad mood won't play as well as if they're in a good mood.)
