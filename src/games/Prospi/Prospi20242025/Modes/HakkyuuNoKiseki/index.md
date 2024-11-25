@@ -61,7 +61,7 @@ layout: game
 [Day Off](./Activities/Day-Off)
 [Home Center](./Activities/Home-Center)
 [Hospital](./Activities/Hospital)
-[Red-White Game](./Activities/Red-White-Game)
+[Red-White Game](./Activities/Red-White-Game) <span class="badge badge-primary">New</span>
 [Schedule Improvement](./Activities/Schedule-Improvement)
 [Study Hall](./Activities/Study-Hall)
 [University](./Activities/University)
