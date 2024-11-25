@@ -1,6 +1,6 @@
 ---
 title: Activity - Red-White Game (Intrasquad)
-date: 2024-11-22
+date: 2024-11-25
 author: hunter-baun
 excerpt: Dialog and translations for the Red-White Game activity
 series:
