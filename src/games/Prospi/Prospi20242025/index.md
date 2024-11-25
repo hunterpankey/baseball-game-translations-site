@@ -37,6 +37,7 @@ eleventyNavigation:
 <article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ## Modes
+[Grand Prix](./Modes/GrandPrix)
 [Hakkyuu no Kiseki](Modes/HakkyuuNoKiseki)
 
 ## Videos
