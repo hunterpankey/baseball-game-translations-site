@@ -81,6 +81,9 @@ layout: game
 [Apr. 8: New Member Joining](./Monthly/April/New-Member-Joining)
 [Apr. 8: Annual Training Policy](./Monthly/April/Annual-Training-Policy)
 
+#### October
+[Oct. 11: Draft Day](./Monthly/October/Draft-Day) <span class="badge badge-primary">New</span>
+
 #### November
 [Nov.: Winter Scouting (Through February)](./Monthly/November/Winter-Scouting)
 
