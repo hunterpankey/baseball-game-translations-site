@@ -91,6 +91,7 @@ layout: game
 
 #### Other Events
 [An Efficient Practice Method](./Events/Efficient-Practice-Method)
+[Changing Seasons](./Events/Changing-Seasons)
 [Cheering Bullhorn Color Selection](./Events/Bullhorn-Color-Selection)
 [Dog Visit](./Events/Dog-Visit)
 [Getting a Title](./Events/Getting-a-Title)
