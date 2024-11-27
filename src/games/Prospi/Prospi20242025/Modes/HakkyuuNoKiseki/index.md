@@ -70,6 +70,7 @@ layout: game
 [Yorozuya](./Activities/Yorozuya)
 
 ### Monthly Schedule
+[Calendar Dates and Holidays](./General/Holidays-Key-Dates)
 *Note: Some dates will fluctuate slightly from year to year.*
 
 #### March
@@ -80,8 +81,11 @@ layout: game
 [Apr. 8: New Member Joining](./Monthly/April/New-Member-Joining)
 [Apr. 8: Annual Training Policy](./Monthly/April/Annual-Training-Policy)
 
+#### October
+[Oct. 11: Draft Day](./Monthly/October/Draft-Day) <span class="badge badge-primary">New</span>
+
 #### November
-[Nov.: Winter Scouting](./Monthly/November/Winter-Scouting)
+[Nov.: Winter Scouting (Through February)](./Monthly/November/Winter-Scouting)
 
 ### Events
 
@@ -105,7 +109,6 @@ layout: game
 [Activity Card List](./General/Practice-Activity-Cards)
 [Fame Levels](./General/Fame-Levels)
 [Lists and Collections](./General/Lists) <span class="badge badge-primary">Updated</span>
-[Calendar Dates and Holidays](./General/Holidays-Key-Dates)
 [Consumable Items](./General/Items) <span class="badge badge-primary">Updated</span>
 [Special Traits](./General/Manager-Training-Skills)
 
