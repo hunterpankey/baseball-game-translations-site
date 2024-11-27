@@ -58,8 +58,8 @@ The best time to see the autumn leaves seems to be from November to early Decemb
 Finally, winter. Snowfall, all the leaves are gone, games are done for the year.
 
 ![Cold, snowy winter][4]
-体の芯まで冷え込む日が増えてきた。
-本格的に冬の到来だ。
+{% japanese %}体の芯まで冷え込む日が増えてきた。<br />
+本格的に冬の到来だ。{% endjapanese %}
 
 The number of days when it feels cold to the core is increasing.
 

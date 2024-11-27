@@ -86,12 +86,13 @@ layout: game
 ### Events
 
 #### Progress Events
+[Annual Team Focus Selection](./Events/Annual-Team-Focus) <span class="badge badge-primary">New</span>
 [School Fame Level Increase](./Events/School-Fame-Increase)
 [Scout Visit](./Events/Scout-Visit)
 
 #### Other Events
 [An Efficient Practice Method](./Events/Efficient-Practice-Method)
-[Changing Seasons](./Events/Changing-Seasons)
+[Changing Seasons](./Events/Changing-Seasons) <span class="badge badge-primary">New</span>
 [Cheering Bullhorn Color Selection](./Events/Bullhorn-Color-Selection)
 [Dog Visit](./Events/Dog-Visit)
 [Getting a Title](./Events/Getting-a-Title)
