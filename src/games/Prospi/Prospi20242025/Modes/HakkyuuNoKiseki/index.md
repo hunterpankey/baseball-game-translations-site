@@ -88,6 +88,7 @@ layout: game
 [Nov.: Winter Scouting (Through February)](./Monthly/November/Winter-Scouting)
 
 ### Events
+[Miscellaneous Minor Events](./Events/Minor-Events) <span class="badge badge-primary">New</span>
 
 #### Progress Events
 [Annual Team Focus Selection](./Events/Annual-Team-Focus) <span class="badge badge-primary">New</span>
