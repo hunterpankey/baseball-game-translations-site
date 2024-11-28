@@ -93,6 +93,7 @@ layout: game
 [Annual Team Focus Selection](./Events/Annual-Team-Focus) <span class="badge badge-primary">New</span>
 [School Fame Level Increase](./Events/School-Fame-Increase)
 [Scout Visit](./Events/Scout-Visit)
+[Seniors Retiring](./Events/Seniors-Retiring) <span class="badge badge-primary">New</span>
 
 #### Other Events
 [An Efficient Practice Method](./Events/Efficient-Practice-Method)
