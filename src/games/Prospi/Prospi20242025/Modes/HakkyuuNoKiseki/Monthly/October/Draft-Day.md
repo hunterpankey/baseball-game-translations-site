@@ -57,6 +57,9 @@ imageFolder: /assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Monthly/O
 [21]: {{ imageFolder }}/event-draft-day-2026-21.png
 [22]: {{ imageFolder }}/event-draft-day-2026-22.png
 [23]: {{ imageFolder }}/event-draft-day-2026-23.png
+[24]: {{ imageFolder }}/event-post-draft-1.png
+[25]: {{ imageFolder }}/event-post-draft-2.png
+[26]: {{ imageFolder }}/event-post-draft-3.png
 
 [[toc]]
 
@@ -66,13 +69,6 @@ The [annual NPB draft](https://en.wikipedia.org/wiki/Nippon_Professional_Basebal
 * Having many drafted players makes your school more attractive to prospects, so the more players you have drafted, the more likely your scouted players will be to enroll.
 * When your first player is drafted, the stadium is enabled in the town menu in the smartphone, and the Baseball Stadium activity will begin to appear in the activity card hand. When you choose it, you'll go to a game where your player is playing. You could get a book from the notes you take there, and if a player comes with you, they'll get a mood boost.
 * If you play other modes, like Star Player, you can pick up your players' careers and play as them in the pros.
-
-{# ## The Day Before
-![1][1]
-{% japanese %}（ワー、ワー）
-{% endjapanese %}
-
-(Wow, wow) #}
 
 ## Draft Day Anticipation
 
@@ -224,4 +220,26 @@ The whole baseball team was excited at the news that one of their teammates had 
 には少し成長している可能性があります)<br />
 {% endjapanese %}
 
+## A Few Days Later
+
+![24][24]
+{% japanese %}ドラフト会議が終えて数日経ち、<br />
+マスコミによるプロ入り選手の評価が始まった。{% endjapanese %}
+
+A few days have passed since the draft ended, and the media has begun to evaluate the new players.
+
+![25][25]
+{% japanese %}ドラフト指名された福島たちは<br />
+野球部引退後も黙々と練習をこなしている。{% endjapanese %}
+
+Fukushima and the others, who were drafted, continue to practice diligently even after retiring from the baseball club.
+
+![26][26]
+{% japanese %}野球部引退後も選手たちは練習を続けています。<br />
+このため、プロ入り時には3年最後の試合後よりも<br />
+さらに成長している可能性があります。{% endjapanese %}
+
+Even after retiring from the baseball club, players continue to practice.
+
+So, by the time they turn pro, they may be even better than they were after their last game of their third year.
 </article>
