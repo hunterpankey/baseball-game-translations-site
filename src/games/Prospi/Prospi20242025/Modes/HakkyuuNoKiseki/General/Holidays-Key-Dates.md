@@ -36,7 +36,7 @@ layout: game
 
 - 1/25 - "Participating Schools Announced" - 出場校発表
 - 2/25 - [3rd Semester Final Exams - 期末試験](../../Events/School-Exams)
-- 3/1 - [Graduation Day - 卒業式](../Monthly/March/Graduation-Ceremony)
+- 3/1 - [Graduation Day - 卒業式](../../Monthly/March/Graduation-Ceremony)
 - 4/16 - Spring Prefectural Tournament Bracket Announcement - 組み合せ抽選
 - 5/5 - Children's Day - A Day to measure happiness and express gratitude to your mother.
 - 5/5 - Boy's Festival - 端午の節句
