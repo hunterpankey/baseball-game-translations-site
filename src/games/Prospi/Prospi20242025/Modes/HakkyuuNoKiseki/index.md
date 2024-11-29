@@ -48,7 +48,7 @@ layout: game
 [Practicing and Activities](./General/Practicing)
 
 ### Games
-[Playing Games](Gameplay/Playing-Games)
+[Playing Games](Gameplay/Playing-Games) <span class="badge badge-primary">Updated</span>
 [During a Game](./Gameplay/During-a-Game)
 [Postgame Victory](./Gameplay/Postgame)
 [Postgame Loss](./Gameplay/Losing-a-Game)
@@ -107,10 +107,10 @@ layout: game
 [Players Are Tired](./Events/Players-Tired) <span class="badge badge-primary">New</span>
 [School Exams](./Events/School-Exams) <span class="badge badge-primary">New</span>
 [Social Gathering](./Events/Social-Gathering)
-[Study Red Mark](./Events/Study-Red-Mark) <span class="badge badge-primary">New</span>
+[Study Red Mark](./Events/Study-Red-Mark)
 
 ## General Pages
-[Activity Card List](./General/Practice-Activity-Cards)
+[Activity Card List](./General/Practice-Activity-Cards) <span class="badge badge-primary">Updated</span>
 [Fame Levels](./General/Fame-Levels)
 [Lists and Collections](./General/Lists) <span class="badge badge-primary">Updated</span>
 [Consumable Items](./General/Items) <span class="badge badge-primary">Updated</span>
