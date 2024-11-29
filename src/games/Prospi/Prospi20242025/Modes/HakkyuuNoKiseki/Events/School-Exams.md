@@ -1,6 +1,6 @@
 ---
 title: Event - School Exams
-date: 2024-11-23
+date: 2024-11-28
 author: hunter-baun
 excerpt: Your players have to take exams and pass their classes. How will they do?
 series:
