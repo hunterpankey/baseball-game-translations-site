@@ -4,7 +4,7 @@
   <subtitle>Game translations for Japanese baseball games to help people play</subtitle>
   <link href="http://localhost:8088"/>
   <link href="http://localhost:8088/feed.xml" rel="self"/>
-  <updated>2024-11-23T23:40:00Z</updated>
+  <updated>2024-11-28T23:25:00Z</updated>
   <id>http://localhost:8088</id>
   <author>
     <name>Hunter Baun</name>
@@ -168,6 +168,56 @@ Lots of little event and activity pages have been created based on a bunch of sc
 &lt;li&gt;Added the Toolbox item to the &lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/General/Items/&quot;&gt;Items&lt;/a&gt; page.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The Meiji Jingu tournament streaming is pretty cool. &lt;a href=&quot;https://sports.yahoo.co.jp/livestream/vk&quot;&gt;Go watch some proper Japanese high school and collect tournament games!&lt;/a&gt; The &lt;a href=&quot;https://sports.yahoo.co.jp/livestream/vk/hsb-jingu/2021028995&quot;&gt;HS championship game&lt;/a&gt; and &lt;a href=&quot;https://sports.yahoo.co.jp/livestream/vk/bb-univ-jingu/2021029005&quot;&gt;college division championship game&lt;/a&gt; are on Monday morning and mid-day JST (8 and 11 p.m. Sunday night for US EST).&lt;/p&gt;
+&lt;p&gt;–HB&lt;/p&gt;
+&lt;/article&gt;</content>
+    </entry>
+    
+    <entry>
+      <title>Site Updates - November 28, 2024</title>
+      <link href="http://localhost:8088/2024/11/28/site-updates-november-28-2024/"/>
+      <updated>2024-11-28T23:25:00Z</updated>
+      <id>http://localhost:8088/2024/11/28/site-updates-november-28-2024/</id>
+      <content type="html">&lt;article class=&quot;prose max-w-xl lg:max-w-4xl lg:prose-lg&quot;&gt;
+More updates! I translated several more event pages and updated the scouting page as I just got back around to November in my HK playthrough and took some screenshots. I didn&#39;t really do any of the web dev stuff, though I do have a couple of things I want to do (clicking images to show a larger version, and showing the furigana over kanji in the Japanese text). I just didn&#39;t have the chance to do them in the past few days. Here&#39;s what we got:
+&lt;h2 id=&quot;new-pages&quot; tabindex=&quot;-1&quot;&gt;New Pages &lt;a class=&quot;header-anchor&quot; href=&quot;http://localhost:8088/2024/11/28/site-updates-november-28-2024/#new-pages&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Events&lt;br /&gt;
+&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Events/Minor-Events&quot;&gt;Miscellaneous Minor Events&lt;/a&gt; - A page to hold all the little events that don’t really merit their own page&lt;/li&gt;
+&lt;li&gt;Other Events
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Events/Changing-Seasons&quot;&gt;Changing Seasons&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Events/Players-Tired&quot;&gt;Players Are Tired&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Events/School-Exams&quot;&gt;School Exams&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Progress Events
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Events/Annual-Team-Focus&quot;&gt;Annual Team Focus Selection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Events/Seniors-Retiring&quot;&gt;Seniors Retiring&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Activities
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Activities/Red-White-Game&quot;&gt;Red-White Game&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Activities/Requesting-a-Practice-Game&quot;&gt;Requesting a Practice Game&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Activities/Sports-Store&quot;&gt;Sports Store&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Monthly Schedule
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Monthly/October/Draft-Day&quot;&gt;Oct. 11: Draft Day&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;updated-pages&quot; tabindex=&quot;-1&quot;&gt;Updated Pages &lt;a class=&quot;header-anchor&quot; href=&quot;http://localhost:8088/2024/11/28/site-updates-november-28-2024/#updated-pages&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Gameplay/Playing-Games&quot;&gt;Playing Games&lt;/a&gt; - Added details about the three difficulty level presets&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Monthly/November/Winter-Scouting&quot;&gt;Nov.: Winter Scouting (Through February)&lt;/a&gt; - Added screenshots of what the interface looks like with some translations of the screens&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/General/Practice-Activity-Cards&quot;&gt;Activity Card List&lt;/a&gt; - Added about 8 new cards or so, and pulled the official description of the activities from the game where I knew them&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/General/Lists&quot;&gt;Lists and Collections&lt;/a&gt; - Added descriptions of the last couple of hitting types&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/General/Items&quot;&gt;Consumable Items&lt;/a&gt; - Added the toolbox item&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I think I’m going to play the game a little more in the next few days than I have been. I still have a ton of event, activity, and various progression screenshots I’d like to get up on the site, but for all the content on the site now, I’ve only gotten to November 2026 in my playthrough!&lt;/p&gt;
 &lt;p&gt;–HB&lt;/p&gt;
 &lt;/article&gt;</content>
     </entry>
