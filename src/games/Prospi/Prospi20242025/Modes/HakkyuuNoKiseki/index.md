@@ -85,7 +85,7 @@ layout: game
 [Oct. 11: Draft Day](./Monthly/October/Draft-Day) <span class="badge badge-primary">New</span>
 
 #### November
-[Nov.: Winter Scouting (Through February)](./Monthly/November/Winter-Scouting)
+[Nov.: Winter Scouting (Through February)](./Monthly/November/Winter-Scouting) <span class="badge badge-primary">Updated</span>
 
 ### Events
 [Miscellaneous Minor Events](./Events/Minor-Events) <span class="badge badge-primary">New</span>
