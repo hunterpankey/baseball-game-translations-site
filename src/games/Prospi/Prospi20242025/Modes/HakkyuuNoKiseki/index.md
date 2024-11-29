@@ -104,6 +104,7 @@ layout: game
 [Getting a Title](./Events/Getting-a-Title)
 [Grounds Maintenance](Events/Grounds-Maintenance)
 [Player's Birthday](./Events/Player-Birthday)
+[School Exams](./Events/School-Exams) <span class="badge badge-primary">New</span>
 [Social Gathering](./Events/Social-Gathering)
 [Study Red Mark](./Events/Study-Red-Mark) <span class="badge badge-primary">New</span>
 
