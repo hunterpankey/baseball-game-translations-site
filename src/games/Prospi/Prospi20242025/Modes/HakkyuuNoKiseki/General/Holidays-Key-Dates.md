@@ -34,9 +34,20 @@ layout: game
 [[toc]]
 <article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
-- 1/25 - "Participating Schools Announced" - 出場校発表
+- 1/8 - Winter Vacation Ends
+- 1/11 - {% link "Coming of Age Day", "https://en.wikipedia.org/wiki/Coming_of_Age_Day", true %}
+- 1/25 - Spring Koshien "Participating Schools Announced" - 出場校発表
+- 2/3 - {% link "Setsubun Day", "https://en.wikipedia.org/wiki/Setsubun", true %}
+- 2/11 - {% link "National Foundation Day", "https://en.wikipedia.org/wiki/National_Foundation_Day_(Japan)", true %}
+- 2/14 - Valentine's Day
 - 2/25 - [3rd Semester Final Exams - 期末試験](../../Events/School-Exams)
 - 3/1 - [Graduation Day - 卒業式](../../Monthly/March/Graduation-Ceremony)
+- 3/3 - {% link "Hinamatsuri - Girls' Day", "https://en.wikipedia.org/wiki/Hinamatsuri", true %}
+- 3/21 - Vernal Equinox
+- 3/25 - Spring Break (approximately)
+- 3/30 - NPB Opening Day (approximately)
+- 4/1 - School Year Begins
+- 4/3 - Cherry Blossoms in bloom (possibly varies based on the prefecture)
 - 4/16 - Spring Prefectural Tournament Bracket Announcement - 組み合せ抽選
 - 5/5 - Children's Day - A Day to measure happiness and express gratitude to your mother.
 - 5/5 - Boy's Festival - 端午の節句
@@ -52,7 +63,8 @@ layout: game
 - 10/11 - Pro Draft - ドラフト会議
 - 10/12 - Tournament Bracket Announcement - 組み合せ抽選
 - 11/4 - Cultural Festival - 文化祭
-- 11/21 - Tournament Bracket Announcement
+- 11/21 - Autumn National Tournament Bracket Announcement (秋の全国大会の組み合わせ抽選会)
 - 12/7 - [2nd Semester Final Exams](../../Events/School-Exams)
+- 12/16 - Winter Training Camp
 
 </article>

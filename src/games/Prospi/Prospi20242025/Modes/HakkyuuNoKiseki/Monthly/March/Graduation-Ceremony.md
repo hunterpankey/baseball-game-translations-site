@@ -36,7 +36,7 @@ layout: game
 <article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ## 卒業
-Every March, after the third semester, third-year students graduate and go out into the world to start whatever it is they want to do. In Hakkyuu no Kiseki, that means that they will improve the various town locations and maybe represent your high school in the pros!
+Every March, after the third semester, third-year students graduate and go out into the world to start whatever it is they want to do. In Hakkyuu no Kiseki, that means that they will improve the various town locations and maybe represent your high school in the pros! The graduation ceremony (卒業式) seems to be on the first Monday in March, so it could be anywhere from 3/1-3/7. Below, it's on March 2nd, 2026.
 
 ### Ceremony
 

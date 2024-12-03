@@ -46,4 +46,7 @@ eleventyNavigation:
 ## Miscellaneous
 [Creating Real Life Players](./General/Creating-Real-Life-Players)
 
+### Game Updates and Notices
+2024-11-27 [Update 1.3.0](./General/Updates/2024-11-27-Update-1.3.0)
+2024-12-02 [Survey 4](./General/Updates/2024-12-02-4th-Survey)
 </article>
