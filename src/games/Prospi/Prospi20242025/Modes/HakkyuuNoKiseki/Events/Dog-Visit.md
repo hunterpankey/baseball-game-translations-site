@@ -2,7 +2,7 @@
 title: Event - Visit from a Dog
 date: 2024-11-23
 author: hunter-baun
-excerpt: Once a year, you get to choose the color of the cheering bullhorn
+excerpt: A dog showed up on campus. Yay!
 series:
   title: Pro Yakyuu Spirits
   url: /games/Prospi/
@@ -16,7 +16,7 @@ category: Event
 draft: 
 seo:
   title: Event - Visit from a Dog
-  description: Once a year, you get to choose the color of the cheering bullhorn
+  description: A dog showed up on campus. Yay!
   image: games/Prospi/Prospi20242025/general/stadiums/stadium-koshien-1.png
 images: # relative to /src/assets/images/
   feature: games/Prospi/Prospi20242025/general/stadiums/stadium-koshien-1.png
