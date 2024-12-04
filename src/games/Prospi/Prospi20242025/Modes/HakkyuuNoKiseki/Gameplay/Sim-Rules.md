@@ -107,7 +107,7 @@ You will play in the following situations:
   * When ahead ({% jishoSearch "勝っている" %}) or tied ({% jisho "同点" %}) - From the start of the inning
   * When behind ({% jishoSearch "負けている" %}) - Any situation with runners on base
 
-#### Field Play Mode
+### Field Play Mode
 ![field play logo](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/Playing-Games/field-play-logo.png =150x150)
 
 ![field play settings](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/Playing-Games/field-play-settings.png)
