@@ -126,10 +126,12 @@ Especially in the first couple of years, your school won't be strong enough to p
 
 ![11][11]
 {% japanese %}もうすぐ舂の甲子園大会の組合せ抽選会だ。{% endjapanese %}
+
 The draw for the Koshien Tournament will be held soon.
 
 ![12][12]
 {% japanese %}来年こそは出場資格を獲得し甲子園の土を踏みたい。{% endjapanese %}
+
 Next year, we hope to qualify and step onto the soil of Koshien.
 
 </article>
