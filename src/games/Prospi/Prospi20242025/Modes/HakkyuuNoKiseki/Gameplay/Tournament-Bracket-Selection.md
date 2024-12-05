@@ -43,6 +43,8 @@ imageFolder: /assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/
 [8]: {{ imageFolder }}/tournament-bracket-selection-dialog-5.png
 [9]: {{ imageFolder }}/tournament-bracket-selection-dialog-6.png
 [10]: {{ imageFolder }}/tournament-bracket.png
+[11]: {{ imageFolder }}/tournament-not-participating-1.png
+[12]: {{ imageFolder }}/tournament-not-participating-2.png
 
 [[toc]]
 <article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
@@ -118,5 +120,16 @@ You can check the matchup information (tournament table) by going to "Data" → 
 Once you're back to the dashboard, you can see the actual bracket from the smartphone's calendar screen. From the calendar, press square to show the bracket. Your school will be highlighted with a light background. As the tournament progresses, this bracket will update with game scores, and eliminated schools will be noted. You can use this to prepare for upcoming games by checking the remaining teams against the Rivals screen from the smartphone.
 
 ![tournament bracket showing us at the bottom][10]
+
+## Not Selected for Tournament
+Especially in the first couple of years, your school won't be strong enough to participate in many tournaments. When you're not selected, you'll see something similar to the following couple of screens.
+
+![11][11]
+{% japanese %}もうすぐ舂の甲子園大会の組合せ抽選会だ。{% endjapanese %}
+The draw for the Koshien Tournament will be held soon.
+
+![12][12]
+{% japanese %}来年こそは出場資格を獲得し甲子園の土を踏みたい。{% endjapanese %}
+Next year, we hope to qualify and step onto the soil of Koshien.
 
 </article>
