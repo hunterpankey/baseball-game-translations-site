@@ -38,6 +38,13 @@ imageFolder: /assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Monthly/A
 [3]: {{ imageFolder }}/monthly-april-new-members-joining-3.png
 [4]: {{ imageFolder }}/monthly-april-new-members-joining-4.png
 [5]: {{ imageFolder }}/new-class-members-2026.png
+[6]: {{ imageFolder }}/new-class-members-2027.png
+[7]: {{ imageFolder }}/new-class-member-registration.png
+[8]: {{ imageFolder }}/monthly-april-new-members-joining-5.png
+[9]: {{ imageFolder }}/monthly-april-new-members-joining-6.png
+[10]: {{ imageFolder }}/monthly-april-new-members-joining-7.png
+[11]: {{ imageFolder }}/monthly-april-new-members-joining-8.png
+[12]: {{ imageFolder }}/monthly-april-new-members-joining-9.png
 
 [[toc]]
 <article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
@@ -73,9 +80,13 @@ Today is the entrance ceremony. A new school year begins.
 ## Initial Gallery
 You'll get a view like the one below, showing the new players. Early in your run, your school doesn't have any clout, and you can't scout outside your own prefecture, and the best players don't really want to go to your school yet, so don't be too disappointed if you only get one- and two-star players for the first year or two.
 
-The below screen is from the start of my third year, so I've won some tournament games and leveled up the fame and renown of my school, so I have some pretty decent players here.
+The below screen is from the start of my third year, so I've won some tournament games and leveled up the fame and renown of my school, so I have some pretty decent players here in 2026.
 
 ![screen showing new players joining the club][5]
+
+The next screen is from the next year, 2027. After a strong 2026, you can see the overall improvement in the quality of the incoming players. I have a genius personality shortstop and a five-star CF among a number of other high quality players.
+
+![2027 new players][6]
 
 The star rating is related to the overall strength of the players. They're both measured in stars, which is confusing, but here goes anyway:
 - ★★★★★	221 and up
@@ -105,8 +116,35 @@ You can see that I have eight players joining, one of which is my scouted player
 ## Modifying Players
 Next you'll see a list of your players and some options to edit them. You can change their name, appearance, and customize their equipment, so if you want to change their socks or the catcher's equipment style or batting gloves, or something like that, here's where you do that.
 
-![new class member registration](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Monthly/April/new-class-members/new-class-member-registration.png)
+![new class member registration][7]
 
-The first button is for name changes ({% jisho "名前" %}), and the second one is for appearance and equipment ({% jisho "容姿設定", "容姿" %}). Choose OK to finish and return to the main menu.
+The first button is for name changes ({% jisho "名前" %}), and the second one is for appearance and equipment ({% jisho "容姿設定", "容姿" %}). Choose OK to finish and return.
+
+## Post-Registration
+
+![new members added][8]
+{% japanese %}新入部員が加わった。{% endjapanese %}
+
+The new members were added.
+
+![scouting success][9]
+{% japanese %}スカウトした田淵（東京出身）が入部しました。{% endjapanese %}
+
+We scouted Tabuchi (from Tokyo) and he joined the team.
+
+![10][10]
+{% japanese %}１年生の新人マネージャーとして市原が入部した。{% endjapanese %}
+
+Ichihara joined the team as a first-year rookie manager.
+
+![11][11]
+{% japanese %}新チームになったことですし、今後の育成方針を決めないといけないですね。{% endjapanese %}
+
+Now that we have a new team, we need to decide on our future training policy.
+
+![12][12]
+{% japanese %}２０２７年４月、新生、大島エ芸高校野球部がスタートした。{% endjapanese %}
+
+In April 2027, the new Oshima Polytechnic High School baseball team was launched.
 
 </article>
