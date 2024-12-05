@@ -4,7 +4,7 @@
   <subtitle>Game translations for Japanese baseball games to help people play</subtitle>
   <link href="http://localhost:8088"/>
   <link href="http://localhost:8088/feed.xml" rel="self"/>
-  <updated>2024-11-28T23:25:00Z</updated>
+  <updated>2024-12-04T19:16:00Z</updated>
   <id>http://localhost:8088</id>
   <author>
     <name>Hunter Baun</name>
@@ -218,6 +218,33 @@ More updates! I translated several more event pages and updated the scouting pag
 &lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/General/Items&quot;&gt;Consumable Items&lt;/a&gt; - Added the toolbox item&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I think I’m going to play the game a little more in the next few days than I have been. I still have a ton of event, activity, and various progression screenshots I’d like to get up on the site, but for all the content on the site now, I’ve only gotten to November 2026 in my playthrough!&lt;/p&gt;
+&lt;p&gt;–HB&lt;/p&gt;
+&lt;/article&gt;</content>
+    </entry>
+    
+    <entry>
+      <title>Site Updates - December 4, 2024</title>
+      <link href="http://localhost:8088/2024/12/04/site-updates-december-4-2024/"/>
+      <updated>2024-12-04T19:16:00Z</updated>
+      <id>http://localhost:8088/2024/12/04/site-updates-december-4-2024/</id>
+      <content type="html">&lt;article class=&quot;prose max-w-xl lg:max-w-4xl lg:prose-lg&quot;&gt;
+Some helpful (hopefully) updates in this one, but this is a slightly smaller update than others because I&#39;ve actually been playing more.
+&lt;p&gt;I keep waiting for patches to fix some in-game stuff that I hate, namely that outfielders can just straight-up host guys on the bases because outfield throws to 3rd and home are never offline, always perfectly to the base, which is ridiculous. I also really don’t like how bad the infield defense AI is. I had a catcher just post up at the plate instead of grabbing a bunt that was one step away, waiting for the pitcher to get to it. Just completely braindead AI… So I’ve been watching patch notes pretty closely, and I decided to post a couple of recent translations. I’ll try to get them up on the site pretty soon after they arrive.&lt;/p&gt;
+&lt;h2 id=&quot;new-pages&quot; tabindex=&quot;-1&quot;&gt;New Pages &lt;a class=&quot;header-anchor&quot; href=&quot;http://localhost:8088/2024/12/04/site-updates-december-4-2024/#new-pages&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/#game-updates-and-notices&quot;&gt;Patch Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Events/World-Baseball-Classic&quot;&gt;WBC Event Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Monthly/March/Graduation-Presents&quot;&gt;Graduation Presents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Monthly/March/Graduating-Drafted-Players&quot;&gt;Graduating Drafted Players&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/General/Official-Help&quot;&gt;Official Help Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;updated-pages&quot; tabindex=&quot;-1&quot;&gt;Updated Pages &lt;a class=&quot;header-anchor&quot; href=&quot;http://localhost:8088/2024/12/04/site-updates-december-4-2024/#updated-pages&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/General/Holidays-Key-Dates&quot;&gt;Calendar Dates and Holidays&lt;/a&gt; - Added some new dates and links to Wikipedia articles, for those of you who are here for the culture&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/General/Manager-Training-Skills&quot;&gt;Special Skills&lt;/a&gt; - Added some new special skills for managers to train players on&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Monthly/March/Graduation-Ceremony/&quot;&gt;Graduation Ceremony&lt;/a&gt; - Added information about the town location updates at graduation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thinking about starting another mode sometime soon. I’m leaning toward star player, but maybe My Ballpark. I still want to play in games, so most likely one of those. OK, have fun out there!&lt;/p&gt;
 &lt;p&gt;–HB&lt;/p&gt;
 &lt;/article&gt;</content>
     </entry>
