@@ -17,11 +17,11 @@ draft:
 seo:
   title: Tournament Bracket Selection
   description: Here's what it looks like when your school is selected to participate in a tournament
-  image: games/Prospi/Prospi20242025/general/stadium-hs-home-to-lf-sky.png
+  image: games/Prospi/Prospi20242025/general/stadiums/stadium-hs-home-to-lf-sky.png
 images: # relative to /src/assets/images/
-  feature: games/Prospi/Prospi20242025/general/stadium-hs-home-to-lf-sky.png
-  thumb: games/Prospi/Prospi20242025/general/stadium-hs-home-to-lf-sky.png
-  slide: games/Prospi/Prospi20242025/general/stadium-hs-home-to-lf-sky.png
+  feature: games/Prospi/Prospi20242025/general/stadiums/stadium-hs-home-to-lf-sky.png
+  thumb: games/Prospi/Prospi20242025/general/stadiums/stadium-hs-home-to-lf-sky.png
+  slide: games/Prospi/Prospi20242025/general/stadiums/stadium-hs-home-to-lf-sky.png
   align: object-bottom
 tags:
   - game
