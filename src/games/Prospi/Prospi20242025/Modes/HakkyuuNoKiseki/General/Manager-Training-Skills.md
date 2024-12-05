@@ -159,4 +159,10 @@ Increases batted ball velocity when hit on the sweet spot with a power swing
 走塁
 べースランニングのうまさ
 Base running skills
+
+### First Pitch
+初球
+ノーストライクの時に打力が上がる
+Increases batting power on the first pitch of the at bat. 
+(Note: The text actually says "situation with no strikes", so this might apply to any zero-strike count.)
 </article>

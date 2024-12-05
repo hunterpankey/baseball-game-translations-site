@@ -38,6 +38,7 @@ layout: game
 ## Instructions and Help
 [The Main Game Loop](./General/Main-Game-Loop)
 [Dashboard and Smartphone](./General/Dashboard-Smartphone)
+[In-Game Help](./General/Official-Help) <span class="badge badge-primary">New</span>
 [General Tips](<./General>)
 [Official FAQ Translated](./General/FAQ)
 
@@ -48,7 +49,7 @@ layout: game
 [Practicing and Activities](./General/Practicing)
 
 ### Games
-[Playing Games](Gameplay/Playing-Games) <span class="badge badge-primary">Updated</span>
+[Playing Games](Gameplay/Playing-Games)
 [During a Game](./Gameplay/During-a-Game)
 [Postgame Victory](./Gameplay/Postgame)
 [Postgame Loss](./Gameplay/Losing-a-Game)
@@ -57,14 +58,14 @@ layout: game
 ### Activities
 [Baseball Stadium](./Activities/Stadium)
 [Bookstore](./Activities/Bookstore)
-[Convience Store](./Activities/Konbini)
+[Convenience Store](./Activities/Konbini)
 [Day Off](./Activities/Day-Off)
 [Home Center](./Activities/Home-Center)
 [Hospital](./Activities/Hospital)
-[Red-White Game](./Activities/Red-White-Game) <span class="badge badge-primary">New</span>
-[Requesting a Practice Game](./Activities/Requesting-a-Practice-Game) <span class="badge badge-primary">New</span>
+[Red-White Game](./Activities/Red-White-Game)
+[Requesting a Practice Game](./Activities/Requesting-a-Practice-Game)
 [Schedule Improvement](./Activities/Schedule-Improvement)
-[Sports Store](./Activities/Sports-Store) <span class="badge badge-primary">New</span>
+[Sports Store](./Activities/Sports-Store)
 [Study Hall](./Activities/Study-Hall)
 [University](./Activities/University)
 [Yorozuya](./Activities/Yorozuya)
@@ -76,44 +77,47 @@ layout: game
 #### March
 
 [Mar. 2: Graduation Ceremony](./Monthly/March/Graduation-Ceremony/)
+* [Graduation Presents](./Monthly/March/Graduation-Presents) <span class="badge badge-primary">New</span>
+* [Graduating Drafted Players](./Monthly/March/Graduating-Drafted-Players) <span class="badge badge-primary">New</span>
 
 #### April
 [Apr. 8: New Member Joining](./Monthly/April/New-Member-Joining)
 [Apr. 8: Annual Training Policy](./Monthly/April/Annual-Training-Policy)
 
 #### October
-[Oct. 11: Draft Day](./Monthly/October/Draft-Day) <span class="badge badge-primary">New</span>
+[Oct. 11: Draft Day](./Monthly/October/Draft-Day)
 
 #### November
-[Nov.: Winter Scouting (Through February)](./Monthly/November/Winter-Scouting) <span class="badge badge-primary">Updated</span>
+[Nov.: Winter Scouting (Through February)](./Monthly/November/Winter-Scouting)
 
 ### Events
-[Miscellaneous Minor Events](./Events/Minor-Events) <span class="badge badge-primary">New</span>
+[Miscellaneous Minor Events](./Events/Minor-Events)
 
 #### Progress Events
-[Annual Team Focus Selection](./Events/Annual-Team-Focus) <span class="badge badge-primary">New</span>
+[Annual Team Focus Selection](./Events/Annual-Team-Focus)
 [School Fame Level Increase](./Events/School-Fame-Increase)
 [Scout Visit](./Events/Scout-Visit)
-[Seniors Retiring](./Events/Seniors-Retiring) <span class="badge badge-primary">New</span>
+[Seniors Retiring](./Events/Seniors-Retiring)
 
 #### Other Events
 [An Efficient Practice Method](./Events/Efficient-Practice-Method)
-[Changing Seasons](./Events/Changing-Seasons) <span class="badge badge-primary">New</span>
+[Changing Seasons](./Events/Changing-Seasons)
 [Cheering Bullhorn Color Selection](./Events/Bullhorn-Color-Selection)
 [Dog Visit](./Events/Dog-Visit)
 [Getting a Title](./Events/Getting-a-Title)
 [Grounds Maintenance](Events/Grounds-Maintenance)
 [Player's Birthday](./Events/Player-Birthday)
-[Players Are Tired](./Events/Players-Tired) <span class="badge badge-primary">New</span>
-[School Exams](./Events/School-Exams) <span class="badge badge-primary">New</span>
+[Players Are Tired](./Events/Players-Tired)
+[School Exams](./Events/School-Exams)
 [Social Gathering](./Events/Social-Gathering)
 [Study Red Mark](./Events/Study-Red-Mark)
+[World Baseball Classic](./Events/World-Baseball-Classic) <span class="badge badge-primary">New</span>
 
 ## General Pages
-[Activity Card List](./General/Practice-Activity-Cards) <span class="badge badge-primary">Updated</span>
+[Activity Card List](./General/Practice-Activity-Cards)
 [Fame Levels](./General/Fame-Levels)
-[Lists and Collections](./General/Lists) <span class="badge badge-primary">Updated</span>
-[Consumable Items](./General/Items) <span class="badge badge-primary">Updated</span>
+[Lists and Collections](./General/Lists)
+[Consumable Items](./General/Items)
 [Special Traits](./General/Manager-Training-Skills)
 
 </article>
