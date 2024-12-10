@@ -58,7 +58,10 @@ layout: game
 - 6/25 - [1st Semester Final Exams - 期末試験](../../Events/School-Exams)
 - 7/6 - Summer Tournament Bracket Announcement - 組み合せ抽選
 - 8/2 - Tournament Bracket Announcement - 組み合せ抽選
+- 8/11 - {% link "Mountain Day - 山の日", "https://en.wikipedia.org/wiki/Mountain_Day#Japan", true %}
 - 9/2 - Tournament Bracket Announcement - 組み合せ抽選
+- 9/20 - {% link "Respect for the Aged Day - 経路の日", "https://en.wikipedia.org/wiki/Respect_for_the_Aged_Day", true %}
+- 9/23 - Autumnal Equinox (approximately)
 - 10/10 - Sports Festival - 体育祭
 - 10/11 - Pro Draft - ドラフト会議
 - 10/12 - Tournament Bracket Announcement - 組み合せ抽選

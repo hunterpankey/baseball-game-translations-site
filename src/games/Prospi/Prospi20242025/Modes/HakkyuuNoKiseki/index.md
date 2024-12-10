@@ -38,9 +38,10 @@ layout: game
 ## Instructions and Help
 [The Main Game Loop](./General/Main-Game-Loop)
 [Dashboard and Smartphone](./General/Dashboard-Smartphone)
-[In-Game Help](./General/Official-Help) <span class="badge badge-primary">New</span>
+[In-Game Help](./General/Official-Help)
 [General Tips](<./General>)
 [Official FAQ Translated](./General/FAQ)
+[Helpful Videos](./General/Helpful-Videos) <span class="badge badge-primary">New</span>
 
 ## Regular Play
 
@@ -49,6 +50,7 @@ layout: game
 [Practicing and Activities](./General/Practicing)
 
 ### Games
+[Tournament Selection](./Gameplay/Tournament-Bracket-Selection) <span class="badge badge-primary">New</span>
 [Playing Games](Gameplay/Playing-Games)
 [During a Game](./Gameplay/During-a-Game)
 [Postgame Victory](./Gameplay/Postgame)
@@ -77,8 +79,8 @@ layout: game
 #### March
 
 [Mar. 2: Graduation Ceremony](./Monthly/March/Graduation-Ceremony/)
-* [Graduation Presents](./Monthly/March/Graduation-Presents) <span class="badge badge-primary">New</span>
-* [Graduating Drafted Players](./Monthly/March/Graduating-Drafted-Players) <span class="badge badge-primary">New</span>
+* [Graduation Presents](./Monthly/March/Graduation-Presents)
+* [Graduating Drafted Players](./Monthly/March/Graduating-Drafted-Players)
 
 #### April
 [Apr. 8: New Member Joining](./Monthly/April/New-Member-Joining)
@@ -111,7 +113,7 @@ layout: game
 [School Exams](./Events/School-Exams)
 [Social Gathering](./Events/Social-Gathering)
 [Study Red Mark](./Events/Study-Red-Mark)
-[World Baseball Classic](./Events/World-Baseball-Classic) <span class="badge badge-primary">New</span>
+[World Baseball Classic](./Events/World-Baseball-Classic)
 
 ## General Pages
 [Activity Card List](./General/Practice-Activity-Cards)

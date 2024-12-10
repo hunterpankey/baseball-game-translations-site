@@ -2,7 +2,7 @@
 title: 4th Survey
 date: 2024-12-02
 author: hunter-baun
-excerpt: Patch notes for Prospi 2024 version 1.3.0
+excerpt: Notes on the launch of the 4th player survey
 series:
   title: Pro Yakyuu Spirits
   url: /games/Prospi/
@@ -15,8 +15,8 @@ mode:
 category: Miscellaneous
 draft: 
 seo:
-  title: Update 1.3.0
-  description: Patch notes for Prospi 2024 version 1.3.0
+  title: 4th Survey
+  description: Notes on the launch of the 4th player survey
   image: games/Prospi/Prospi20242025/general/school-courtyard.png
 images: # relative to /src/assets/images/
   feature: games/Prospi/Prospi20242025/general/school-courtyard.png

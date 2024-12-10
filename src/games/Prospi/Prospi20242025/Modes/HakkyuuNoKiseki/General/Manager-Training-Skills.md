@@ -45,10 +45,15 @@ The skills listed below can be learned by you as director, and can be taught to 
 You might see 「教えられる特殊能力」 or parts of it in menus and other screens as in the manager listing shown below. This translates to "Special skills that can be taught".
 ![Manager information screen's teachable skills section][1]
 
-### Cut Hit (カット打ち)
-**カット打ち**
-ギリギリまで引き付けてから流し打ちボタンを使うとファウルを打っことができる
-Batters can wait until the last possible second and use the opposite field swing button to foul a pitch off.
+### High Speed Batting
+高速弾
+強振で芯を捉えると打球速度が上がる
+Increases batted ball velocity when hit on the sweet spot with a power swing
+
+### Pinch Hitting
+代打
+代打の時に打力が上がる
+Improves hitting ability when pinch-hitting.
 
 ### Sense of Presence (Hitter)
 **存在感（打者）**
@@ -65,45 +70,97 @@ After getting two base hits in a game, contact ability increases for the rest of
 流した打球が切れにくい
 Balls hit to the opposite slice less and are more likely to stay fair.
 
+### First Pitch
+**初球**
+ノーストライクの時に打力が上がる
+Increases batting power on the first pitch of the at bat. 
+(Note: The text actually says "situation with no strikes", so this might apply to any zero-strike count.)
+
+### Second Helping
+**おかわり**
+１本ホームランを打っている時にパワーが大きく上がる
+After hitting a home run, the batter's power increases significantly.
+
+### Winning Hit
+**決勝打**
+試合終盤、勝ち越しのランナーがいると打力が上がる
+Late in the game, with a runner on base, batting power will increase.
+
+### Cut Hit (カット打ち)
+**カット打ち**
+ギリギリまで引き付けてから流し打ちボタンを使うとファウルを打っことができる
+Batters can wait until the last possible second and use the opposite field swing button to foul a pitch off.
+
 ### Bunt Dash
-**バントダッシュ**
+**バントダッシュ〇**
 投手、一・三塁手のバントに対するダッシュ
 Pitcher, first base, and third base protect against bunts by charging.
+
+### Laser Beam Throws
+**レーザービーム**
+外野手の遠投が低い軌道になる
+Outfielders' long throws have a low trajectory
 
 ### Strikeout Pitcher
 **奪三振**
 2ストライクに追い込むと球威UP
-When pitching with two strikes, pitch power increases to generate strikeouts.
+When pitching with two strikes, pitch power increases to generate strikeouts
+
+### Pickoff Skill
+**牽制〇〇**
+牽制のうまさ
+Improves a pitcher's pickoff skill
 
 ### Quick to the Plate
-**クイック**
+**クイック:arrow_up:**
 盗塁のされにくさ
-Pitcher is quicker to the plate to protect against base stealers.
+Pitcher is quicker to the plate to protect against base stealers
+
+### Pitch Hiding
+**球持ち**
+球持ちが良くリリースを判断しづらい
+Ball holding makes it difficult to pick up the pitch release
+
+
+
 
 ### Power Distribution
 **カ配分**
 強打者に対すると全力で勝負にいく
-When pitching to a strong hitter, "go all out".
+When pitching to a strong hitter, "go all out"
 
 ### Hit Resistance
 **打たれ強さ**
 連打を浴びてもどれだけ動揺せすにいられるか
-When pitching, remain unfazed even when giving up multiple hits.
+How well a pitcher can remain calm even when hit repeatedly
 
 ### Head-First Sliding
 **ヘッドスライディング**
 タイミングが際どいとき一塁にヘッドスライディングする
 When the play is close, slide headfirst into first to beat the play.
 
+
+### Infield Hits
+**内野安打〇**
+打ったあとの走リ出しの速さ
+Improves the batter's speed/acceleration out of the batter's box to get infield base hits.
+
+### Base Running
+**走塁:arrow_up:**
+べースランニングのうまさ
+Base running skill improves
+
 ### Stealing Bases
-**盗塁**
+**盗塁:arrow_up:**
 盗塁のうまさ
-Improve the ability to steal bases.
+Base stealing skill improves
+
+
 
 ### Injury Resistance
-**ケガしにくさ**
+**ケガしにくさ:arrow_up:**
 ペナントレース中の故障のしにくさ
-Become less likely to get injured.
+Become less likely to break down during the pennant race
 
 ### Good Tempo
 **テンポ〇COM**
@@ -140,29 +197,5 @@ Run the bases aggressively when controlled by the CPU (i.e., during simulation).
 COMが操作したとき積極的に盗塁を試みる
 Look to steal more bases when controlled by the CPU (i.e., during simulation).
 
-### Pickoffs
-**牽制**
-牽制のうまさ
-Improves a pitcher's pickoff skill.
 
-### Infield Hits
-内野安打
-打ったあとの走リ出しの速さ
-Improves the batter's speed/acceleration out of the batter's box to get infield base hits.
-
-### High Speed Batting
-高速弾
-強振で芯を捉えると打球速度が上がる
-Increases batted ball velocity when hit on the sweet spot with a power swing
-
-### Base Running
-走塁
-べースランニングのうまさ
-Base running skills
-
-### First Pitch
-初球
-ノーストライクの時に打力が上がる
-Increases batting power on the first pitch of the at bat. 
-(Note: The text actually says "situation with no strikes", so this might apply to any zero-strike count.)
 </article>
