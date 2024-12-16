@@ -60,6 +60,7 @@ layout: game
 ### Activities
 [Baseball Stadium](./Activities/Stadium)
 [Bookstore](./Activities/Bookstore)
+[Business Center](./Activities/Business-Center) <span class="badge badge-primary">New</span>
 [Convenience Store](./Activities/Konbini)
 [Day Off](./Activities/Day-Off)
 [Home Center](./Activities/Home-Center)
