@@ -4,7 +4,7 @@
   <subtitle>Game translations for Japanese baseball games to help people play</subtitle>
   <link href="http://localhost:8088"/>
   <link href="http://localhost:8088/feed.xml" rel="self"/>
-  <updated>2024-12-04T19:16:00Z</updated>
+  <updated>2024-12-17T17:15:00Z</updated>
   <id>http://localhost:8088</id>
   <author>
     <name>Hunter Baun</name>
@@ -245,6 +245,29 @@ Some helpful (hopefully) updates in this one, but this is a slightly smaller upd
 &lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Monthly/March/Graduation-Ceremony/&quot;&gt;Graduation Ceremony&lt;/a&gt; - Added information about the town location updates at graduation&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Thinking about starting another mode sometime soon. I’m leaning toward star player, but maybe My Ballpark. I still want to play in games, so most likely one of those. OK, have fun out there!&lt;/p&gt;
+&lt;p&gt;–HB&lt;/p&gt;
+&lt;/article&gt;</content>
+    </entry>
+    
+    <entry>
+      <title>Site Updates - December 17, 2024</title>
+      <link href="http://localhost:8088/2024/12/17/site-updates-december-17-2024/"/>
+      <updated>2024-12-17T17:15:00Z</updated>
+      <id>http://localhost:8088/2024/12/17/site-updates-december-17-2024/</id>
+      <content type="html">&lt;article class=&quot;prose max-w-xl lg:max-w-4xl lg:prose-lg&quot;&gt;
+Just a little update this time as I&#39;ve been playing more and doing other stuff recently.
+&lt;h2 id=&quot;new-pages&quot; tabindex=&quot;-1&quot;&gt;New Pages &lt;a class=&quot;header-anchor&quot; href=&quot;http://localhost:8088/2024/12/17/site-updates-december-17-2024/#new-pages&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Activities/Business-Center/&quot;&gt;Hakkyuu no Kiseki - Business Center Activity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/General/Updates/2024-12-09-5th-Survey/&quot;&gt;5th Survey News Translation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/General/Updates/2024-12-17-Update-1.4.0/&quot;&gt;Update 1.4.0 News Translation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;updated-pages&quot; tabindex=&quot;-1&quot;&gt;Updated Pages &lt;a class=&quot;header-anchor&quot; href=&quot;http://localhost:8088/2024/12/17/site-updates-december-17-2024/#updated-pages&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/HakkyuuNoKiseki/Gameplay/Tournament-Bracket-Selection/&quot;&gt;Tournament Lifecycle&lt;/a&gt; - Added information arount the overall tournament sequence and what happens when you win a tournament&lt;/li&gt;
+&lt;li&gt;And misc typos and misspellings…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I started Star Player mode last night with one of my Hakkyuu no Kiseki graduates, a 430-star LF that mashes taters. Fun so far! I’ll probably write up some of it to help y’all out getting started there.&lt;/p&gt;
 &lt;p&gt;–HB&lt;/p&gt;
 &lt;/article&gt;</content>
     </entry>
