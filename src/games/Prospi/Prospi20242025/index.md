@@ -50,4 +50,5 @@ eleventyNavigation:
 2024-11-27 [Update 1.3.0](./General/Updates/2024-11-27-Update-1.3.0)
 2024-12-02 [Survey 4](./General/Updates/2024-12-02-4th-Survey)
 2024-12-09 [Survey 5](./General/Updates/2024-12-09-5th-Survey)
+2024-12-13 [Update 1.4.0](./General/Updates/2024-12-17-Update-1.4.0)
 </article>
