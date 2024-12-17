@@ -50,7 +50,9 @@ layout: game
 [Practicing and Activities](./General/Practicing)
 
 ### Games
-[Tournament Selection](./Gameplay/Tournament-Bracket-Selection) <span class="badge badge-primary">New</span>
+Information about actually playing games and how tournaments and practice games work in the Hakkyuu no Kiseki mode.
+
+[Tournament Lifecycle](./Gameplay/Tournament-Bracket-Selection) <span class="badge badge-primary">Updated</span>
 [Playing Games](Gameplay/Playing-Games)
 [During a Game](./Gameplay/During-a-Game)
 [Postgame Victory](./Gameplay/Postgame)
@@ -58,20 +60,28 @@ layout: game
 [Simulation Rules](Gameplay/Sim-Rules)
 
 ### Activities
+Non-practice activities that provide various benefits but use an activity period slot.
+
+#### Town Activities
+*Note: These are in order as they appear in the screen in game.*
+
+[Yorozuya](./Activities/Yorozuya)
 [Baseball Stadium](./Activities/Stadium)
-[Bookstore](./Activities/Bookstore)
-[Business Center](./Activities/Business-Center) <span class="badge badge-primary">New</span>
 [Convenience Store](./Activities/Konbini)
-[Day Off](./Activities/Day-Off)
+[Bookstore](./Activities/Bookstore)
+[Sports Store](./Activities/Sports-Store)
 [Home Center](./Activities/Home-Center)
 [Hospital](./Activities/Hospital)
+[Business Center](./Activities/Business-Center) <span class="badge badge-primary">New</span>
+Gym
+[University](./Activities/University)
+
+#### Other Activities
+[Day Off](./Activities/Day-Off)
 [Red-White Game](./Activities/Red-White-Game)
 [Requesting a Practice Game](./Activities/Requesting-a-Practice-Game)
 [Schedule Improvement](./Activities/Schedule-Improvement)
-[Sports Store](./Activities/Sports-Store)
 [Study Hall](./Activities/Study-Hall)
-[University](./Activities/University)
-[Yorozuya](./Activities/Yorozuya)
 
 ### Monthly Schedule
 [Calendar Dates and Holidays](./General/Holidays-Key-Dates)

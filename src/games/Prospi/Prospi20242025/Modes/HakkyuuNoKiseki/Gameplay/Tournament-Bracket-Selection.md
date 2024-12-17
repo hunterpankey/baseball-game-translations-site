@@ -45,6 +45,14 @@ imageFolder: /assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/
 [10]: {{ imageFolder }}/tournament-bracket.png
 [11]: {{ imageFolder }}/tournament-not-participating-1.png
 [12]: {{ imageFolder }}/tournament-not-participating-2.png
+[13]: {{ imageFolder }}/regional-tournament-reached-1.png
+[14]: {{ imageFolder }}/regional-tournament-reached-2.png
+[15]: {{ imageFolder }}/gameplay-tournament-champion-1.png
+[16]: {{ imageFolder }}/gameplay-tournament-champion-2.png
+[17]: {{ imageFolder }}/gameplay-tournament-champion-3.png
+[18]: {{ imageFolder }}/gameplay-tournament-champion-4.png
+[19]: {{ imageFolder }}/gameplay-tournament-champion-5.png
+[20]: {{ imageFolder }}/gameplay-tournament-champion-6.png
 
 [[toc]]
 <article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
@@ -134,4 +142,71 @@ The draw for the Koshien Tournament will be held soon.
 
 Next year, we hope to qualify and step onto the soil of Koshien.
 
+## Tournament Travel
+Koshien (Kobe) and the national tournament (Tokyo) are further away from your home prefecture and require travel to get there for the duration of the tournament. You'll see a day note that reads 「移動」 for the travel day, and a few things will change while you're on-site:
+- All of the local activities won't be available, so you can't go to the sports store, the gym, the hospital, etc., because you're not in town to go there.
+- Practice equipment durability will not decrease while you're at the tournament.
+
+The prefectural and regional tournaments don't require travel, so the above does not apply for those.
+
+## Playing Games
+The tournament games will take place throughout the next couple of weeks. The dashboard screen shows the next 10 or so days after today, and days with games will have the round number indicated to the right side of the day. Practice periods will automatically break on days that you have a game, so you'll have a number of shortened practice periods when the tournaement games are frequent.
+
+See the following pages for actual game day guides:
+- [Playing Games](../Playing-Games)
+- [During a Game](../During-a-Game)
+- [Postgame Victory](../Postgame)
+- [Postgame Loss](../Losing-a-Game)
+- [Simulation Rules](../Sim-Rules)
+
+All tournaments are single-elimination, so losing a game means that you're out of the tournament.
+
+## Winning a Tournament
+After a while, your school will be strong enough on the field that you'll win a tournament, or at least get far enough to advance to the next tournament. For example, just by making the prefectural tournament final, you'll be able to play in the regional tournament. Winning the spring or summer prefectural tournament will get you into the next Koshien tournament.
+
+![13][13]
+{% japanese %}春の県大会で上位２チームが確定し、地区大会への出場が決まった。{% endjapanese %}
+
+The final two teams were determined for the spring prefectural tournament, and they will advance to the regional tournament.
+
+![14][14]
+{% japanese %}春の地区大会出場決定{% endjapanese %}
+
+Spring Regional Tournament - Participation Determined
+
+![15][15]
+{% japanese %}優勝おめでとう！{% endjapanese %}
+
+Congratulations on the championship victory!
+
+![16][16]
+{% japanese %}白球のキセキモードで学校の評判が名門になる{% endjapanese %}
+
+In Hakkyuu no Kiseki mode, reach the prestigious school fame rank.
+
+![17][17]
+{% japanese "太田　美南" %}やりました！<br />
+これで春の県大会優勝です！{% endjapanese %}
+
+**(Club Manager) Ota Minami:** We did it!
+As of now, we're the champions of the spring prefectural tournament!
+
+![18][18]
+{% japanese "太田　美南" %}次の公式戦は春の地区大会。<br />
+さらに強いチームとの戦いが予想されます。<br />
+我が校の強さをアピールできますね！{% endjapanese %}
+
+**(Club Manager) Ota Minami:** Our next official match is the spring regional tournament.
+We expect to face even stronger teams.
+This will be a great opportunity to show off the strength of our school!
+
+![19][19]
+{% japanese %}春の県大会で優勝した。{% endjapanese %}
+
+We won the prefectural tournament in the spring.
+
+![20][20]
+{% japanese %}戦績ポイントを６００P獲得した。{% endjapanese %}
+
+Earned 600 battle points.
 </article>

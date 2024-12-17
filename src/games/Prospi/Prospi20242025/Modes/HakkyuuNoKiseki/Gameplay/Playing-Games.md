@@ -74,13 +74,15 @@ After the dialog, you'll go to the field and get to choose your play mode and di
   * No pitching assist at all
 
 ### Setting the Lineup
-Next you'll set your lineup. If this is a regular game, you already have your lineup set, but here's the chance to sub some players if you want to get the kids some playing time, or if you're worried about player attitudes and want to put the happy ones in for luck, this is the chance. (Players who are in a bad mood won't play as well as if they're in a good mood.)
+Next you'll set your lineup. If this is a regular game, you already have your lineup set, but here's the chance to sub some players if you want to get the kids some playing time, or if you're worried about player attitudes and want to put the happy ones in for luck, this is the chance. (Players who are in a bad mood won't play as well as if they're in a good mood, so if you have a roughly equivalent player, it's a good idea to play the one in the better mood.)
 
-![lineup confirmation](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/Playing-Games/Pregame-Sequence/5-lineup.png)
+Additionally, be careful about starting the same pitcher over and over. There is a penalty to not resting starting pitchers, so early in the tournament, or anytime you're playing a weaker team, start one of your lesser pitchers, and consider getting some of the non-starters some innings and ABs by starting them.
+
+![lineup changes](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/Playing-Games/Pregame-Sequence/6-lineup-changes.png)
 
 ### Game Time
 When you select the top button ({% jishoSearch "試合開始" %}), the game will begin.
 
-![lineup changes](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/Playing-Games/Pregame-Sequence/6-lineup-changes.png)
+![lineup confirmation](/assets/images/games/Prospi/Prospi20242025/HakkyuNoKiseki/Gameplay/Playing-Games/Pregame-Sequence/5-lineup.png)
 
 </article>
