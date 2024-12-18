@@ -37,6 +37,7 @@ layout: game
 
 ## Instructions and Help
 [The Main Game Loop](./General/Main-Game-Loop)
+[Star Player Settings](./General/Star-Player-Settings)
 {# [Dashboard and Smartphone](./General/Dashboard-Smartphone)
 [In-Game Help](./General/Official-Help)
 [General Tips](<./General>)
@@ -44,8 +45,8 @@ layout: game
 [Helpful Videos](./General/Helpful-Videos) <span class="badge badge-primary">New</span> #}
 
 ## Regular Play
-
 ### Practices
+[Practice Settings](./General/Setting-Practice-Orders)
 {# [Choosing Player Activities](./General/Player-Activities)
 [Practicing and Activities](./General/Practicing) #}
 
