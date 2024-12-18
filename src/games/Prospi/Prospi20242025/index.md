@@ -39,6 +39,7 @@ eleventyNavigation:
 ## Modes
 [Grand Prix](./Modes/GrandPrix)
 [Hakkyuu no Kiseki](Modes/HakkyuuNoKiseki)
+[Star Player](./Modes/Star-Player)
 
 ## Videos
 [Helpful Videos](./General/Helpful-Videos)
@@ -51,4 +52,5 @@ eleventyNavigation:
 2024-12-02 [Survey 4](./General/Updates/2024-12-02-4th-Survey)
 2024-12-09 [Survey 5](./General/Updates/2024-12-09-5th-Survey)
 2024-12-13 [Update 1.4.0](./General/Updates/2024-12-17-Update-1.4.0)
+2024-12-16 [Survey 6](./General/Updates/2024-12-17-6th-Survey)
 </article>
