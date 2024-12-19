@@ -62,7 +62,7 @@ Here's what we see on the screen:
   - Physical ({% jisho "フィジカル" %})
   - General Practice ({% jisho "総合練習" %})
 
-4. **Practice intensity and fatigue:** You can select how intense you workout, with more intense workouts leading to greater gains but also making your player more tired.
+4. **Practice intensity and fatigue:** You can select how intense you work out, with more intense workouts leading to greater gains but also making your player more tired.
 ![the fatigue-intensity block on the practice page][2]
 In the block above, I have the middle intensity level selected. Below, I have zero fatigue, which gives me the very happy mood. As days go by and fatigue accumulates, mood will decrease. Below the fatigue and mood bar is 「{% jishoSearch "10試合経過時の疲労目安" %}」, telling me that after 10 games, I'll accumulate 15% fatigue. Through other means, the player can get into better fitness levels so that higher intensity practices and playing in games doesn't fatigue the player as much.
 1. **Practice intensity options:** You can choose how strong to practice, affecting the practice benefits and fatigue accumulation.
