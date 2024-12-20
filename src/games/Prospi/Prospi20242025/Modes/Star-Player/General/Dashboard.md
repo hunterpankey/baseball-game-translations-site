@@ -62,7 +62,7 @@ The top section contains general information about the date, your player, and va
 ## Top-Right Section
 ![top-right section][3]
 
-The button prompts are to press square to edit information, and press X to select the currently selected item.
+The button prompts are to press square to cycle through information pages in the bottom-right, and press X to select the currently selected item.
 
 Below, the fatigue level and mood are shown. Okudaira is in an excellent mood and isn't tired at all (well, 1% tired).
 
@@ -81,13 +81,19 @@ At the top is a reference to the player's savings ({% jisho "貯金" %}). Below 
 
 There are five pages to this view. The page shown is the game schedule ({% jisho "試合日記" %}). Today's 3/30 game against the Swallows is in the top row with another game against them tomorrow. April 1st is an off day ({% jisho "休日" %})/action day ({% jisho "行動" %}{% jisho "日" %}), with a series against the Giants next, and Hiroshima Carp after that.
 
+Other pages show: 
+* Basic stats like games played, batting average, and home runs with league ranking to the right
+* Team standings for Central and Pacific Leagues
+* Player status like star level, mood, and practice settings
+* Standard player detail card with various letter grades.
+
 ## Middle Section
 ![middle menu section][6]
 The middle section has all the menus and selections in this mode. Menu details will be covered in other pages. In order from left to right, the menus are:
 * Game ({% jisho "試合" %}) - Play the next game or advance the day.
 * Relationships and Items ({% jisho "プライベート" %}) - View friends and player relationships or use an item, including books, games, etc.
 * Training ({% jisho "トレーニング" %}) - Set the practice program for your player.
-* My Information ({% jisho "マイ情報" %}) - View your player's information.
+* My Information ({% jisho "マイ情報" %}) - View your player's information like personal data, star level details, and missions.
 * Leaderboards ({% jisho "球界情報" %}) - Check the standings, pitching and batting leaderboards and other stats, and see the current award voting.
 * Calendar ({% jisho "カレンダー" %}) - Look at the game calendar with opponents, win/loss/tie dots, action days, and skip to a future date.
 * System ({% jisho "システム" %}) - Load and save the game, change game settings, and other system-level options.

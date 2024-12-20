@@ -49,7 +49,7 @@ layout: game
 {# [Choosing Player Activities](./General/Player-Activities)
 [Practicing and Activities](./General/Practicing) #}
 
-### Games
+### Gameplay
 Information about actually playing games and how the regular season, practice games, and other games work in the Star Player mode.
 
 {# [Tournament Lifecycle](./Gameplay/Tournament-Bracket-Selection) <span class="badge badge-primary">Updated</span>
@@ -88,7 +88,7 @@ Gym
 [Schedule Improvement](./Activities/Schedule-Improvement)
 [Study Hall](./Activities/Study-Hall) #}
 
-### Monthly Schedule
+{# ### Monthly Schedule #}
 {# [Calendar Dates and Holidays](./General/Holidays-Key-Dates)
 *Note: Some dates will fluctuate slightly from year to year.* #}
 
