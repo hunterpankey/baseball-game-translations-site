@@ -1,6 +1,6 @@
 ---
 title: Bookstore Shopping Activity
-date: 2024-12-17
+date: 2024-12-20
 author: hunter-baun
 excerpt: Let's go shopping at the bookstore
 series:
@@ -65,7 +65,7 @@ Adventure novel - "Grief Walker" - 2000 yen - Available for purchase
 **In the status bar at the bottom:**
 {% japanese %}使用することで進行度が進み、進行度が完了すると趣味熟練度、ステータスが上昇します。０個所持。あと１個購入可能。{% endjapanese %}
 
-You can progress by using it, and when the progress is complete, your hobby proficiency and status will increase. 0 units owned. 1 more to purchase.
+You can progress by using it, and when the progress is complete, your hobby proficiency and status will increase. 0 units owned. 1 available to purchase.
 
 ![purchase confirmation screen][4]
 

@@ -64,6 +64,7 @@ Non-practice activities that provide various benefits on your weekly day off.
 
 #### Shopping
 [Bookstore](./Activities/Bookstore)
+[Game Shop](./Activities/Game-Shop)
 
 {# #### Town Activities
 *Note: These are in order as they appear in the screen in game.*
