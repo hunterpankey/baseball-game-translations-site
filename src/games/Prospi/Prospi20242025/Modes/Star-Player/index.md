@@ -62,13 +62,14 @@ Information about actually playing games and how the regular season, practice ga
 ### Activities
 Non-practice activities that provide various benefits on your weekly day off.
 
+#### Shopping
+[Bookstore](./Activities/Bookstore)
+
 {# #### Town Activities
 *Note: These are in order as they appear in the screen in game.*
 
-[Yorozuya](./Activities/Yorozuya)
 [Baseball Stadium](./Activities/Stadium)
 [Convenience Store](./Activities/Konbini)
-[Bookstore](./Activities/Bookstore)
 [Sports Store](./Activities/Sports-Store)
 [Home Center](./Activities/Home-Center)
 [Hospital](./Activities/Hospital)
