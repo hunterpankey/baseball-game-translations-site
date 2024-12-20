@@ -38,7 +38,7 @@ layout: game
 
 ## Instructions and Help
 [Star Player Settings](./General/Star-Player-Settings)
-
+[Dashboard](./General/Dashboard)
 {# [General Tips](<./General>)
 [Official FAQ Translated](./General/FAQ)
 [Helpful Videos](./General/Helpful-Videos) <span class="badge badge-primary">New</span> #}
