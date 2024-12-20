@@ -66,6 +66,9 @@ Non-practice activities that provide various benefits on your weekly day off.
 [Bookstore](./Activities/Bookstore)
 [Game Shop](./Activities/Game-Shop)
 
+#### Restaurants
+[Hamburger Restaurant](./Activities/Hamburger-Restaurant)
+
 {# #### Town Activities
 *Note: These are in order as they appear in the screen in game.*
 
