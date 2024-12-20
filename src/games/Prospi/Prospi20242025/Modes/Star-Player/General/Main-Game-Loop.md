@@ -17,11 +17,11 @@ draft:
 seo:
   title: Main Game Loop
   description: So what do you actually do in the Star Player mode?
-  image: games/Prospi/Prospi20242025/general/stadiums/stadium-dragons-4.png
+  image: games/Prospi/Prospi20242025/Star-Player/Heading-Images/heading-yokohama.png
 images: # relative to /src/assets/images/
-  feature: games/Prospi/Prospi20242025/general/stadiums/stadium-dragons-4.png
-  thumb: games/Prospi/Prospi20242025/general/stadiums/stadium-dragons-4.png
-  slide: games/Prospi/Prospi20242025/general/stadiums/stadium-dragons-4.png
+  feature: games/Prospi/Prospi20242025/Star-Player/Heading-Images/heading-yokohama.png
+  thumb: games/Prospi/Prospi20242025/Star-Player/Heading-Images/heading-yokohama.png
+  slide: games/Prospi/Prospi20242025/Star-Player/Heading-Images/heading-yokohama.png
   align: object-bottom
 tags:
   - game

@@ -14,11 +14,11 @@ draft:
 seo:
   title: Star Player Mode
   description: How to play Star Player mode (White Ball Miracle mode) in Prospi 2024-2025
-  image: games/Prospi/Prospi20242025/general/school-courtyard.png
+  image: games/Prospi/Prospi20242025/general/clouds.png
 images: # relative to /src/assets/images/
-  feature: games/Prospi/Prospi20242025/general/school-courtyard.png
-  thumb: games/Prospi/Prospi20242025/general/school-courtyard.png
-  slide: games/Prospi/Prospi20242025/general/school-courtyard.png
+  feature: games/Prospi/Prospi20242025/general/clouds.png
+  thumb: games/Prospi/Prospi20242025/general/clouds.png
+  slide: games/Prospi/Prospi20242025/general/clouds.png
 tags:
   - game
   - baseball
@@ -33,13 +33,12 @@ layout: game
 <article class="prose max-w-xl lg:max-w-4xl lg:prose-lg">
 
 ## Getting Started
-{# [Choosing a Prefecture](<./Start/Choosing-a-Prefecture>) #}
+[In-Game Help](./General/Official-Help)
+[The Main Game Loop](./General/Main-Game-Loop)
 
 ## Instructions and Help
-[The Main Game Loop](./General/Main-Game-Loop)
 [Star Player Settings](./General/Star-Player-Settings)
-[In-Game Help](./General/Official-Help)
-{# [Dashboard and Smartphone](./General/Dashboard-Smartphone) #}
+
 {# [General Tips](<./General>)
 [Official FAQ Translated](./General/FAQ)
 [Helpful Videos](./General/Helpful-Videos) <span class="badge badge-primary">New</span> #}

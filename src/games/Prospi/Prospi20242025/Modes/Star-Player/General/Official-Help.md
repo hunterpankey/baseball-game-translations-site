@@ -17,11 +17,11 @@ draft:
 seo:
   title: Official Help
   description: Official help details from within the game
-  image: games/Prospi/Prospi20242025/general/stadiums/stadium-dragons-2.png
+  image: games/Prospi/Prospi20242025/Star-Player/Heading-Images/heading-nagoya.png
 images: # relative to /src/assets/images/
-  feature: games/Prospi/Prospi20242025/general/stadiums/stadium-dragons-2.png
-  thumb: games/Prospi/Prospi20242025/general/stadiums/stadium-dragons-2.png
-  slide: games/Prospi/Prospi20242025/general/stadiums/stadium-dragons-2.png
+  feature: games/Prospi/Prospi20242025/Star-Player/Heading-Images/heading-nagoya.png
+  thumb: games/Prospi/Prospi20242025/Star-Player/Heading-Images/heading-nagoya.png
+  slide: games/Prospi/Prospi20242025/Star-Player/Heading-Images/heading-nagoya.png
   align: object-top
 tags:
   - game

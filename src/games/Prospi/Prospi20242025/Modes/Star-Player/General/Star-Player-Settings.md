@@ -17,12 +17,12 @@ draft:
 seo:
   title: Star Player Options
   description: How can you change how the Star Player mode works?
-  image: games/Prospi/Prospi20242025/general/stadiums/stadium-dragons-3.png
+  image: games/Prospi/Prospi20242025/Star-Player/Heading-Images/heading-kobe-nishinomiya.png
 images: # relative to /src/assets/images/
-  feature: games/Prospi/Prospi20242025/general/stadiums/stadium-dragons-3.png
-  thumb: games/Prospi/Prospi20242025/general/stadiums/stadium-dragons-3.png
-  slide: games/Prospi/Prospi20242025/general/stadiums/stadium-dragons-3.png
-  align: object-bottom
+  feature: games/Prospi/Prospi20242025/Star-Player/Heading-Images/heading-kobe-nishinomiya.png
+  thumb: games/Prospi/Prospi20242025/Star-Player/Heading-Images/heading-kobe-nishinomiya.png
+  slide: games/Prospi/Prospi20242025/Star-Player/Heading-Images/heading-kobe-nishinomiya.png
+  align: object-center
 tags:
   - game
   - baseball
