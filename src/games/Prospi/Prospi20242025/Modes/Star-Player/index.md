@@ -38,9 +38,9 @@ layout: game
 ## Instructions and Help
 [The Main Game Loop](./General/Main-Game-Loop)
 [Star Player Settings](./General/Star-Player-Settings)
-{# [Dashboard and Smartphone](./General/Dashboard-Smartphone)
 [In-Game Help](./General/Official-Help)
-[General Tips](<./General>)
+{# [Dashboard and Smartphone](./General/Dashboard-Smartphone) #}
+{# [General Tips](<./General>)
 [Official FAQ Translated](./General/FAQ)
 [Helpful Videos](./General/Helpful-Videos) <span class="badge badge-primary">New</span> #}
 
