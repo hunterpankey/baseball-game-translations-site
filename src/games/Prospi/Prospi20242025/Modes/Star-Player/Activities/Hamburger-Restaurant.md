@@ -17,12 +17,12 @@ draft:
 seo:
   title: Hamburger Restaurant Activity
   description: Let's go shopping at the hamburger-restaurant
-  image: games/Prospi/Prospi20242025/Star-Player/Heading-Images/heading-baystars-stands-2.png
+  image: games/Prospi/Prospi20242025/Star-Player/Activities/Hamburger-Restaurant/activity-hamburger-restaurant-2.png
 images: # relative to /src/assets/images/
-  feature: games/Prospi/Prospi20242025/Star-Player/Heading-Images/heading-baystars-stands-2.png
-  thumb: games/Prospi/Prospi20242025/Star-Player/Heading-Images/heading-baystars-stands-2.png
-  slide: games/Prospi/Prospi20242025/Star-Player/Heading-Images/heading-baystars-stands-2.png
-  align: object-bottom
+  feature: games/Prospi/Prospi20242025/Star-Player/Activities/Hamburger-Restaurant/activity-hamburger-restaurant-2.png
+  thumb: games/Prospi/Prospi20242025/Star-Player/Activities/Hamburger-Restaurant/activity-hamburger-restaurant-2.png
+  slide: games/Prospi/Prospi20242025/Star-Player/Activities/Hamburger-Restaurant/activity-hamburger-restaurant-2.png
+  align: object-center
 tags:
   - game
   - baseball

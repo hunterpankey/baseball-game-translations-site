@@ -17,11 +17,11 @@ draft:
 seo:
   title: Game Shop Shopping Activity
   description: Let's go buy some video games!
-  image: games/Prospi/Prospi20242025/Star-Player/Heading-Images/heading-baystars-stands-1.png
+  image: games/Prospi/Prospi20242025/Star-Player/Activities/Game-Shop/activity-game-shop-7.png
 images: # relative to /src/assets/images/
-  feature: games/Prospi/Prospi20242025/Star-Player/Heading-Images/heading-baystars-stands-1.png
-  thumb: games/Prospi/Prospi20242025/Star-Player/Heading-Images/heading-baystars-stands-1.png
-  slide: games/Prospi/Prospi20242025/Star-Player/Heading-Images/heading-baystars-stands-1.png
+  feature: games/Prospi/Prospi20242025/Star-Player/Activities/Game-Shop/activity-game-shop-7.png
+  thumb: games/Prospi/Prospi20242025/Star-Player/Activities/Game-Shop/activity-game-shop-7.png
+  slide: games/Prospi/Prospi20242025/Star-Player/Activities/Game-Shop/activity-game-shop-7.png
   align: object-center
 tags:
   - game
