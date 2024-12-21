@@ -4,7 +4,7 @@
   <subtitle>Game translations for Japanese baseball games to help people play</subtitle>
   <link href="http://localhost:8088"/>
   <link href="http://localhost:8088/feed.xml" rel="self"/>
-  <updated>2024-12-17T17:15:00Z</updated>
+  <updated>2024-12-20T19:00:00Z</updated>
   <id>http://localhost:8088</id>
   <author>
     <name>Hunter Baun</name>
@@ -287,6 +287,30 @@ I started the Star Player mode a couple of days ago and have a couple of pages r
 &lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/General/Updates/2024-12-17-6th-Survey/&quot;&gt;6th Survey News Translation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;There’s still a bunch of stuff that I don’t know about Star Player mode, so by all means, check my info and correct me if there’s something wrong or let me know more details about how something works if something needs to be added. I’ll be adding more as I play more and find out more. Have fun out there!&lt;br /&gt;
+–HB&lt;/p&gt;
+&lt;/article&gt;</content>
+    </entry>
+    
+    <entry>
+      <title>Site Updates - December 20, 2024</title>
+      <link href="http://localhost:8088/2024/12/20/site-updates-december-20-2024/"/>
+      <updated>2024-12-20T19:00:00Z</updated>
+      <id>http://localhost:8088/2024/12/20/site-updates-december-20-2024/</id>
+      <content type="html">&lt;article class=&quot;prose max-w-xl lg:max-w-4xl lg:prose-lg&quot;&gt;
+Star Player mode continues apace! I&#39;m still learning a lot about it, but I have some good updates here.
+&lt;h2 id=&quot;new-pages&quot; tabindex=&quot;-1&quot;&gt;New Pages &lt;a class=&quot;header-anchor&quot; href=&quot;http://localhost:8088/2024/12/20/site-updates-december-20-2024/#new-pages&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/Star-Player/General/Official-Help/&quot;&gt;Star Player - Official In-game Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/Star-Player/Activities/Bookstore/&quot;&gt;Star Player - Bookstore Activity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/Star-Player/Activities/Game-Shop/&quot;&gt;Star Player - Game Shop Activity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/Star-Player/Activities/Hamburger-Restaurant/&quot;&gt;Star Player - Hamburger Restaurant Activity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://localhost:8088/games/Prospi/Prospi20242025/Modes/Star-Player/General/Dashboard/&quot;&gt;Star Player - Main Dashboard Explanation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;updates&quot; tabindex=&quot;-1&quot;&gt;Updates &lt;a class=&quot;header-anchor&quot; href=&quot;http://localhost:8088/2024/12/20/site-updates-december-20-2024/#updates&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;I started pulling out the city images from the date/travel cards and updated some of the existing SP pages with new images.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I probably need to bump up the difficulty. I’m hitting .500 with 20 HR in April. Fun to hit bombs, though!&lt;br /&gt;
 –HB&lt;/p&gt;
 &lt;/article&gt;</content>
     </entry>
