@@ -72,7 +72,7 @@ Below, the fatigue level and mood are shown. Okudaira is in an excellent mood an
 At the top is a reference to the player's savings ({% jisho "貯金" %}). Below that is information about today's game:
 * The game is a Central League ({% jishoSearch "セ・リーグ" %}) regular season game {% jisho "公式戦" %}.
 * The game is against the Yakult Swallows, and we're the visitors (listed second).
-* This is the Swallows' 4th game of the season ({% jisho "4位" %}), and our first ({% jisho "1位" %}).
+* The Swallows are in 4th place ({% jisho "4位" %}), and the Dragons are in 1st place ({% jisho "1位" %}).
 * The Swallows starting pitcher is {% link "Miguel Yajure", "https://npb.jp/bis/eng/players/33035159.html", true %} (「ヤフーレ」), and the Dragons starting pitcher is {% link "Shinnosuke Ogasawara", "https://npb.jp/bis/eng/players/71575132.html", true %}.
 * The game will be played at the Meiji Jingu Stadium ({% jishoSearch "明治神宮野球場" %}) at 2 p.m.
 
